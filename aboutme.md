@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
+Hi, I'm Beren.
 
-My name is Inigo Montoya. I have the following qualities:
+I'm currently a PhD student at the University of Edinburgh in Machine Learning and Computational Neuroscience. This blog will be about AI,
+neuroscience, technology, mathematical models of social dynamics, strategy, and anything else I find interesting.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you want, contact me at: s1686853@sms.ed.ac.uk
