@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Regularising Utility Functions"
+title: "Thoughts on the Election"
 ---
 
 Generally I'm going to try to be apolitical in this blog, but obviously a very important election has just happened and there are a few interesting (for me!) points. Hopefully they will be relatively apolitical (on the object level). I'll also talk about my take on party strategy and future for all sides in a hopefully relatively unbiased way.
@@ -43,13 +43,13 @@ Thoughts on strategies for the major parties going forward:
   * a.) accept the loss of working class heartlands and focus on increasingly core demographics of urban knowledge workers, students, and immigrants.
   * b.) refocus their efforts on winning back the working class heartlands against the now one-nation tories. This tension has existed and built in the party all through this decade and now it has come to a head.
   Advantages with a.)
-    * - Have a clear message on Brexit, social policies, economic policies etc
-    * - Ties closely with natural demographics and tendencies of MPs/media etc
-    * - Not tied to (now-judged-to-be-failed) political program of Corbyn.
+     - Have a clear message on Brexit, social policies, economic policies etc
+     - Ties closely with natural demographics and tendencies of MPs/media etc
+     - Not tied to (now-judged-to-be-failed) political program of Corbyn.
   Disadvantages with a.)
-    * - Cedes naturally labour voting groups to tories
-    * - Unclear if they have demographics sufficient for majority with their new core. 
-    * - In stringent competition with lib-dems for same demographics.
+    - Cedes naturally labour voting groups to tories
+    - Unclear if they have demographics sufficient for majority with their new core. 
+    - In stringent competition with lib-dems for same demographics.
     
    Especially immediately after the election we can expect vast pressure within Labour to go with a.) and repudiate corbynism and take Labour away from working class roots.
    In my opinion this is a strategic mistake since it essentially gives the tories their old heartlands for free (which would otherwise be very difficult for them to consolidate)
@@ -57,11 +57,11 @@ Thoughts on strategies for the major parties going forward:
    We will also see calls towards "moderation" i.e. Blairism again. This may or may not work. It depends on how well the tories do of holding their labour's old heartlands and with the economy etc.
    
    If they go after their heartlands with a more pro-brexit message then these are advantages/disadvantages:
-   Advantages:
-    * - Can potentially win back all losses in 2025 when no major wedge issue like Brexit is likely to be on the table
-   Disadvantages:
-    * - May alienate urban/student demographics
-    * - Harder to compete with lib dems here. May undermine this strategy completely. Potential result if they go all-in on this strategy is a coalition government with the lib-dems.
+   *  Advantages:
+      - Can potentially win back all losses in 2025 when no major wedge issue like Brexit is likely to be on the table
+   *  Disadvantages:
+      - May alienate urban/student demographics
+      - Harder to compete with lib dems here. May undermine this strategy completely. Potential result if they go all-in on this strategy is a coalition government with the lib-dems.
     
    The primary issues for Labour is defining its identity, and dealing with their competition over core demographics with the lib-dems. The lib-dem challenge may or may not be severe in 2025.
    This depends largely on the effectiveness of lib-dem leadership after this election. Potential pacts/mergers would be of a large benefit to labour to prevent damaging vote-splitting
@@ -71,17 +71,19 @@ Thoughts on strategies for the major parties going forward:
    Personally I expect the Tories to do worse and Labour to do significantly better in the next election, if for no other reason than regression to the mean. Tales of Labour's demise are greatly exaggerated in the heat of the moment.
   
 **Tories:**
-  Have won a substantial victory but now have to a.) actually implement and succeed at Brexit and related promises. 2.) Consolidate their gains against labour in working class northern areas.
-  These are by no means guaranteed in the future, especially if labour make a strong attack on them again and this time without the brexit wedge issue. There is still a substantial danger they will lose their gains come 2025.
+  Have won a substantial victory but now have to:
+  * 1.) actually implement and succeed at Brexit and related promises. 
+  * 2.) Consolidate their gains against labour in working class northern areas.
+ These are by no means guaranteed in the future, especially if labour make a strong attack on them again and this time without the brexit wedge issue. There is still a substantial danger they will lose their gains come 2025.
   There are three key threats the tories face:
     * 1.) Failed brexit negotiations. If Brexit fails in that the economy really suffers OR negotiations drag on forever then this will put tories in a tough position
     and may reverse many of their gains.
     * 2.) Scotland. Dealing with the SNP is going to be a key issue of 2020-2024 period. Key aim is to deny scotland a second referendum while working to push through brexit to remove that wedge
     and make it irrevocable while offering other concessions to calm SNP ardour. Delay must be the watchword with Scotland. Any delay on a second referendum is good (assuming a good brexit outcome)
-    3.) Failure to consolidate/keep current coalition together for 2024. The current coalition of "leave voters" is likely unstable without the unifying issue of Brexit.
+    * 3.) Failure to consolidate/keep current coalition together for 2024. The current coalition of "leave voters" is likely unstable without the unifying issue of Brexit.
     A key post-brexit strategic issue must be finding some common ground emotionally resonant enough to keep this coalition together against Labour attacks.
-    4.) Major economic crash at an inconvenient time. If there is to be a crash then a crash in the next two years or so, early in their term is best. To ride out the crisis. A crash right at the end
-    near the election would be majorly problematic for them. We are likely overdue some kind of correction (the great depression being now 13 years ago(!)), although it will likely be less severe than that depression.
+    * 4.) Major economic crash at an inconvenient time. If there is to be a crash then a crash in the next two years or so, early in their term is best. To ride out the crisis. A crash right at the end
+    near the election would be majorly problematic for them. We are likely overdue some kind of correction (the great recession being now 13 years ago(!)), although it will likely be less severe than that depression.
     If Brexit brings on a small crash that would actually probably be beneficial as a sort of economic innoculation.
     
    The Tories do have an easier job though. They are victorious but that brings dangers of falling into internal factional fighting, ideas of invincibility and dragging their feet.
@@ -90,23 +92,23 @@ Thoughts on strategies for the major parties going forward:
    Key issues for next few years must not be on electioneering. The best thing they can do is institute sound and effective governance. "Get Brexit Done" successfully
    pacify Scotland, work out a winning formula for keeping together their coalition, and improving the state and economy for all. That is what will win them 2024 more than anything else.
    
-  Lib dems:
+**Lib dems:**
     Once again they have to consider the future of their party. Their strategy of targeting strong remain demographics worked out well in raw vote numbers
     but lead to a lot of catastrophic vote splitting and relatively few seats due to FPTP. If labour also goes after their demographic with a-vengeance we will see strong competition, likely resulting in the oblivion or merger of the lib-dems.
     If Labour tries to appeal again to their heartlands we will see a resurgence of the Lib-Dems, perhaps to form a minor part in a future Labour-Lib-Dem coalition.
     If Labour continue on a compromise track, neither will be especially successful but they will keep eking out a minor existence. Lib-dem success in future depends primarily on the charisma of whoever
     ends up as the new leader, and their ability to appeal to their core demographics.
 
-Predictions for 2024:
-  -  Brexit actually occurs: 90%
-   - No second scottish referendum before 2024 election: 70%
-   - Non-truly-disastrous Brexit: 80%
-   - Less fervent election than this time around: 70%
-   - Labour focuses strongly on heartlands/momentum takes control: 30%
-   - Labour fights on compromised middle position - 60%
-   - Labour explicitly/implicitly abandons heartlands to tories 10%
-   - Lib-dems major force in 2025 i.e. > 20 seats: 10%
-   - Brexit party/right wing populism >= influential as today: 15%
-   - Tory victory in 2025: 55%
+**Predictions for 2024:**
+   - Brexit actually occurs: **90%**
+   - No second scottish referendum before 2024 election: **70%**
+   - Non-truly-disastrous Brexit: **80%**
+   - Less fervent election than this time around: **70%**
+   - Labour focuses strongly on heartlands/momentum takes control: **30%**
+   - Labour fights on compromised middle position - **60%**
+   - Labour explicitly/implicitly abandons heartlands to tories **10%**
+   - Lib-dems major force in 2025 i.e. > 20 seats: **10%**
+   - Brexit party/right wing populism >= influential as today: **15%**
+   - Tory victory in 2025: **55%**
    
    
