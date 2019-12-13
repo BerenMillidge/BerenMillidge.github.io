@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Regularising Utility Functions"
+---
+
 Generally I'm going to try to be apolitical in this blog, but obviously a very important election has happened and there are a few interesting (for me!) points
 that I think are still relatively apolitical and which people on all sides of the spectrum should be able to agree on. I'll also talk about my take on party strategy and future
 for all sides in a hopefully relatively unbiased way.
