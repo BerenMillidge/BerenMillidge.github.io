@@ -28,7 +28,7 @@ where actions are faster or of the same order of magnitude duration as orientati
 where the downstream effects of actions are predictable to at least the first order, and where actions are rapidly reversible and don't have high costs, but also have immediate strong effects.
 
 Let's look at these conditions in turn. It is worth noting that these conditions apply in many military situations, potentially up to the level of theatre strategy (i.e. in Blitzkriegs)
-and extremely well in Boyd's initial domain - air-to-air dogfights. They also apply to some business situations, especially at lower levels, most sports and games, and 
+and extremely well in Boyd's initial domain -- air-to-air dogfights. They also apply to some business situations, especially at lower levels, most sports and games, and 
 diplomacy at some level. First though I want to go through why I think these conditions limit the applicability of the theory to certain situations.
 
 1.) Actions are faster or of the same order of magnitude as orientation:
@@ -57,14 +57,14 @@ diplomacy at some level. First though I want to go through why I think these con
   Generally strategy and effective action can *only* procede when such a model of the domain is available. Anything before that happens is not really a strategy in a full sense.
   
   4.) Actions must have large effects. 
-    - Rapid transients are required both to be rapid *and* to have small effect sizes. There is not much point in rapid action if your actions don't do much.
+    * - Rapid transients are required both to be rapid *and* to have small effect sizes. There is not much point in rapid action if your actions don't do much.
   This just results in strategic flailing. The idea of the OODA loop is NOT to flail around doing lots of things randomly. It is to have a well considered strategy, and execute it and adapt on it
   rapidly. The military equivalent of this would be marching troops quickly back and forth around randomly without any specific objective. This might well *confuse* the adversary, but not really do much damage or be a good strategy. 
   
 Supposing all the conditions of the OODA loop are met. What then? The idea must be to optimize various aspects of the loop for speed and effective action. In general there are three key places in the loop to optimize:
- * - The rapidity with which informative observations are sampled and conveyed to the orienting phase.
- * - The rapidity with which orientation can take place and decisions made
- * - The rapidity with which actions can be executed.
+ *  The rapidity with which informative observations are sampled and conveyed to the orienting phase.
+ *  The rapidity with which orientation can take place and decisions made
+ *  The rapidity with which actions can be executed.
  
  In the first case, getting observations and data to where they are needed fastest is crucial. While only a minor part of contests with direct sensory contact with the environment (i.e. in a jet fighter), this is a very important factor in any kind of decision-making within large organizations. One of the major advantages of small organizations is that observations can be conveyed to the top very quickly, while in larger organizations they are typically filtered through multiple layers. The CEO is often the last person to know about important changes in environment. The ways to ameliorate this are pretty well known. There must be rapid channels of information transfer right to the top. Must be a combination of formal and informal channels. Upper management cannot become too disconnected from day to day concerns as else they will also lose the metic knowledge of changing conditions on lower levels. 
  
