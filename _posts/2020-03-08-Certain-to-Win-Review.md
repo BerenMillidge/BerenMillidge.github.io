@@ -35,25 +35,27 @@ In the book there is, for instance, a good example of cheng/ch'i tactics from Su
 
 Despite all the ideas and talk about strategy, this is primarily a book about culture. Chet goes deep into explaining the cultural fundamentals required of any high performance organisation which is going to be able to successfully implement any strategy of maneuver warfare.
 He breaks this down into 4 key cultural fundamentals which he argues are required for a high performance organisation. The traits all have german names since they are inspired by the theory of blitzkrieg expounded by german generals after the war. They are:
-1.) *einheit* -- mutual trust. This is the key cultural fundamental underlying all others. Everyone at the company must trust (in general) everybody else. This means that the managers trust the workers and vice versa, and everybody trusts the CEO who also trust all the managers and workers.
+
+1.) *Einheit* -- mutual trust. This is the key cultural fundamental underlying all others. Everyone at the company must trust (in general) everybody else. This means that the managers trust the workers and vice versa, and everybody trusts the CEO who also trust all the managers and workers.
 Trust is fundamental to maneuver warfare because the goal is fundamentally rapid action and orientation. This requires subordinates to be able to take initiative and act creatively in unknown circumstances. This can only happen when leaders trust subordinates to do the right thing, and subordinates trust leaders to treat them fairly, to fairly assign credit, and not to react unfairly to failed enterprise.
 Trust cannot be simply wished into existence by a mission statement or a teambuilding exercise. It must arduously be built through constant examples of trustworthy behaviour. The company must always 'do the right thing' and never cut corners. Everybody must trust everybody else to put the good of the whole above their own selfish good and this must be directly incentivised and broadcast.
 
 Maintaining einheit is the most fundamental step in building a culture. Without it, all is lost. Chet offers a simple recipe for building trust -- be trustworthy. There is no other way. People are not dumb. You cannot fool them forever. The best and only long-term way to have trust it to be trustworthy. This means:
-  - open communication. Running an organisation purely on a need to know basis rapidly erodes trust. 
-  - shared sacrifice - if the company is hitting tough times or sacrifices have to be made, they must be borne equally by everyone (if not disproportionately by the highest ranks). People can tolerate sacrifice as long as its evenly distributed. But there is nothing worse than being forced to sacrifice while the other guy is running off with all the loot. 
+  - Open communication. Running an organisation purely on a need to know basis rapidly erodes trust. 
+  - Shared sacrifice - if the company is hitting tough times or sacrifices have to be made, they must be borne equally by everyone (if not disproportionately by the highest ranks). People can tolerate sacrifice as long as its evenly distributed. But there is nothing worse than being forced to sacrifice while the other guy is running off with all the loot. 
   - Status equality within the company. No business 'cast systems' or 'perks' which are really demeanours for everybody without the perk.
   - No micromanagement or adversarial policies. These are prime demonstrations to the worker that the company doesn't trust them, and if it doesn't trust them, why should they trust it.
-  - The best constructor of einheit in total is shared struggle and sacrifice. Friendships and trust forged in 'the crucible' of whatever challenge will be exceptionally strong. 
+  - The best constructor of einheit is shared struggle and sacrifice. Friendships and trust forged in 'the crucible' of whatever challenge will be exceptionally strong. 
  
-2.) *fingerspitzengefuhl* -- intuitive competence. This is tacit skill or knowledge. The kind of intuitive and subcounscious skill that experts naturally have in their domain which looks like magic to the untrained. Companies must build and train their employees to have this in their domain and moreover, given trust, rely it to solve the big problems.
-3.) *auftrag* -- perhaps the most interesting cultural competence. Auftrag is the idea of a mission as a contract. There should be no direct orders. Rather every 'order' is phrased as a contract between leader and subordinate which both must agree to and neither is forced.
+2.) *Fingerspitzengefuhl* -- intuitive competence. This is tacit skill or knowledge. The kind of intuitive and subcounscious skill that experts naturally have in their domain which looks like magic to the untrained. Companies must build and train their employees to have this in their domain and moreover, given trust, rely it to solve the big problems.
+
+3.) *Auftrag* -- perhaps the most interesting cultural competence. Auftrag is the idea of a mission as a contract. There should be no direct orders. Rather every 'order' is phrased as a contract between leader and subordinate which both must agree to and neither is forced.
 The terms of the contract are: 
-  - The leader shall set out the broad goal of the mission. They shall provide as best resources and information as are available and required. They shall explain in detail their reasoning and goals behind the order (and the subordinate is free to disagree). They shall set a mission which they believe to be within the subordinates abilities. The leader shall not micromanage or otherwise meddle during the mission.
-  - The subordinate shall use their own initiative to do whatever it takes to see that the mission is accomplished. They shall speedily and unbiasedly report progress and problems upwards. They shall make on the spot decisions without waiting for orders in line with the tradeoffs implicit in the leaders reasoning and goals.
+  -- The leader shall set out the broad goal of the mission. They shall provide as best resources and information as are available and required. They shall explain in detail their reasoning and goals behind the order (and the subordinate is free to disagree). They shall set a mission which they believe to be within the subordinates abilities. The leader shall not micromanage or otherwise meddle during the mission.
+  -- The subordinate shall use their own initiative to do whatever it takes to see that the mission is accomplished. They shall speedily and unbiasedly report progress and problems upwards. They shall make on the spot decisions without waiting for orders in line with the tradeoffs implicit in the leaders reasoning and goals.
 Key to the use of mission contracts is einheit. Both subordinates and leaders must enter into the contract in good faith, and with full consent to its terms. They must trust that each will uphold the terms to the best of their ability. If trust collapses then an effective auftrag system is one of the first casualties.
 
-4.) Schwerpunkt -- focus point. The goal to which all efforts are dedicated. This is where culture shades into strategy. The designation of the schwerpunkt is fundamentally a question of strategy. Where should the business focus its time and resources, what tradeoffs should be made.
+4.) *Schwerpunkt* -- focus point. The goal to which all efforts are dedicated. This is where culture shades into strategy. The designation of the schwerpunkt is fundamentally a question of strategy. Where should the business focus its time and resources, what tradeoffs should be made.
 The organisation cannot do everything at once and always faces choices and tradeoffs. Having a clearly communicated schwerpunkt that everybody has internalised so they know on-the-spot which tradeoffs to make is vital to effective and unified effort. While each subordinate works on their own initiative, they do so within the wider context of the schwerpunkt set from above. In general for a single 'unit' of the business there should only ever be one goal.
 This decomposes hierarchically so that each layer or sub-unit can have its own schwerpunkt as long as it is harmonised with those above.
 
@@ -62,10 +64,11 @@ Missions should all align with the ultimate schwerpunkt. Within different missio
 This seems intuitively like it should be effective. I'd imagine it is very difficult to achieve uniformly in practice. 
 
 Chet prescribes this simple (but effective-sounding) recipe for effecting the cultural changes required. They are:
-1.) Proclaim the change. Explain its justification and underlying ideas - i.e. basics of maneuver warfare, his book etc.
-2.) Setup cultural change as the schwerpunkt of the organisation for a while. Focus on it in all decisions and communications.
-3.) Set an example of the new culture repeatedly with both actions and deeds. 
-4.) Envorce the new culture uniformly and without exception (after small allowance time for adjustment). Praise and promote those who adhere to the new culture. Dismiss those who do not, but do so generously. At all times adhere to what is right.
+
+-- 1.) Proclaim the change. Explain its justification and underlying ideas - i.e. basics of maneuver warfare, his book etc.
+-- 2.) Setup cultural change as the schwerpunkt of the organisation for a while. Focus on it in all decisions and communications.
+-- 3.) Set an example of the new culture repeatedly with both actions and deeds. 
+-- 4.) Envorce the new culture uniformly and without exception (after small allowance time for adjustment). Praise and promote those who adhere to the new culture. Dismiss those who do not, but do so generously. At all times adhere to what is right.
 
 Basically this is a complete and rapid rewiring of incentives. The direct incentives are to follow the new culture. Enforcement is fair and uniform so there is minimal opportunity for lobbying to avoid it. Exit is easy so that those who are completely opposed will naturally leave rather than conform. Alignment of your own deeds and actions with the new culture builds trust that it will be lasting and sustainable, and so forces people to pay attention. Otherwise it is just the latest fad.
 Having never really managed anything, I'm unsure of how to do better than this. Largely, it seems that good management (not leadership) consists of doing fairly straightforward and obvious things well in a messy human reality.
