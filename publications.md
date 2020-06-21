@@ -17,8 +17,8 @@ paper: https://psyarxiv.com/w8y9p/
 paper: https://arxiv.org/abs/2004.08128
 
 Alexander Tschantz\*, **Beren Millidge\***, Anil Seth, Christopher Buckley (2020) *Reinforcement Learning Through Active Inference* (\* = equal contribution).  
-paper: https://arxiv.org/abs/2002.12636
-code: https://github.com/alec-tschantz/rl-inference
+paper: https://arxiv.org/abs/2002.12636   
+code: https://github.com/alec-tschantz/rl-inference    
 
 **Beren Millidge** (2019) *Deep Active Inference as Variational Policy Gradients*, Published in *Journal of Mathematical Psychology*   
 paper: https://arxiv.org/pdf/1907.03876.pdf  
