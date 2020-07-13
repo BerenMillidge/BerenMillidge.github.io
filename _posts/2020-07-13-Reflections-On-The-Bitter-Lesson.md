@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Initial Thoughts on Boyd and OODA Loops"
+title: "Reflections on the Bitter Lesson"
 ---
 
 Yesterday I was rereading Richard Suttons [Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), especially in light of the enormous recent success of hugely powerful language models (such as GPT3) and RL agents such as Alphago, MuZero, Alphastar, and Agent 57 which all broadly fit the pattern predicted in the post. 
