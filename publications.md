@@ -9,17 +9,21 @@ Here is a list of my current publications. I will try to keep this list up to da
 
 **Reinforcement Learning as Iterative and Amortised Inference** (2020) <br/> **Beren Millidge\***, Alexander Tschantz*, Christopher Buckley <br/> [paper](https://arxiv.org/abs/2006.10524)
 
-**Beren Millidge**, Alexander Tschantz, Christoper Buckley (2020) *Predictive Coding Approximates Backprop Along Arbitrary Computation Graphs*  
+**Predictive Coding Approximates Backprop Along Arbitrary Computation Graphs** (2020) <br/> **Beren Millidge**, Alexander Tschantz, Christopher Buckley <br/>
 [paper](https://arxiv.org/abs/2006.04182)  [code](https://github.com/BerenMillidge/PredictiveCodingBackprop)
 
 
-Anil Seth, **Beren Millidge**, Christopher Buckley, Alexander Tschantz (2020) *Curious Inferences: Reply to Sun & Firestone on the Dark Room Problem*, Published in *Trends in Cognitive Science*  
-[paper](https://psyarxiv.com/w8y9p/)
+**Curious Inferences:** *Reply to Sun & Firestone on the Dark Room Problem* (2020) <br/>
+Anil Seth, **Beren Millidge**, Christopher Buckley, Alexander Tschantz <br/>
+[paper](https://psyarxiv.com/w8y9p/) <br/>
+Published in *Trends in Cognitive Science*  
 
-**Beren Millidge**, Alexander Tschantz, Christopher Buckley (2020) *Whence the Expected Free Energy*  
+**Whence the Expected Free Energy** (2020) <br/>
+**Beren Millidge**, Alexander Tschantz, Christopher Buckley <br/>
 [paper](https://arxiv.org/abs/2004.08128)
 
-Alexander Tschantz\*, **Beren Millidge\***, Anil Seth, Christopher Buckley (2020) *Reinforcement Learning Through Active Inference* (\* = equal contribution).  
+**Reinforcement Learning Through Active Inference** (2020) <br/>
+Alexander Tschantz\*, **Beren Millidge\***, Anil Seth, Christopher Buckley <br/> .  
 [paper](https://arxiv.org/abs/2002.12636)  [code](https://github.com/alec-tschantz/rl-inference) 
 
 **Beren Millidge** (2019) *Deep Active Inference as Variational Policy Gradients*, Published in *Journal of Mathematical Psychology*   
