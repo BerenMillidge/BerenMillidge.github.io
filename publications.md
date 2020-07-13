@@ -5,10 +5,9 @@ title: Publications
 
 Here is a list of my current publications. I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
 
-| **On the Relationship between Control as Inference and Active Inference** <br/> **Beren Millidge**, Alexander Tschantz, Anil Seth, Christopher Buckley <br/> 2020 <br/> [paper](https://arxiv.org/pdf/2006.12964.pdf)
+**On the Relationship between Control as Inference and Active Inference** (2020) <br/> **Beren Millidge**, Alexander Tschantz, Anil Seth, Christopher Buckley <br/> [paper](https://arxiv.org/pdf/2006.12964.pdf)
 
-**Beren Millidge\***, Alexander Tschantz*, Christopher Buckley (2020) *Reinforcement Learning as Iterative and Amortised Inference*
-paper: https://arxiv.org/abs/2006.10524
+**Reinforcement Learning as Iterative and Amortised Inference** (2020) <br/> **Beren Millidge\***, Alexander Tschantz*, Christopher Buckley <br/> [paper](https://arxiv.org/abs/2006.10524)
 
 **Beren Millidge**, Alexander Tschantz, Christoper Buckley (2020) *Predictive Coding Approximates Backprop Along Arbitrary Computation Graphs*  
 [paper](https://arxiv.org/abs/2006.04182)  [code](https://github.com/BerenMillidge/PredictiveCodingBackprop)
