@@ -25,7 +25,7 @@ Simply the idea of adding structure and knowledge to help solve a task is not ne
 Let's take a step back and look at this in more detail. We propose a simple model where the performance of an AI algorithm depends on two quantitites -- 'compute' and 'structure', where compute is all the computationsl resources used by the algorithm, which includes datasets, while structure is the actual algorithm istself and all the human knowledge encoded into the algorithm implicitly or explicitly. 
 For a given level of performance, then we can plot the amount of compute vs structure required that level of performance. I hypothesise (without very strong evidence -- this is a 'spherical cow' model) that the relationship will be approximately a negative exponential, as plotted below:
 
-<figure style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/figures/bitter_lesson_2.jpg"> </figure> 
+<figure style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}_posts/figures/bitter_lesson_1.jpg"> </figure> 
 
 Asymptotically, we know that any function and thus any task can be learnt with a minimum of structure by a 2-layer MLP with infinite width. This infinite width is an issue since it requires infinite computation,
 so in effect we have that any function can be learnt with infinite computation. This heavily suggests, moreover, that the approach to the infinite computation limit will be asymptotically exponential. By contrast, one could also model the same function by creating an explicit lookup table for the optimal label or action
@@ -34,7 +34,7 @@ The key then is to reach the desired performance level with a minimnum of comput
 
 Moreover, we can also think about the effects of holding either computation or structure constant and varying the other while plotting the effects on performance. Again I suspect that these will be asymptoting exponential curves as below,
 
-<figure style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/figures/bitter_lesson_2.jpg"> </figure> 
+<figure style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}_posts/figures/bitter_lesson_2.jpg"> </figure> 
 
 
 Again I lack hard evidence for this, but the shape of this curve derives directly from the common microeconomic assumption of diminishing marginal benefit, which is a good general rule to have as a prior. Although structure is hard to explicitly measure and vary, compute is relatively easy and so there is some evidence that we observe exactly this declining marginal benefit of computation on performance for very large AI models.
