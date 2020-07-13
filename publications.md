@@ -10,7 +10,7 @@ Here is a list of my current publications. I will try to keep this list up to da
 **Reinforcement Learning as Iterative and Amortised Inference** (2020) <br/> **Beren Millidge\***, Alexander Tschantz*, Christopher Buckley <br/> [paper](https://arxiv.org/abs/2006.10524)
 
 **Predictive Coding Approximates Backprop Along Arbitrary Computation Graphs** (2020) <br/> **Beren Millidge**, Alexander Tschantz, Christopher Buckley <br/>
-[paper](https://arxiv.org/abs/2006.04182)  [code](https://github.com/BerenMillidge/PredictiveCodingBackprop)
+[paper](https://arxiv.org/abs/2006.04182) \|  [code](https://github.com/BerenMillidge/PredictiveCodingBackprop)
 
 
 **Curious Inferences:** *Reply to Sun & Firestone on the Dark Room Problem* (2020) <br/>
@@ -24,28 +24,28 @@ Published in *Trends in Cognitive Science*
 
 **Reinforcement Learning Through Active Inference** (2020) <br/>
 Alexander Tschantz\*, **Beren Millidge\***, Anil Seth, Christopher Buckley <br/> 
-[paper](https://arxiv.org/abs/2002.12636)  [code](https://github.com/alec-tschantz/rl-inference) 
+[paper](https://arxiv.org/abs/2002.12636)  \|  [code](https://github.com/alec-tschantz/rl-inference) 
 
 **Deep Active Inference as Variational Policy Gradients** (2019) <br/>
 **Beren Millidge** <br/>
 Published in *Journal of Mathematical Psychology*  <br/>
-[paper](https://arxiv.org/pdf/1907.03876.pdf)  [code](https://github.com/BerenMillidge/DeepActiveInference)
+[paper](https://arxiv.org/pdf/1907.03876.pdf) \| [code](https://github.com/BerenMillidge/DeepActiveInference)
 
 **Combining Active Inference and Hierarchical Predictive Coding: A Tutorial Introduction and Case-Study** (2019) <br/>
-**Beren Millidge** 
-[paper](https://psyarxiv.com/kf6wc/)    [code](https://github.com/BerenMillidge/Combining-Active-Inference-Paper-Code)
+**Beren Millidge** <br/>
+[paper](https://psyarxiv.com/kf6wc/) \|  [code](https://github.com/BerenMillidge/Combining-Active-Inference-Paper-Code)
 
 **Implementing Predictive Processing and Active Inference: Preliminary Steps and Results** (2019) <br/>
 **Beren Millidge** <br/>
-[paper](https://psyarxiv.com/4hb58/) [code](https://github.com/BerenMillidge/Implementing_Predictive_Processing)
+[paper](https://psyarxiv.com/4hb58/) \| [code](https://github.com/BerenMillidge/Implementing_Predictive_Processing)
 
 **Vocal imitation can create acoustic attractors to guide mothers to pups in a crowded colony of Mexican free-tailed bats: A case-study of computational modelling in behavioural biology** (2019) <br/>
-Richard Shillcock, **Beren Millidge**, Andrea Ravignani <br/>     
-[code](https://github.com/BerenMillidge/Vocal_Learning)
+Richard Shillcock, **Beren Millidge**, Andrea Ravignani <br/>
+[paper](https://psyarxiv.com/9y652/) \| [code](https://github.com/BerenMillidge/Vocal_Learning)
 
 **Fixational Eye Movements: Data Augmentation for the Brain?** (2019) <br/>
 **Beren Millidge** <br/>
-[paper](https://www.researchgate.net/publication/331909056_Fixational_Eye_Movements_Data_Augmentation_for_the_Brain)   [code](https://github.com/BerenMillidge/RetinalStabilisation)   
+[paper](https://www.researchgate.net/publication/331909056_Fixational_Eye_Movements_Data_Augmentation_for_the_Brain)  \|  [code](https://github.com/BerenMillidge/RetinalStabilisation)   
 
 **Exploring infant vocal imitation in Tadarida brasiliensis mexicana** (2019) <br>
 Richard Shillcock, **Beren Millidge**, Andrea Ravignani (2019) <br/>
@@ -54,5 +54,5 @@ Published in *Neurobiology of Speech and Language* </br>
 
 **A Predictive Processing Account of Bottom-Up Visual Saliency Using Cross-Predicting Autoencoders** (2018) <br/>
 **Beren Millidge**, Richard Shillcock <br/>
-[paper](https://psyarxiv.com/csmeb/)    [code](https://github.com/BerenMillidge/Saliency)
+[paper](https://psyarxiv.com/csmeb/)  \|  [code](https://github.com/BerenMillidge/Saliency)
 
