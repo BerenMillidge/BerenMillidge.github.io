@@ -49,7 +49,7 @@ Richard Shillcock, **Beren Millidge**, Andrea Ravignani <br/>
 
 **Exploring infant vocal imitation in Tadarida brasiliensis mexicana** (2019) <br>
 Richard Shillcock, **Beren Millidge**, Andrea Ravignani (2019) <br/>
-Published in *Neurobiology of Speech and Language* </br>
+Published in *Neurobiology of Speech and Language* <br/>
 [paper](https://elibrary.ru/item.asp?id=39139444)
 
 **A Predictive Processing Account of Bottom-Up Visual Saliency Using Cross-Predicting Autoencoders** (2018) <br/>
