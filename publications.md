@@ -23,7 +23,7 @@ Published in *Trends in Cognitive Science*
 [paper](https://arxiv.org/abs/2004.08128)
 
 **Reinforcement Learning Through Active Inference** (2020) <br/>
-Alexander Tschantz\*, **Beren Millidge\***, Anil Seth, Christopher Buckley <br/> .  
+Alexander Tschantz\*, **Beren Millidge\***, Anil Seth, Christopher Buckley <br/> 
 [paper](https://arxiv.org/abs/2002.12636)  [code](https://github.com/alec-tschantz/rl-inference) 
 
 **Deep Active Inference as Variational Policy Gradients** (2019) <br/>
