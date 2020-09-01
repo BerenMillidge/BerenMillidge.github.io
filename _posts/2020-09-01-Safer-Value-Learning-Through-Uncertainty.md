@@ -2,7 +2,7 @@
 layout: post
 title: "Safer Value Learning through uncertainty"
 ---
-
+\\( a^2 = b^2 \\)
 
 One of the key questions in safe-AI is that of value-learning. How to endow any potentially super intelligent AGI with a sufficient and robust notion of human values that results in safe behaviour (or considered as such by the vast majority of humanity) 
 when potentially scaled up and executed by a superintelligent being. Current discourse around the safety of value-learning are often concerned with false extrapolations of human values to extreme scales which tend to lead to extremely undesirable outcomes (by our values).
