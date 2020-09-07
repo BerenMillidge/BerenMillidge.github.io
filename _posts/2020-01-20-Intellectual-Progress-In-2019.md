@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Intellectual Progress in 2019"
+---
+
 Lots of people such as slatestarcodex are posting the intellectual progress they have made in the past decade, and I thought about doing a similar thing. However the truth is that in 2010 I was a 15 year old moron -- unlike a lot of people here, I wasn't a child prodigy and had effectively zero intellectual development at age 15.  A decades-long progress review would be a funny exercise since it would include essentially all my intellectual development to the present. Instead I have decided to take this opportunity to start on a habit of yearly intellectual progress reviews. So here is the review for just 2019.
 
 Overall, my estimation of this past year had been somewhat disappointing. I have certainly learnt a lot and developed a lot but I haven't been developing at a faster rate than last year. My gains this year have primarily been a result of velocity, not acceleration. This is a major problem, especially as there are still low hanging fruit, such as anki, which I still have failed to implement and which is dragging my potential down significantly. My primary goal this year is to implement these capacity raising innovations such as anki and thus increase acceleration in development.
