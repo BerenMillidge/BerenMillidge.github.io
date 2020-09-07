@@ -5,10 +5,10 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
 
-**Control as Hybrid Inference** (2020) <br/> Alexander Tschantz, **Beren Millidge**, Anil Seth, Christopher Buckley <br/> [paper](https://arxiv.org/pdf/2007.05838.pdf)
+**Control as Hybrid Inference** (2020) <br/> Alexander Tschantz, **Beren Millidge**, Anil Seth, Christopher Buckley <br/> [paper](https://arxiv.org/pdf/2007.05838.pdf) <br/>
 Published in *ICML 2020* workshop.
 
-**On the Relationship between Control as Inference and Active Inference** (2020) <br/> **Beren Millidge**, Alexander Tschantz, Anil Seth, Christopher Buckley <br/> [paper](https://arxiv.org/pdf/2006.12964.pdf)
+**On the Relationship between Control as Inference and Active Inference** (2020) <br/> **Beren Millidge**, Alexander Tschantz, Anil Seth, Christopher Buckley <br/> [paper](https://arxiv.org/pdf/2006.12964.pdf) <br/>
 Published in *IWAI IEEE workshop on Active Inference*
 
 **Reinforcement Learning as Iterative and Amortised Inference** (2020) <br/> **Beren Millidge\***, Alexander Tschantz*, Christopher Buckley <br/> [paper](https://arxiv.org/abs/2006.10524)
@@ -28,7 +28,7 @@ Published in *Trends in Cognitive Science*
 
 **Reinforcement Learning Through Active Inference** (2020) <br/>
 Alexander Tschantz\*, **Beren Millidge\***, Anil Seth, Christopher Buckley <br/> 
-[paper](https://arxiv.org/abs/2002.12636)  \|  [code](https://github.com/alec-tschantz/rl-inference) 
+[paper](https://arxiv.org/abs/2002.12636)  \|  [code](https://github.com/alec-tschantz/rl-inference)  <br/>
 Published in *Bridging AI and Cognitive Science (ICLR 2020) workshop*
 
 **Deep Active Inference as Variational Policy Gradients** (2019) <br/>
