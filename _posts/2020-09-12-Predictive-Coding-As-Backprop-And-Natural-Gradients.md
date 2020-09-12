@@ -41,7 +41,9 @@ $$\begin{align}
     \mathcal{F} = KL[q(x) || p(x; \theta)]
 \end{align}$$
 
+
 With this objective, we see can interpret the predictive coding dynamics as performing a gradient descent on this variational free energy, and thus performing variational inference. Since we have a hierarchy of layers $$x_{0:L}$$, we can write the variational density and generative model as $$q(x) = \prod_{i=0}^L$ and $p(x,\theta) = p(x_L)\prod_{i=0}^L p(x_i | x_{i+1}; \theta)$$, which gives us hierarchical Bayesian inference.
+
 
 Importantly, this gaussian assumption also gives us an additional set of parameters to play with -- the precisions (or  inverse variances) $$\Sigma^{-1}$$ of the gaussian distribution, which we have previously taken to be 1 (or the identity matrix in the multivariate case). However, if we work back through all of the equations without this assumption of the variance being identity, we can obtain the following dynamics,
 $$\begin{align}
