@@ -39,7 +39,7 @@ $$\begin{align}
 
 Or simply the sum of squared prediction errors at each layer. If we squint at this a little we can see that a squared prediction error is also the log probability density of a gaussian with a variance of 1, plus a constant of $$\ln 2 \pi$$. If we extend this a little further, we can understand this objective as a variational free energy functional between a gaussian variational posterior and a gaussian generative model
 $$\begin{align}
-    \mathcal{F} = KL\[q(x) || p(x; \theta\]
+    \mathcal{F} = KL(q(x) || p(x; \theta)
 \end{align}$$
 
 With this objective, we can interpret the predictive coding dynamics as performing a gradient descent on this variational free energy, and thus performing variational inference. Since we have a hierarchy of layers $$x_{0:L}$$, we can write the variational density and generative model as $$q(x) = \prod_{i=0}^L$$ and $$p(x,\theta) = p(x_L)\prod_{i=0}^L p(x_i | x_{i+1}; \theta)$$, which gives us hierarchical Bayesian inference.
