@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
 
+**Activation Relaxation: A Local Dynamical Approximation to Backprop in the Brain** (2020) <br/> **Beren Millidge**, Alexander Tschantz, Anil Seth, Christopher L Buckley <br/> [paper](https://arxiv.org/abs/2009.05359) \|  [code](https://github.com/BerenMillidge/ActivationRelaxation)
+
 **The Acquisition of Culturally Patterned Attention Styles under Active Inference** (2020) <br/> Axel Constant, Alexander Tschantz, **Beren Millidge**, Felipe Criado-Boado, Luis M Martinez, Johannes Müller, Andy Clark. <br/> [paper](https://psyarxiv.com/rchaf/) \|  [code](https://github.com/BerenMillidge/MaterialCulture)
 
 **Control as Hybrid Inference** (2020) <br/> Alexander Tschantz, **Beren Millidge**, Anil Seth, Christopher Buckley <br/> [paper](https://arxiv.org/pdf/2007.05838.pdf) <br/>
