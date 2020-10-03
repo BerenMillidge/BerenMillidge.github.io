@@ -30,7 +30,8 @@ Published in *Trends in Cognitive Science*
 
 **Whence the Expected Free Energy** (2020) <br/>
 **Beren Millidge**, Alexander Tschantz, Christopher Buckley <br/>
-[paper](https://arxiv.org/abs/2004.08128)
+[paper](https://arxiv.org/abs/2004.08128) <br/>
+Published in *Neural Computation*
 
 **Reinforcement Learning Through Active Inference** (2020) <br/>
 Alexander Tschantz\*, **Beren Millidge\***, Anil Seth, Christopher Buckley <br/> 
