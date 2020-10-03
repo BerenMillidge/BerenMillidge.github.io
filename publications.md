@@ -3,7 +3,9 @@ layout: page
 title: Publications
 ---
 
-Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
+Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao). 
+
+**Relaxing the Constraints on Predictive Coding Models** (2020) <br/> **Beren Millidge**, Alexander Tschantz, Anil Seth, Christopher L Buckley <br/> [paper] (to be announced) \| [code](https://github.com/BerenMillidge)/RelaxedPredictiveCoding)
 
 **Activation Relaxation: A Local Dynamical Approximation to Backprop in the Brain** (2020) <br/> **Beren Millidge**, Alexander Tschantz, Anil Seth, Christopher L Buckley <br/> [paper](https://arxiv.org/abs/2009.05359) \|  [code](https://github.com/BerenMillidge/ActivationRelaxation)
 
