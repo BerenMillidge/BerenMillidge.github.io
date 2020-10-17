@@ -35,16 +35,18 @@ $$\begin{align}
 This means that the dynamics of the activations at any layer are affected by the prediction error at the current layer plus the prediction error at the layer below mapped upwards through the transpose of the top-down weights. This is why we speak of predictions errors being propagated "upwards" in this framework. Importantly, all of these rules are fundamentally Hebbian (meaning they only require the multiplication of pre and post synaptic activity) and require only local connectivity. This means that this algorithm can be straightforwardly implemented in the brain, and people have put forward realistic [neural process theories](https://www.sciencedirect.com/science/article/pii/S0896627312009592) which propose ways in which this could be done.
 
 These rules also have a much deeper interpretation in terms of variational bayesian inference. First, consider the objective function which, for reasons that will become clear soon, we denote $\mathcal{F}$, that must be implicitly being optimised to produce the dynamics above. With a little mathematical imagination, we can work this out to be
+
 $$\begin{align}
     \mathcal{F} \propto \frac{1}{2} \sum_{i=0}^N \epsilon_i^T \epsilon_i
 \end{align}$$
 
 Or simply the sum of squared prediction errors at each layer. If we squint at this a little we can see that a squared prediction error is also the log probability density of a gaussian with a variance of 1, plus a constant of $$\ln 2 \pi$$. If we extend this a little further, we can understand this objective as a variational free energy functional between a gaussian variational posterior and a gaussian generative model
+
 $$\begin{align}
-    \mathcal{F} = KL(q(x) || p(x; \theta)
+    \mathcal{F} = KL(q(x) || p(x; \theta ))
 \end{align}$$
 
-With this objective, we can interpret the predictive coding dynamics as performing a gradient descent on this variational free energy, and thus performing variational inference. Since we have a hierarchy of layers $$x_{0:L}$$, we can write the variational density and generative model as $$q(x) = \prod_{i=0}^L$$ and $$p(x,\theta) = p(x_L)\prod_{i=0}^L p(x_i | x_{i+1}; \theta)$$, which gives us hierarchical Bayesian inference.
+With this objective, we can interpret the predictive coding dynamics as performing a gradient descent on this variational free energy, and thus performing variational inference. Since we have a hierarchy of layers $$x_{0:L}$$, we can write the variational density and generative model as $$q(x) = \prod_{i=0}^L$$ and $$p(x,\theta) = p(x_L)\prod_{i=0}^L p(x_i *\|* x_{i+1}; \theta)$$, which gives us hierarchical Bayesian inference.
 
 This gaussian assumption also gives us an additional set of parameters to play with -- the precisions (or inverse variances) $$\Sigma^{-1}$$ of the gaussian distribution, which we have previously taken to be 1 (or the identity matrix in the multivariate case). However, if we work back through all of the equations without this assumption of the variance being identity, we can obtain the following dynamics,
 $$\begin{align}
