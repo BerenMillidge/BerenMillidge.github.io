@@ -22,7 +22,7 @@ description: Thoughts on AI, Neuroscience, and other things that interest me.
 navbar-links:
   About Me: "aboutme"
   Publications: "publications"
-  CV: "CV"
+  CV: "CV.pdf"
  # Resources:
  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
  #   - Learn markdown: "http://www.markdowntutorial.com/"
