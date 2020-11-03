@@ -1,8 +1,13 @@
-# Annotated Workthrough of "Hopfield Networks is all you Need"
+---
+layout: post
+title: Walkthrough of "Hopfield Networks are all you need"
+---
 
-TESTING
+*To play with the code directly, please check out the accompanying [colab notebook](https://colab.research.google.com/drive/1kE4iLkNuinDj2hHmyp_hxvxivCKHJrMj?usp=sharing).*
 
-This notebook is based very heavily on the [blog post](https://ml-jku.github.io/hopfield-layers/) "Hopfield Networks is all you Need". That blog post provides a clear workthrough of the key mathematical derivations and intuitions behind the paper, but does not contain any direct implementation in code. Here I aim to bolster my own understanding (and hopefully yours) by providing a reference code implementation which can reproduce the image retrieval results in the blog post. One minor difference is that the blog post uses a dataset of Simpson portraits, which I don't have access to, so I'm using the standard MNIST dataset instead.
+The amazing paper [Hopfield Networks are all you need](https://arxiv.org/pdf/2008.02217.pdf) came out recently, along with this fantastic [blog post](https://ml-jku.github.io/hopfield-layers/). While the paper is very long and involved, the key deliverable is that the forward pass of a self-attention module, core to transformer architectures, is very similar to and can be interpreted as a special case of the update rule of a modern continuous Hopfield Network. While the paper is pretty impenetrable (I must admit I haven't yet read all of it), the blog post provides a pretty good mathematical background and some intuition. However, it does not contain any direct implementation in code. Since playing with code is one of the main ways I learn, I decided to try coding up each step of the blog post to play with their results. Hopefully this will provide a useful walkthrough and introduction for anybody else who wants to understand what is going on in this paper. This post is intended to serve as a companion to the original paper and blog post, and should be read side-by-side as I have mirrored the structure and order of the blog post in my code implementation.
+
+One minor difference is that the blog post uses a dataset of Simpson portraits, which I don't have access to, so I'm using the standard MNIST dataset instead.
 
 First we load the standard MNIST dataset and create a large batch (we won't be doing any training, this is just to be able to test a large number of stored patterns).
 
