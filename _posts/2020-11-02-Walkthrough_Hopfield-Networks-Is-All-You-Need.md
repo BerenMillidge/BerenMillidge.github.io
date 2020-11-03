@@ -1,5 +1,6 @@
 # Annotated Workthrough of "Hopfield Networks is all you Need"
 
+TESTING
 
 This notebook is based very heavily on the [blog post](https://ml-jku.github.io/hopfield-layers/) "Hopfield Networks is all you Need". That blog post provides a clear workthrough of the key mathematical derivations and intuitions behind the paper, but does not contain any direct implementation in code. Here I aim to bolster my own understanding (and hopefully yours) by providing a reference code implementation which can reproduce the image retrieval results in the blog post. One minor difference is that the blog post uses a dataset of Simpson portraits, which I don't have access to, so I'm using the standard MNIST dataset instead.
 
@@ -89,7 +90,7 @@ plt.show()
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_7_0.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_7_0.png)
     
 
 
@@ -126,13 +127,13 @@ plt.show()
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_9_0.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_9_0.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_9_1.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_9_1.png)
     
 
 
@@ -165,19 +166,19 @@ store_retrieve_N_images(3)
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_11_0.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_11_0.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_11_1.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_11_1.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_11_2.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_11_2.png)
     
 
 
@@ -190,61 +191,61 @@ store_retrieve_N_images(10)
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_13_0.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_13_0.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_13_1.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_13_1.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_13_2.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_13_2.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_13_3.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_13_3.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_13_4.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_13_4.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_13_5.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_13_5.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_13_6.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_13_6.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_13_7.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_13_7.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_13_8.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_13_8.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_13_9.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_13_9.png)
     
 
 
@@ -320,61 +321,61 @@ retrieve_store_demircigil(imgs,10)
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_19_0.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_19_0.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_19_1.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_19_1.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_19_2.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_19_2.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_19_3.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_19_3.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_19_4.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_19_4.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_19_5.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_19_5.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_19_6.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_19_6.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_19_7.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_19_7.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_19_8.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_19_8.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_19_9.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_19_9.png)
     
 
 
@@ -387,37 +388,37 @@ retrieve_store_demircigil(imgs, 100,5)
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_21_0.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_21_0.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_21_1.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_21_1.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_21_2.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_21_2.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_21_3.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_21_3.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_21_4.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_21_4.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_21_5.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_21_5.png)
     
 
 
@@ -459,7 +460,7 @@ plt.show()
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_25_0.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_25_0.png)
     
 
 
@@ -491,31 +492,31 @@ retrieve_store_continuous(imgs,10)
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_27_0.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_27_0.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_27_1.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_27_1.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_27_2.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_27_2.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_27_3.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_27_3.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_27_4.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_27_4.png)
     
 
 
@@ -528,31 +529,31 @@ retrieve_store_continuous(imgs, 100)
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_29_0.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_29_0.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_29_1.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_29_1.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_29_2.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_29_2.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_29_3.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_29_3.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_29_4.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_29_4.png)
     
 
 
@@ -565,61 +566,61 @@ retrieve_store_continuous(imgs, 1000, num_plot=10)
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_31_0.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_31_0.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_31_1.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_31_1.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_31_2.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_31_2.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_31_3.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_31_3.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_31_4.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_31_4.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_31_5.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_31_5.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_31_6.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_31_6.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_31_7.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_31_7.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_31_8.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_31_8.png)
     
 
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_31_9.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_31_9.png)
     
 
 
@@ -647,7 +648,7 @@ for beta in betas:
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_33_1.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_33_1.png)
     
 
 
@@ -656,7 +657,7 @@ for beta in betas:
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_33_3.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_33_3.png)
     
 
 
@@ -665,7 +666,7 @@ for beta in betas:
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_33_5.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_33_5.png)
     
 
 
@@ -674,7 +675,7 @@ for beta in betas:
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_33_7.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_33_7.png)
     
 
 
@@ -683,7 +684,7 @@ for beta in betas:
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_33_9.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_33_9.png)
     
 
 
@@ -692,7 +693,7 @@ for beta in betas:
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_33_11.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_33_11.png)
     
 
 
@@ -701,6 +702,6 @@ for beta in betas:
 
 
     
-![png](assets/figures/hopfield_blog_files/hopfield_blog_33_13.png)
+![png](/assets/figures/hopfield_blog_files/hopfield_blog_33_13.png)
     
 
