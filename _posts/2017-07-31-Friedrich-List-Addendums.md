@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Friedrich List: Addendums"
+---
+Although it's been a while since my last post on List, I recently found a draft of a bunch of relatively disconnected thoughts left over from the earlier post, so I thought I would clean them up and publish them.
+
+Friedrich List was writing in the early 19th century. Even if his every analysis of the economic system of his time was correct, it is worth noting that the structural dynamics of economies have probably changed somewhat since then, so merely copying his prescriptions verbatim is probably a bad idea. His theories need updating for the modern era. What would such an update look like?
+
+Allow me a brief sketch.
+
+I think the generalised lesson we should extract from List is that having a comparative advantage in "technology", broadly defined is vastly more useful for a polity in the long run than it seems at the time, and that it is worth sacrificing some immediate economic efficiency to develop such an advantage. Of course in the early 19th century, as the Industrial Revolution was just getting into full swing, "technology" meant manufacturing, steam engines, railroads, iron and steel works, spinning jennies and so on.
+
+Today, obviously, it doesn't. Today we even have a "technology sector" with "tech companies" and so forth.  Unfortunately tech companies today seem to be completely associated with computer technology, and even worse with random app makers. This is unfortunate, and  perhaps a symptom of our stagnation in other areas. Technology should be considered much more broadly. Technology is any industry whose main business sits close to the forefront of human knowledge.
+
+If the industrial world was two tiered - between countries which primarily exported raw materials, and those that exported finished goods, the postindustrial world will be three-tiered. Some countries will still be stuck exporting primarily raw materials, another group will import mostly raw materials and turn them into finished goods (also importing high technology from the third group), while the final third group will mostly import finished goods while exporting high technology. If it's not already clear, the most successful countries will be those in the third group. You don't want to be stuck as an industrial age country in the post-industrial world, for the exact same reason you don't want to be an agricultural country in an industrial world.
+
+I would argue that any country which wishes to maintain or obtain a similar lead to Britain in the 19th century and America in the 20th century must make sure it is the leader in these fields, whatever the cost. Advances here compound and augment national power to an extent not possible in other areas. They will have extremely strong positive externalities compared to other sectors, even if the other sectors seem more economically profitable at first glance.
+
+A modern mercantilism,then, would not focus on cloth or steel production, but on monpolising high technology. They can import finished industrial goods, as well as agricultural ones as long as they are primarily exporting high tech goods.
+
+The key technologies for the 21st century are obviously unpredictable at this stage. But it seems fairly clear they will include:
+
+AI - huge potential for revolutionary growth here. At minimum substantial amounts of automation. Interestingly, despite predictions, this will primarily hit the lower middle class of white collar workers rather than blue collar as well as many professions such as lawyers/doctors unless they manage to regulate sinecures for themselves. The maximum impact is, of course, a full singularity with superintelligence. Prediction beyond that is, by definition, impossible.
+
+Space Colonisation. I've talked about this before but if Elon Musk and others succeed, and we achieve reliable low cost to orbit then space industry will take off in a massive way. Especially with autonomous robotics. Any country that acts fast now and, for instance, launches an asteroid capture and mining expedition or builds some  non-rocket infrastructure taking down launch costs - such as a ground-based railgun or a skyhook, and then capitalises on it will achieve a strong monopoly over space and therefore unprecedented power. Interestingly, Luxembourg are making strides towards asteroid mining and it would be hilarious if they became a space superpower.
+
+Gene-editing. CRISPR will likely soon make this a reality. If not, embryo selection is already possible. The first country to uplift it's citizens a couple of standard deviations in IQ will win. Hard.
+
+Nanotech. I follow this one less, but there are probably huge advances to be made.
+
+Computing power is likely to keep increasing, even though Moore's law is beginning to look pretty shaky. Strong investments here would be a pretty safe bet.
+
+I suppose in some sense this strategy is just common sense. Having comparative advantages at the technological frontier is almost always better than in an older, more established sector. High technology always has higher potential for growth than the old, where the low hanging fruit are exhausted. Wayne Gretzsky said skate to where the puck will be. Policymakers should do the same. Focus the economy toward where the growth will be, not where the growth is now. This may mean utilising sanctions and protectionist measures to ensure that there are strong and competitive national industies in these key areas. It will be inefficient in the short run, but in the long run it will be worth it.
+
+That was the main point of the essay. Here are just some disjointed miscellaneous thoughts that I thought were worth sharing.
+
+First it is incredibly ironic that the textbook portrayals of comparative advantage use England and Portugal as their exemplars as because, for List, the treaty of Methuen, which effectively formalised the relationship lauded by Ricardo was the doom of Portugal and greatly to the profit of England. Looking back from the present time, I can see List's point.
+
+One point that List emphasises over and over again, while mainstream economists do not (at least those who write editorials for the economist and NYT - I don't know enough about academic ecnomics to be sure) is the stickiness of skills. Losing an industry is very, very bad as, once gone, it cannot really be replaced. This is because industries are, in effect, institutions and webs of skills, contacts, and relationships which have been built and nurtured for decades or centuries. Once gone they cannot sprout back up again quickly if the economic winds shift. The necessary skills, even if they seem simple, often require a huge amount of metic knowledge to practice effectively (see my upcoming seeing like a state review), and this metis can only be built over long and hard experience. This is not just confined to people, but to instutitions too. They, in a sense, have metis. They are adapted and optimised over a long evolutionary process, and once the people making them up are gone or dispersed, cannot pop back up again overnight. Recreating (or creating in the first place) an industry is a very slow, expensive, and painful process. It is often cheaper, therefore, if to subsidise an industry through protectionism than to let it die and have to rebuild it.
+
+Many critics of protectionism and the infant industry argument allege that this arrangement just shields industries from competition, meaning they develop in inefficient and expensive ways and therefore become more of a white elephant than an asset to a country. I agree, this is a real problem. But it is ameliorated greatly by List's focus on exports. To export, the industry must compete successfully with foreigners. Otherwise they would simply not buy their goods. Unlike their countrymen, foreigners are not a captive market. The pressure to export, and thus face foreign competition, then, effectively forces efficiency into the industry. While it can be argued that this competition is not as great as that imposed by the free market, since it is not existential, I would argue that it appears to be sufficient, judging by the competitive successes of the export driven asian tiger economies and their companies even in foreign markets.Indeed it is highly possible that too much competitive may be stifling to industry (albeit great for consumers in the short run). Having guaranteed access to a captive market might enable companies to make the sort of long term investments which would boost productivity in the long run, but would be too risky to make in a completely cut-throat market.
+
+I would also argue that the element of competition is a reason why export-led industrialisation succeeds while import substitution industrialisation fails. Under an import-substitution model, there is no effective competition, leading to exactly the pathologies that economists would predict.
+
+List's economic development model is actually very interesting, and seems significantly more plausible to me than the development models taught in introductory econ textbooks, like the Solow growth model. On the other hand, I have basically no experience of academic development economics and I significantly hope they have improved significantly over that.
+
+NB: I'm not a List scholar (if there is such a thing!). I haven't even formally studied economics. I'm just a guy with a blog who's read a book. So take everything you read here with an enormous mountain of salt.
