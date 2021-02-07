@@ -48,8 +48,8 @@ observe correlations between traits within this sample population, you
 will observe that they are typically smaller than within the full
 population, if the sample is selected according to those traits.
 
-The intuition is simple. We have a full distribution of some \(x\) and
-\(y\) traits which have some correlation. If these are normally
+The intuition is simple. We have a full distribution of some $x$ and
+$y$ traits which have some correlation. If these are normally
 distributed, they form an ellispe. Selection effectively imposes a floor
 below which samples will not be counted. Imagine drawing a line across
 the top of the ellipse and only samples above the line are counted.
@@ -69,17 +69,17 @@ is currently lacking.
 
 
 First let's try to reproduce the most basic effect. Let's assume we have
-two traits \(x\) and \(y\) which are both normally distribted (as most
+two traits $x$ and $y$ which are both normally distribted (as most
 traits are) and that they have some fixed and known positive
-correlation. Together \(p(x,y)\) forms a bivariate normal distribution.
-If we plot samples from \(x\) and \(y\) together on a 2d plot we can see
+correlation. Together $p(x,y)$ forms a bivariate normal distribution.
+If we plot samples from $x$ and $y$ together on a 2d plot we can see
 it forms an ellipse. It is a narrow ellipse if there is a high
-correlation between \(x\) and \(y\) and tends towards a circle as the
+correlation between $x$ and $y$ and tends towards a circle as the
 correlation tends to 0. Here we generate 4 sets of samples from a
 bivariate normal with different correlations to visualize how the
 underlying distribution changes.
 
-``` python
+```
 import numpy as np 
 import scipy 
 import matplotlib.pyplot as plt
@@ -119,11 +119,11 @@ Now let's reproduce the basic effect. Let's apply a selection floor to
 the variables and see what comes out. It is important to note that there
 are two possible types of selection, which I call *additive filtering*
 and *multiplicative filtering*. In multiplicative filtering, we require
-*both* \(x\) *and* \(y\) to be above some threshold. That is \(x\) and
-\(y\) are filtered *independently*. A second type of filtering, which I
-call *additive filtering* requires that the *sum* \(x + y\) be above
-some threshold. This means that \(x\) and \(y\) are no longer filtered
-separately. A high \(x\) score can save a poor \(y\) score and
+*both* $x$ *and* $y$ to be above some threshold. That is $x$ and
+$y$ are filtered *independently*. A second type of filtering, which I
+call *additive filtering* requires that the *sum* $x + y$ be above
+some threshold. This means that $x$ and $y$ are no longer filtered
+separately. A high $x$ score can save a poor $y$ score and
 vice-versa. Unsurprisingly these two different filtering mechanisms have
 different effects on the outcome, and it's worth thinking about which
 applies to any given situation (or some combination of the two).
@@ -133,7 +133,7 @@ filtering.
 We define each type of filtering in the functions below.
 
 
-``` python
+```
 def multiplicative_filter(samps, thresh):
   filtered = []
   for el in samps:
@@ -156,7 +156,7 @@ distribution. We use a bivariate normal with a covariance of 0.5 as an
 example. Try varying the threshold and the covariance to see what
 happens
 
-``` python
+```
 # apply filtered
 threshold = 2
 cov = 0.5
@@ -190,22 +190,19 @@ We see that the multiplicative sampling cuts away all of the
 distribution except a corner. The additive sampling is more interesting
 and defines a slice across the top of the distribution. Let's look at
 how these filtering methods affect the observed correlation between
-\(x\) and \(y\), which we know originally to be positively correlated
-with \(R = 0.5\).
+$x$ and $y$, which we know originally to be positively correlated
+with $R = 0.5$.
 
-``` python
+```
 print("Original: ", np.corrcoef(samples[:,0],samples[:,1])[0,1])
 print("Multiplicative: ", np.corrcoef(multiplicative_filtered[:,0],multiplicative_filtered[:,1])[0,1])
 print("Additive: ", np.corrcoef(additive_filtered[:,0],additive_filtered[:,1])[0,1])
 ```
-
-<div class="output stream stdout">
-
+```
     Original:  0.499239388815636
     Multiplicative:  0.1337042101547952
     Additive:  -0.5384505164742601
-
-</div>
+```
 
 The tails-come-apart phenomenon can be seen very strongly with both
 types of filter. The observed correlation in the filtered distribution
@@ -239,7 +236,7 @@ start with a bivariate normal with a covariance between \(x\) and \(y\)
 of 0.8, although you are welcome to play with this and see how it
 changes.
 
-``` python
+```
 # utility plot function
 def plot_threshold_scaling(filter,threshs, cov):
   samps = normal_with_cov(cov,100000)
@@ -286,7 +283,7 @@ little bias in observed correlations.
 However this bias rises steeply for higher thresholds. The additive is
 substantially stronger than the multiplicative and can cause negative
 observed correlations even when the real underlying correlation is 0.8
-when the threshold \(\geq\) two standard deviations. 2 standard
+when the threshold $\geq$ two standard deviations. 2 standard
 deviations is not a particularly high selection floor for elite
 institutions so we should generally expect high spurious negative
 correlations to be observed in these samples due to this phenomenon.
@@ -310,7 +307,7 @@ The other key parameter here to investigate is how the covariance of the
 original distribution affects the observed covariances after filtering.
 
 
-``` python
+```
 def plot_covariance_scaling(filter,covs,thresh):
   filtered_covariances = []
   for cov in covs:
@@ -346,7 +343,7 @@ negative correlation, only reduce the true positive correlation.
 Finally, we see that the the observed correlation increases apparently
 *exponentially* towards 1 as the true correlation tends to 1. This makes
 sense since if the correlation is 1, there are no tails to come apart in
-the first place, since \(x\) and \(y\) become identical. This means, in
+the first place, since $x$ and $y$ become identical. This means, in
 general, that the strength of the tails-comes-aparts phenomenon declines
 with very highly correlated variables.
 
@@ -360,7 +357,7 @@ institutions generally have strong additive selection floors, which
 select on moderately positively correlated traits (i.e. intelligence and
 conscientiousness), and thus it is not surprising that we should observe
 many spurious negative correlations within these cohorts. In fact, the
-predicted strength \(\approx -0.5\text{-}0.8\) of the correlation is
+predicted strength $\approx -0.5\text{-}0.8$ of the correlation is
 actually much *stronger* than I would have expected given my own
 experience. This implies that either the selection floor is not as
 stringent as expected or else the correlation between the variables in
