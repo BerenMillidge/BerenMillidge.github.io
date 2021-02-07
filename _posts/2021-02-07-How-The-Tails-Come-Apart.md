@@ -191,7 +191,7 @@ plt.show()
 ```
 
 
-![png](/assets/figures/tails_come_apart/multiplicative_additive_filtering.png)
+![png](/assets/figures/tails_come_apart/additive_multiplicative_filtering.png)
 
 We see that the multiplicative sampling cuts away all of the
 distribution except a corner. The additive sampling is more interesting
