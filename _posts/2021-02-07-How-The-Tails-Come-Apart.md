@@ -2,13 +2,6 @@
 layout: post
 title: "How the Tails Come Apart"
 ---
-<div class="cell markdown" id="pcIVvHXP5TOd">
-
-# How the Tails Come Apart
-
-</div>
-
-<div class="cell markdown" id="jCOYyUa45Qcw">
 
 *To play with the code directly, please look at the [github
 repository](https://github.com/BerenMillidge/tails-come-apart/blob/main/How_the_tails_come_apart.ipynb)*
