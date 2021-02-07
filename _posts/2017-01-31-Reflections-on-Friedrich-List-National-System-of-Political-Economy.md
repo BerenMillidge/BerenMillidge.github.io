@@ -40,7 +40,7 @@ History cannot be run twice, and so does not allow experiments, but to me this s
 
 Hilariously, this is also List's position. He is not a blanket protectionist. Rather he sees protection as a necessary stage in economic development, that of industrialisation. More generally, List sees development as having four stages which for simplicity I will call undeveloped, agrarian, industrialising and industrial.
 
-An undeveloped country in this stage is one in which there is very little formal economy at all. The vast majority of the economic activity is subsistence farming, which is almost completely unaffected by any events outside the local village. Cities are small to non-existent. The political system tends to be a rule by local chieftains. The country has very little involvement in the global economy. It's trade is negligible. Most of its impots are luxuries for the tiny elite.
+An undeveloped country in this stage is one in which there is very little formal economy at all. The vast majority of the economic activity is subsistence farming, which is almost completely unaffected by any events outside the local village. Cities are small to non-existent. The political system tends to be a rule by local chieftains. The country has very little involvement in the global economy. It's trade is negligible. Most of its importsf are luxuries for the tiny elite.
 
 An agrarian economy is one that is beginning to develop. The primary occuption is still farming, but it is no longer subsistence farming but large scale and highly organised farming. Typically of cash crops. The country is dominated by large estates which produce crops primarily for export. In return the slightly larger elite can import a lot more luxuries, producing a serious aristocracy. Trade is beginning to take off. Cities are larger and can support significant amounts of artisans as well as the beginnings of intellectuals. This is bascially a 'developed' preindustrial civilisation.
 
@@ -78,7 +78,7 @@ We can think of free trade in terms of mathematical optimisation. Free trade is 
 
 Do we have such knowledge? I would argue that we do, at least for some cases. For instance, we know fairly well how to industrialise an economy. We have case-studies from Britain, Germany, France, Russia, America, Japan, and then recently from the Asian Tigers (who pretty explicitly tried to copy the earlier models).  An undeveloped country trying to follow these models will probably better off than one simply trusting to a laizzez-faire approach. And because industrialisation and development bring such positive externalities, then the gains of a more rapid mercantilist industrialisation phase might outweigh the negatives globally and thus result in a utility gain overall.
 
-Of course, hwoever, in most cases we don't have such knowledge. For instance, we know much less about the optimal economic policies for modern post-industrial economies as there has generally been very little experimentation and time to analyse their performance. Here it may be better over all to be more cautious and stick to the decent but un-optimised free trade policy.
+Of course, however, in most cases we don't have such knowledge. For instance, we know much less about the optimal economic policies for modern post-industrial economies as there has generally been very little experimentation and time to analyse their performance. Here it may be better over all to be more cautious and stick to the decent but un-optimised free trade policy.
 
 
 
