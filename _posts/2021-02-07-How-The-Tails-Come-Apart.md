@@ -274,7 +274,7 @@ plt.show()
 ```
 
 
-![png](/assets/figures/tails_come_apart/covariance_against_threshold.png)
+![png](/assets/figures/tails_come_apart/Covariance_against_threshold.png)
 
 
 Several interesting effects are immediately apparent. Firstly, there is
@@ -341,7 +341,7 @@ plt.xlabel("True Covariance")
 plt.ylabel("Observed Covariance")
 plt.legend()
 plt.show()
-``'
+```
 
 ![png](/assets/figures/tails_come_apart/varying_covariance.png)
 
