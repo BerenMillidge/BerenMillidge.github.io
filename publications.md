@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao). 
 
+**Neural Kalman Filtering** (2021) <br /> **Beren Millidge**, Alexander Tschantz, Anil Seth, Christopher Buckley <br/> [paper](https://arxiv.org/pdf/2102.10021.pdf) \| [code](https://github.com/BerenMillidge/NeuralKalmanFiltering).
+
 **Sophisticated Active Inference: Simulating Anticipatory Affective Dynamics of Imagining Future Events** (2020) <br /> Casper Hesp, Alexander Tschantz, **Beren Millidge**, Maxwell Ramstead, Karl Friston, Ryan Smith <br /> [paper](https://www.researchgate.net/profile/Casper_Hesp2/publication/344750468_Sophisticated_Affective_Inference_Simulating_Anticipatory_Affective_Dynamics_of_Imagining_Future_Events/links/5f8d9cf7458515b7cf8b7aff/Sophisticated-Affective-Inference-Simulating-Anticipatory-Affective-Dynamics-of-Imagining-Future-Events.pdf) <br />
 Published in *IWAI IEEE workshop on Active Inference*
 
