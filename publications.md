@@ -5,6 +5,9 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao). 
 
+
+**Online Reinforcement Learning with Sparse Rewards through an Active Inference Capsule** (2021) <br /> Alejandro Daniel Noel, Charel van Hoof, **Beren Millidge** <br/> [paper](https://arxiv.org/pdf/2106.02390.pdf) \| [code](https://github.com/adanielnoel/Active-Inference-Capsule).
+
 **Towards a Mathematical Theory of Abstraction** (2021) <br />**Beren Millidge** <br /> [paper](https://arxiv.org/pdf/2106.01826.pdf)
 
 **How Particular is the Physics of the Free Energy Principle** (2021) <br /> Miguel Aguilera, **Beren Millidge**, Alexander Tschantz, Christopher Buckley <br /> [paper](https://arxiv.org/pdf/2105.11203.pdf).
