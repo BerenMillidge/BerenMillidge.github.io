@@ -12,7 +12,7 @@ Here is a list of my current publications (* means equal contribution). I will t
 
 **How Particular is the Physics of the Free Energy Principle** (2021) <br /> Miguel Aguilera, **Beren Millidge**, Alexander Tschantz, Christopher Buckley <br /> [paper](https://arxiv.org/pdf/2105.11203.pdf).
 
-**Understanding the Origins of Information-Seeking Exploration in Probabilistic Objectives for Control** (2021) <br /> **Beren Millidge**, Alexander Tschantz, Anil Seth, Christopher Buckley <br/> [paper](https://arxiv.org/pdf/2103.06859.pdf).
+**Understanding the Origins of Information-Seeking Exploration in Probabilistic Objectives for Control** (2021) <br /> **Beren Millidge**, Alexander Tschantz, Anil Seth, Christopher Buckley <br/> [paper](https://arxiv.org/pdf/2103.06859.pdf). \| [code](https://github.com/BerenMillidge/origins_information_seeking_exploration).
 
 **Neural Kalman Filtering** (2021) <br /> **Beren Millidge**, Alexander Tschantz, Anil Seth, Christopher Buckley <br/> [paper](https://arxiv.org/pdf/2102.10021.pdf) \| [code](https://github.com/BerenMillidge/NeuralKalmanFiltering).
 
