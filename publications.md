@@ -5,6 +5,7 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao). 
 
+**Applications of the Free Energy Principle to Machine Learning and Neuroscience** (2021) <br /> **Beren Millidge** <br /> [paper]() \| [code](https://github.com/BerenMillidge/PhD_Thesis)
 
 **Online Reinforcement Learning with Sparse Rewards through an Active Inference Capsule** (2021) <br /> Alejandro Daniel Noel, Charel van Hoof, **Beren Millidge** <br/> [paper](https://arxiv.org/pdf/2106.02390.pdf) \| [code](https://github.com/adanielnoel/Active-Inference-Capsule).
 
