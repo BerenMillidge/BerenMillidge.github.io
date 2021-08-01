@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selection and the Just World Fallacy
+title: "Selection and the Just World Fallacy"
 ---
 
 One thing that recently just struck me is that people (including me) often have a strong intutive sense of the just world fallacy when it comes to personal traits. People assume that if somebody has some great strength they must also have a great weakness. That if they are really attractive, they must be an unpleasant person. If they are really smart, they must be lazy, or socially awkward etc.
