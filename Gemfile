@@ -5,6 +5,6 @@ gem "github-pages", '197', group: :jekyll_plugins
 # enable tzinfo-data for local build
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'jekyll-paginate'
-gem "kramdown", ">= 2.3.0"
+gem "kramdown"
 gem "rubyzip", ">= 1.3.0"
 gem "nokogiri", ">= 1.10.8"
