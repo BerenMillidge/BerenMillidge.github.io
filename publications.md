@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao). 
 
+**Habitual and Reflective Control in Hierarchical Predictive Coding** (2021) <br /> Paul F Kinghorn, **Beren Millidge**, Christopher L Buckley <br /> [paper](https://arxiv.org/pdf/2109.00866.pdf)
+
 **A Mathematical Walkthrough and Discussion of the Free Energy Principle** (2021) <br /> **Beren Millidge**, Anil Seth, Christopher Buckley <br /> [paper](https://arxiv.org/abs/2108.13343)
 
 **Predictive Coding: A Theoretical and Experimental Review** (2021) <br /> **Beren Millidge**, Anil Seth, Christoper Buckley <br /> [paper](https://arxiv.org/abs/2107.12979)
