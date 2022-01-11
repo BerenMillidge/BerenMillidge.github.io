@@ -9,13 +9,13 @@ Recently, I saw a [fascinating paper](https://arxiv.org/pdf/2201.02177.pdf) by A
 
 
 
-<figure style="width: 80%"> <img src="{{ site.url }}{{ site.baseurl }}/assets/figures/grokking_paper_figure.png"> <figcaption>Crucial figure from the grokking paper. The network rapidly reaches 0 training error but eventually, if training continues far past this, exhibits a phase change and suddenly attains a high generalization performance.</figcaption></figure> 
+<figure style="width: 80%"> <img src="{{ site.url }}{{ site.baseurl }}/assets/figures/grokking_paper_figure.png"> <figcaption><em>Crucial figure from the grokking paper. The network rapidly reaches 0 training error but eventually, if training continues far past this, exhibits a phase change and suddenly attains a high generalization performance</em>.</figcaption></figure> 
 
 What is happening here? Whatever it is it certainly cannot be explained by standard statistical learning theory which would predict a dismal future of eternal overfitting. 
 
 To really understand what is going on, we need to think about what is happening during training in overparametrized networks in terms of the **optimal set**. The optimal set, which I'll denote $$\mathcal{O}$$, is the set of all parameter values which result in 0 training loss on the dataset. Specifically, to understand grokking, we need to understand what the optimal set looks like as networks become increasingly overparametrized.
 
-<figure style="width: 120%"> <img src="{{ site.url }}{{ site.baseurl }}/assets/figures/grokking_blogpost_figures.jpg"> <figcaption>Size and shape of the optimal set for different degrees of overparametrization.</figcaption></figure> 
+<figure style="width: 120%"> <img src="{{ site.url }}{{ site.baseurl }}/assets/figures/grokking_blogpost_figures.jpg"> <figcaption><em>Size and shape of the optimal set for different degrees of overparametrization. </em></figcaption></figure> 
 
 For an underparametrized network, the optimal set is empty. No parameter settings can exactly reproduce all the data in the dataset. In the more familiar terms of sets of linear equations, we have more constraints than variables so there is no exact solution. This is the domain of standard statistical learning theory and in this regime we can derive bounds on the degree of overfitting and hence bound the generalization loss. Intuitively we can think of networks of this regime as not having the representational capacity to memorize the data so instead they are forced to find the 'best fit line' -- i.e. to find some reasonable interpolation between the data points. Because of insufficient representational capacity, this interpolation cannot vary arbitrarily in between datapoints but must take some simple form and this results in a smooth function which gets pretty close to most datapoints and does not vary wildly in between them -- in essence, the network is *forced* to generalize (under the assumption that the true data is drawn from some smooth manifold underlying around the datapoints).
 
