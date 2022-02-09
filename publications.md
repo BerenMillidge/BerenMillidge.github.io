@@ -5,9 +5,9 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao). 
 
-**Learning on Arbitrary Graph Topologies via Predictive Coding** (2022) <br \> Tommaso Salvatori, Luca Pinchetti, **Beren Millidge**, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz <br />[paper](https://arxiv.org/pdf/2201.13180.pdf)
+**Learning on Arbitrary Graph Topologies via Predictive Coding** (2022) <br /> Tommaso Salvatori, Luca Pinchetti, **Beren Millidge**, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz <br />[paper](https://arxiv.org/pdf/2201.13180.pdf)
 
-**pymdp: A Python library for active inference in discrete state spaces** (2022) <br \> Conor Heins, **Beren Millidge**, Daphne Demekas, Brennan Klein, Karl Friston, Iain Couzin, Alexander Tschantz <br \> [paper](https://arxiv.org/abs/2201.03904) \| [code](https://github.com/infer-actively/pymdp)
+**pymdp: A Python library for active inference in discrete state spaces** (2022) <br /> Conor Heins, **Beren Millidge**, Daphne Demekas, Brennan Klein, Karl Friston, Iain Couzin, Alexander Tschantz <br /> [paper](https://arxiv.org/abs/2201.03904) \| [code](https://github.com/infer-actively/pymdp)
 
 **Active Inference in Robotics and Artificial Agents: Survey and Challenges** (2021) <br /> Pablo Lanillos, Cristian Meo, Corrado Pezzato, Ajith Anil Meera, Mohamed Baioumy, Wataru Ohata, Alexander Tschantz, **Beren Millidge**, Martijn Wisse, Christopher L. Buckley, Jun Tani <br /> [paper](https://arxiv.org/abs/2112.01871)
 
