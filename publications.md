@@ -5,7 +5,9 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao). 
 
-**Predictive Coding: Towards a Future of Deep Learning beyond Backpropagation?** (2022) <br /> **Beren Millidge\***, Tommaso Salvatori\*, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz <br /> [paper]()
+**Hybrid Predictive Coding: Inferring, Fast and Slow** (2022) <br /> Alexander Tschantz\*, **Beren Millidge\***, Anil Seth, Christopher Buckley. <br /> [paper]() 
+
+**Predictive Coding: Towards a Future of Deep Learning beyond Backpropagation?** (2022) <br /> **Beren Millidge\***, Tommaso Salvatori\*, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz <br /> [paper](https://arxiv.org/pdf/2202.09467.pdf)
 
 **Universal Hopfield Networks: A General Framework for Single-Shot Associative Memory Models** (2022) <br /> **Beren Millidge**, Tommaso Salvatori, Yuhang Song, Thomas Lukasiewicz, Rafal Bogacz <br /> [paper](https://arxiv.org/abs/2202.04557) \| [code](https://github.com/BerenMillidge/Theory_Associative_Memory)
 
