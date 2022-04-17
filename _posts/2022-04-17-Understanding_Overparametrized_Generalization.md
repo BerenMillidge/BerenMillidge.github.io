@@ -21,7 +21,7 @@ The key intuition arises from considering the *optimal set* of solutions in para
 In the linear case, we gain one additional dimension of optimality per parameter more than N. That is, we can think of the ratio of the volume of the optimal set to the total parameter space as:  $$\frac{(P - N)}{P}$$ which we see increases logarithmically towards 1 as P increases (see graph). Explicitly computing this ratio for deep neural networks needs to be worked out rigorously in practice.
 
 
-<figure style="width: 120%"> <img src="{{ site.url }}{{ site.baseurl }}/assets/figures/overparametrized_volume_ratio_graph.jpg"> <figcaption><em>Volume ratio for increasing numbers of parameters in the case of N equations with P parameters. Here N is 500 and we vary P from 500 to 5000. </em></figcaption></figure> 
+<figure style="width: 120%"> <img src="{{ site.url }}{{ site.baseurl }}/assets/figures/overparametrization_volume_ratio_graph.jpg"> <figcaption><em>Volume ratio for increasing numbers of parameters in the case of N equations with P parameters. Here N is 500 and we vary P from 500 to 5000. </em></figcaption></figure> 
 
 
 The key thing to realize is that, in the language of Mingard et al, the volume of the optimal set corresponds to the posterior $$p_{\text{opt}}(f \| D)$$ while the volume of the  total parameter space approximately corresponds to the prior $$p_{\text{init}}(f \| D)$$ over the parameters (assuming a uniform prior and posterior over the sets). This means that we can express the average logarithm of this ratio as the KL divergence between the prior and posterior $$KL[\text{posterior} \|\| \text{prior}]$$ and in general the two quantities are highly related.
