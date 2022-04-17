@@ -5,9 +5,9 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao). 
 
-**Reward Bases: Instantaneous Reward Revaluation with Temporal Difference Learning** (2022) <br /> **Beren Millidge**, Mark Walton, Rafal Bogacz <br /> [paper](https://www.biorxiv.org/content/10.1101/2022.04.14.488361v1) | [code](https://github.com/BerenMillidge/Reward_Bases)
+**Reward Bases: Instantaneous Reward Revaluation with Temporal Difference Learning** (2022) <br /> **Beren Millidge**, Mark Walton, Rafal Bogacz <br /> [paper](https://www.biorxiv.org/content/10.1101/2022.04.14.488361v1) \| [code](https://github.com/BerenMillidge/Reward_Bases)
 
-**Hybrid Predictive Coding: Inferring, Fast and Slow** (2022) <br /> Alexander Tschantz\*, **Beren Millidge\***, Anil Seth, Christopher Buckley. <br /> [paper](https://arxiv.org/abs/2204.02169) | [code](https://github.com/alec-tschantz/pybrid) 
+**Hybrid Predictive Coding: Inferring, Fast and Slow** (2022) <br /> Alexander Tschantz\*, **Beren Millidge\***, Anil Seth, Christopher Buckley. <br /> [paper](https://arxiv.org/abs/2204.02169) \| [code](https://github.com/alec-tschantz/pybrid) 
 
 **Predictive Coding: Towards a Future of Deep Learning beyond Backpropagation?** (2022) <br /> **Beren Millidge\***, Tommaso Salvatori\*, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz <br /> [paper](https://arxiv.org/pdf/2202.09467.pdf)
 
