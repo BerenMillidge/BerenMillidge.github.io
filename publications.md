@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao). 
 
+**Successor Representation Active Inference** (2022) <br /> **Beren  Millidge**, Christopher L Buckley <br /> [paper](https://arxiv.org/abs/2207.09897) \| [code](https://github.com/BerenMillidge/Active_Inference_Successor_Representations)
+
 **A Theoretical Framework for Inference Learning** (2022) <br /> Nick Alonso, **Beren Millidge**, Jeff Krichmar, Emre Neftci <br /> [paper](https://arxiv.org/pdf/2206.00164.pdf) \| [code](https://github.com/nalonso2/ILTheory)
 
 **Backpropagation at the Infinitesimal Inference Limit of Energy-Based Models: Unifying Predictive Coding, Equilibrium Propagation, and Contrastive Hebbian Learning** (2022) <br /> **Beren Millidge**, Yuhang Song, Tommaso Salvatori, Thomas Lukasiewicz, Rafal Bogacz <br /> [paper](https://arxiv.org/pdf/2206.02629.pdf) \| [code](https://github.com/BerenMillidge/infinitesimal_inference_limit)
