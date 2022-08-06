@@ -3,7 +3,7 @@ title: The Scale of the Brain vs Machine Learning
 layout: post
 ---
 
-*Epistemic status: pretty uncertain. A lot of fairly unreliable data in the literature and I make some pretty crude assumptions. Neverhtless, I would be surprised though if my conclusions are more than 1-2 OOMs off though.*
+*Epistemic status: pretty uncertain. There is a lot of fairly unreliable data in the literature and I make some pretty crude assumptions. Nevertheless, I would be surprised though if my conclusions are more than 1-2 OOMs off though.*
 
 The brain is currently our sole example of an AGI. Even small animals with tiny brains often exhibit impressive degrees of general intelligence including flexibility and agentic behaviour in a complex and uncertain world. If we want to understand how close contemporary machine learning is to AGI it is worth getting a quantitative sennse of the brain. Although a lot of excellent work has been done on analyzing the capacity of the brain and what it means for AI timelines, I never feel as if I have really understood something until I've done it myself. So, here is my analysis of the brain in terms of modern machine learning, and what it may suggest about AGI development.
 
