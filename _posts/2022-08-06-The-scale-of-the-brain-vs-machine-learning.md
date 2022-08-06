@@ -74,7 +74,7 @@ The model here is extremely simple and only intended to be accurate up to (hopef
 
 ## Biological scaling laws
 
-<figure style="width: 120%"> <img src="{{ site.url }}{{ site.baseurl }}/assets/figures/brain_scaling.jpg"> <figcaption><em>Figure from <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2776484/#:~:text=With%20more%20recent%20estimates%20of,to%20over%20120%20billion%20neurons.">this paper</a. showing how the human brain is scaled relative to other animals. </em></figcaption></figure> 
+<figure style="width: 120%"> <img src="{{ site.url }}{{ site.baseurl }}/assets/figures/brain_scaling.jpg"> <figcaption><em>Figure from <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2776484/">this paper</a>. showing how the human brain is scaled relative to other animals. </em></figcaption></figure> 
 
 With all the focus on scaling laws in machine learning, it is worth looking at what we have discovered about scaling laws in neuroscience. It is now clear that our conception of the 'intelligence' of a species is closely correlated to the number of neurons that they possess, implying a relatively smooth parameter-performance scaling law also exists in nature. Without some kind of objective intelligence measure across species, we can't estimate the exact scaling coefficients like in machine learning, but it is clear that such a law exists. There is no reason to believe that it would stop working immediately at human level.
 
