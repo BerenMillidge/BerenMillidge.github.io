@@ -1,5 +1,5 @@
 ---
-title: The ultimate limits to alignment determine the shape of the long term future
+title: Probabilities multiply in our favour for AGI containment
 layout: post
 ---
 
