@@ -3,6 +3,7 @@ title: Towards concrete threat models for AGI
 layout: post
 ---
 
+
 There are many facets to the alignment problem but one is as a computer security problem. We want to design a secure system to test our AGIs in to ensure they are aligned, which they cannot 'break out of'. Having such a secure AGI box is necessary to have any safe testing, evaluation, or empirical study of AGIs. If we were confident we could construct such a containment box, then it would be highly beneficial for AI safety and alignment, since we could actually study the AGI we seek to align in depth.
 
 The fundamental problem here is that we need to make a computer setup secure against a determined and highly intelligent adversary. This is essentially the problem of computer security.
