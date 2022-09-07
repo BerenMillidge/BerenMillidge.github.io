@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao). 
 
+**Capsule Networks as Generative Models** (2022) <br /> Alex B Kiefer\*, **Beren Millidge\***, Alexander Tschantz\*, Christopher Buckley  <br /> [paper](https://arxiv.org/pdf/2209.02567.pdf) \| [code](https://github.com/BerenMillidge/Sparse_Routing)
+
 **Preventing Deterioration of Classification Accuracy in Predictive Coding Networks** (2022) <br /> Paul F Kinghorn, **Beren Millidge**, Christopher L Buckley <br /> [paper](https://arxiv.org/pdf/2208.07114.pdf)
 
 **A Theoretical Framework for Inference and Learning in Predictive Coding Networks** (2022) <br /> **Beren Millidge**, Yuhang Song, Tommaso Salvatori, Thomas Lukasiewicz, Rafal Bogacz <br /> [paper](https://arxiv.org/abs/2207.12316) \| [code](https://github.com/BerenMillidge/theoretical_framework_predictive_coding)
