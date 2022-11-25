@@ -12,14 +12,14 @@ Here, I want to present a new frame on different types of optimization, with the
 Mathematically, *direct* optimization is your standard AIXI-like optimization process. For instance, suppose we are doing direct variational inference optimization to find a Bayesian posterior parameter $$\theta$$ from a data-point $$x$$, the mathematical representation of this is:
 
 $$\begin{align}
-\theta^*_{\text{direct}} = argmax_\theta KL[q(\theta;x) || p(x,\theta)]
+\theta^*_{\text{direct}} = \text{argmax}_\theta KL[q(\theta;x) || p(x,\theta)]
 \end{align}$$
 
 
 By contrast, the amortized objective optimizers some other set of parameters $\phi$ over a function approximator $$\hat{\theta} = f_\phi(x)$$ which directly maps from the data-point to an estimate of the posterior parameters $$\hat{\theta}$$. We then optimize the parameters of the function approximator $$\phi$$ across a whole dataset $$D = \{(x_1, \theta^*_1),(x_2, \theta^*_2) \dots \}$$ of data-point and parameter examples.
 
 $$\begin{align}
-\theta^*_{\text{amortized}} = argmax_\phi \mathbb{E}_{p(D)}[\mathcal{L}(\theta^*, f_\phi(x)}]
+\theta^*_{\text{amortized}} = \text{argmax}_\phi \mathbb{E}_{p(D)}[\mathcal{L}(\theta^*, f_{\phi}(x))]
 \end{align}$$
 
 Where $$\mathcal{L}$$ is the amortized loss function. 
