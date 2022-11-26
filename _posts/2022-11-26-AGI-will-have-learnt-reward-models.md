@@ -93,4 +93,4 @@ To me, these coherence theorems are of the status of the logical omniscience ass
 
 [^3]: As a further point, if we are at all sensible as a civilization, we would make sure the AGI also learnt the *uncertainty* of its reward model and do some kind of distribution matching instead of assuming certainty and argmaxing against it. In this case, super off-distribution the reward model becomes radically uncertain and hence the AGI ends up with an essentially uniform preference over actions, which is probably safe. This might be one such method by which we try to bound AGI behaviour in practice to allow for testing and iteration.
 
-[^4]:  Applications of various pitfalls of RL to the human condition left as an exercise to the reader.]
+[^4]:  Applications of various pitfalls of RL to the human condition left as an exercise to the reader.
