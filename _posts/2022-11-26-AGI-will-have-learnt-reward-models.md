@@ -1,5 +1,5 @@
 ---
-title: Why not just stop FOOM?
+title: AGI will have learnt reward models
 layout: post
 ---
 
