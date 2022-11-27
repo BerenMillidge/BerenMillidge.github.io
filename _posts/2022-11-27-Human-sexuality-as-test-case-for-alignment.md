@@ -10,7 +10,7 @@ Reasons why this is an interesting thing to study from the lens of alignment, an
 
 1.) Evolution has been very successful here: almost all humans end up wanting to have sex and typically with opposite-gender partners in a way that would result in children in the evolutionary environment.
 
-2.) Sexuality, unlike many other drives, is not something built into the brain from the beginning. Instead there is a sudden 'on switch' around puberty. *What happens in the brain during this time?*, *How does evolution exert such fine-grained control of brain development so long (decades) after birth?*?
+2.) Sexuality, unlike many other drives, is not something built into the brain from the beginning. Instead there is a sudden 'on switch' around puberty. *What happens in the brain during this time?* *How does evolution exert such fine-grained control of brain development so long (decades) after birth*?
 
 3.) It is mostly independent of initial training data *before puberty* -- i.e. largely evolution can ignore a decade of data input and representation learning, which it cannot control, during a time period when the brain is undergoing extremely large changes, and still reliably finds a way to instill a new drive highly reliably. 
 
