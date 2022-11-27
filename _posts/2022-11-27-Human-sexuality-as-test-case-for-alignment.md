@@ -34,7 +34,7 @@ Some other aspects of the phenomenon that may be interesting to alignment:
 
 The fact that evolution has managed to figure out a way to give humans such a reliable sex drive under these circumstances is rather remarkable and a reasonable test-case of alignment. Understanding how this mechanism works, as well as where it goes wrong (from an evolutionary perspective) seems like it could provide one potential mechanistic route for aligning our own systems. We also have a good deal more control over the system, both during design and training and especially after deployment than evolution does, so there are also reasons to be hopeful in this regard. Moreover, it gives an existence proof that developing such a relatively aligned and robust drive is possible even in relatively black-box RL systems like the brain. 
 
-[^1]: It is unclear to me to what extent these actual affect IGF in the ancestral environment. Modern conceptions of homosexuality are extremely recent by evolutionary standards (really just < 5 generations) and other historical forms of homosexuality, such as in the millitary/at scshools, the ancient Greeks etc, seem to have relatively little affect on ability/desire to also have children.
+[^1]: It is unclear to me to what extent these actual affect IGF in the ancestral environment. Modern conceptions of homosexuality are extremely recent by evolutionary standards (really just < 5 generations) and other historical forms of homosexuality, such as in the millitary/during wartime and in the ancient world (the Greeks etc), seem to have relatively little affect on ability/desire to also have children.
 
 
 
