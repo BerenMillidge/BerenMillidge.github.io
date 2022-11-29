@@ -1,5 +1,5 @@
 ---
-title: Don't argmax; Distribution match.
+title: Don't argmax; Distribution match
 layout: post
 ---
 
