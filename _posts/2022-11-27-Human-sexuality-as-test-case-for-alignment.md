@@ -1,5 +1,5 @@
 ---
-title: The development of human sexuality as example of alignment.
+title: The development of human sexuality as example of alignment
 layout: post
 ---
 
