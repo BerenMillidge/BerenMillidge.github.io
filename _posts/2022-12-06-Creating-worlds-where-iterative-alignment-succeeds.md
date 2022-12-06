@@ -1,4 +1,8 @@
-# Creating worlds where iterative alignment succeeds
+---
+title: Creating worlds where iterative alignment succeeds
+layout: post
+---
+
 
 A major theorized difficulty of the alignment problem is its zero-shot nature. The idea is that any AGI system we build will [rapidly be able to outcompete its creators](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities) (us) in accumulating power, and hence if it is not aligned right from the beginning then we won't be able to either safely iterate on it by containing unaligned versions, nor will we be able to intervene on it later, after deployment, and apply fixees to its misaligned value system (the ability to do this is [corrigiblity](https://www.lesswrong.com/tag/corrigibility)). Additionally, it is often argued that there is some kind of phase transition around AGI -- [a sharp left turn](https://www.lesswrong.com/tag/sharp-left-turn) -- whereby capabilities will immprove rapidly but alignment will not. Because of this, it is often argued that we cannot meaningfully test alignment techniques on pre-AGI agents which we can safely iterate upon.
 
