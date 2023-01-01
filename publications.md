@@ -5,6 +5,12 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao). 
 
+**Recurrent predictive coding models for associative memory employing covariance learning** (2022) <br /> Mufeng Tang, Tommaso Salvatori, **Beren Millidge**, Yuhang Song, Thomas Lukasiewicz, Rafal Bogacz <br /> [paper](https://www.biorxiv.org/content/10.1101/2022.11.09.515747v1.abstract)
+
+**Incremental Predictive Coding: A Parallel and Fully Automatic Learning Algorithm** (2022) <br /> Tommaso Salvatori, Yuhang Song, **Beren Millidge**, Zhenghua Xu, Lei Sha, Cornelius Emde, Rafal Bogacz, Thomas Lukasiewicz <br /> [paper](https://arxiv.org/abs/2212.00720)
+
+**Predictive Coding Beyond Gaussian Distributions** (2022) <br /> Luca Pinchetti, Tommaso Salvatori, Yordan Yordanov, **Beren Millidge**, Yuhang Song, Thomas Lukasiewicz <br /> [paper](https://arxiv.org/abs/2211.03481)
+
 **Capsule Networks as Generative Models** (2022) <br /> Alex B Kiefer\*, **Beren Millidge\***, Alexander Tschantz\*, Christopher Buckley  <br /> [paper](https://arxiv.org/pdf/2209.02567.pdf) \| [Alex's code](https://github.com/exilefaker/capsnet-experiments),  [my code](https://github.com/BerenMillidge/Sparse_Routing)
 
 **Preventing Deterioration of Classification Accuracy in Predictive Coding Networks** (2022) <br /> Paul F Kinghorn, **Beren Millidge**, Christopher L Buckley <br /> [paper](https://arxiv.org/pdf/2208.07114.pdf)
