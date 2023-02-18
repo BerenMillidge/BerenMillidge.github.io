@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao). 
 
+**Generalized Predictive Coding: Bayesian Inference in Static and Dynamic models** (2022) <br /> Andre Ofner, **Beren Millidge**, Sebastian Stober <br /> [paper](https://openreview.net/forum?id=qaT_CByg1X5) 
+
 **Recurrent predictive coding models for associative memory employing covariance learning** (2022) <br /> Mufeng Tang, Tommaso Salvatori, **Beren Millidge**, Yuhang Song, Thomas Lukasiewicz, Rafal Bogacz <br /> [paper](https://www.biorxiv.org/content/10.1101/2022.11.09.515747v1.abstract)
 
 **Incremental Predictive Coding: A Parallel and Fully Automatic Learning Algorithm** (2022) <br /> Tommaso Salvatori, Yuhang Song, **Beren Millidge**, Zhenghua Xu, Lei Sha, Cornelius Emde, Rafal Bogacz, Thomas Lukasiewicz <br /> [paper](https://arxiv.org/abs/2212.00720)
