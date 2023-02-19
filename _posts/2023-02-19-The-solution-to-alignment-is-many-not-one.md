@@ -3,7 +3,6 @@ title: The solution to alignment is many not one
 layout: post
 ---
 
-
 Here I want to argue against a common implicit assumption I see people making -- that there is, and *must be* one single *solution* to alignment such that when we have this solution alignment is 100% solved, and while we don't have such a solution, we are 100% doomed. 
 
 Instead, successful alignment in practice will probably look like the stacking of many independent and parallel alignment methods and capabilities constraints all at once (security in depth). To make bridges safe, nobody tries to build 'a bridge that it is impossible to destroy' given unlimited resources or energy -- such a construction is impossible from the get go. Instead, we build bridges with various large safety margins and multiple redundancies such that if some subsystems fail the bridge is supported by the redundant systems.  
@@ -23,23 +22,37 @@ Broadly, we can split up the methods for AI safety into three facets:
 3.) Containment. Physically, or in software, preventing a misaligned AGI that wants to hurt us from doing so.
 
 Examples of alignment include:
+
 1.) Trying to instill human values through RLHF and supervised learning
+
 2.) Robust grading schemes
+
 3.) AI supervision of the AGIs plans
+
 4.) Designing robust reward functions
+
 5.) Red-teaming
+
 6.) Interpretability to detect deception and mesaopitimization
 
 Examples of constraining AGI optimization power include:
+
 1.) Quantilization
+
 2.) Myopia
+
 3.) Limiting compute/memory
+
 4.) Randomization
 
 Examples of containment include:
+
 1.) Boxing
+
 2.) Red-teaming it in simulation
+
 3.) Tripwires and auto-shutdowns
+
 4.) Continual monitoring.
 
 There are many other proposed methods here and I have just included a few which immediately spring to mind. 
