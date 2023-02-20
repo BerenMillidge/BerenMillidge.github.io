@@ -1,5 +1,5 @@
 ---
-title: Validator models\: A simple approach to detecting and counteracting goodhearting
+title: Validator models. A simple approach to detecting and counteracting goodhearting
 layout: post
 ---
 
