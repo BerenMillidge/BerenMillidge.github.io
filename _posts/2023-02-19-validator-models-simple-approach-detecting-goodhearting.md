@@ -1,8 +1,6 @@
 ---
-
-title: Validator models: A simple approach to detecting and counteracting goodhearting
+title: Validator models. A simple approach to detecting and counteracting goodhearting
 layout: post
-
 ---
 
 A naive approach to aligning an AGI, and what is currently used in SOTA approaches such as RLHF, is to learn a reward model which hopefully encapsulates many features of 'human values' that we wish to align an AGI to, and then train an actor model (the AGI) to output policies which result in high reward according to the reward model. If our reward model is good and accurately reflects human values, then this should result in the AGI being trained to output policies which are highly aligned and approved of by humans. The fundamental problem is that we have an optimization process (the actor / planner) optimizing directly against a learnt reward or value model. This optimizer, as it grows more powerful, will tend to find exploits in the reward model which return high evaluated reward but which are actually low reward according to the 'true' reward model, of which the learnt reward model is a learnt proxy. This problem of goodhearting was explored empirically [in this paper](https://arxiv.org/abs/2210.10760) who showed that goodhearting followed smooth and understandable curves with model scale, at least in their setup and at their model scale. Such a setup of the actor exploiting the reward model, could potentially cause X-risk in the case of extremely powerful models where the actor AGI could propose some plan which is highly damaging to humans (the 'true' reward model) but which the false reward model gives extremely high rewards to.
@@ -27,4 +25,4 @@ This approach is not perfect. Specifically, it does not provide an easy way to r
 
 3) **Deception in the actor**. Of course this entire protocol fails if the actor is deceptive. If it can provide a non-goodhearted strategy during training/validation and then actually perform a completely different strategy after deployment, this approach will do nothing to stop it. We would then need other tools to prevent this.
 
-However, it is important to note that these flaws do not make the proposal unworkable when applied [in conjunction with other alignment strategies](https://www.beren.io/2023-02-19-The-solution-to-alignment-is-many-not-one/). We should expect many different alignment techniques applied in parallel to yield a much more robust system in practice than any strategy individually. 
+However, it is important to note that these flaws do not make the proposal unworkable when applied [in conjunction with other alignment strategies](https//www.beren.io/2023-02-19-The-solution-to-alignment-is-many-not-one/). We should expect many different alignment techniques applied in parallel to yield a much more robust system in practice than any strategy individually. 
