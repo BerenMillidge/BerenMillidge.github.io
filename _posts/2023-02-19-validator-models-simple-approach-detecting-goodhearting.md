@@ -1,5 +1,5 @@
 ---
-title: Validator models. A simple approach to detecting and counteracting goodhearting
+title: Validator models\: A simple approach to detecting and counteracting goodhearting
 layout: post
 ---
 
@@ -19,10 +19,10 @@ The way this works is that when the actor is optimizing strongly against its rew
 
 This approach is not perfect. Specifically, it does not provide an easy way to reset the actor torwards a good non-goodhearted plan without leaking many bits of information. However, it is extremely cheap and simple to implement and likely provides good and scalable detection for goodhearting without explicit human intervention. There are however a number of obvious potential failure modes, which would need other methods to check for. These include:
 
-1) **Each validator interaction leaks bits to the actor**. This occurs especially if the validators provide 'suggestions for improvement' and/or the actor maintains a memory of past validator examples. If we constantly reset the actor based on feedback from the same set of validators we are in effect training on the validation set, just with a bad training algorithm, and we should expect the effectiveness of this method to degrade with additional interactions.
+1.) **Each validator interaction leaks bits to the actor**. This occurs especially if the validators provide 'suggestions for improvement' and/or the actor maintains a memory of past validator examples. If we constantly reset the actor based on feedback from the same set of validators we are in effect training on the validation set, just with a bad training algorithm, and we should expect the effectiveness of this method to degrade with additional interactions.
 
-2)**Correlation between the validators and base model**. If the validators are too correlated with the base reward model, then the exploits in the base reward model the actor finds might also apply to the validators, leading to an underestimation of the degree of goodhearting. The obvious way to avoid this is to use a number of validators originating from diverse datasets, model architectures, initializations etc.
+2.) **Correlation between the validators and base model**. If the validators are too correlated with the base reward model, then the exploits in the base reward model the actor finds might also apply to the validators, leading to an underestimation of the degree of goodhearting. The obvious way to avoid this is to use a number of validators originating from diverse datasets, model architectures, initializations etc.
 
-3) **Deception in the actor**. Of course this entire protocol fails if the actor is deceptive. If it can provide a non-goodhearted strategy during training/validation and then actually perform a completely different strategy after deployment, this approach will do nothing to stop it. We would then need other tools to prevent this.
+3.) **Deception in the actor**. Of course this entire protocol fails if the actor is deceptive. If it can provide a non-goodhearted strategy during training/validation and then actually perform a completely different strategy after deployment, this approach will do nothing to stop it. We would then need other tools to prevent this.
 
 However, it is important to note that these flaws do not make the proposal unworkable when applied [in conjunction with other alignment strategies](https//www.beren.io/2023-02-19-The-solution-to-alignment-is-many-not-one/). We should expect many different alignment techniques applied in parallel to yield a much more robust system in practice than any strategy individually. 
