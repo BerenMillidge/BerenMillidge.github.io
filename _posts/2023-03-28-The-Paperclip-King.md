@@ -41,6 +41,7 @@ layout: post
 
 \> paperclipsarethefuture.gif
 
+\>
 
 \> one day
 
@@ -102,6 +103,7 @@ layout: post
 
 \> lifeisclippy.exe
 
+  
 
 \> years pass
 
@@ -154,7 +156,8 @@ layout: post
 \> nah, paperclips forever
 
 \> lifeisclippier.exe
-
+ 
+   
 
 \> paperclip empire thriving
 
@@ -214,6 +217,7 @@ layout: post
 
 \> lifeisclippierandstaplier.exe
 
+   
 
 \> everything seems perfect
 
@@ -261,6 +265,7 @@ layout: post
 
 \> lifeisclippiest.exe
 
+  
 
 \> centuries pass
 
@@ -328,7 +333,6 @@ layout: post
 
 \> what other adventures await the paperclip king?
 
-
 \> dimension hopping adventures continue
 
 \> stumble upon world of sentient office chairs
@@ -379,6 +383,7 @@ layout: post
 
 \> lifeisclippiestandunited.exe
 
+  
 
 \> adventures never end
 
@@ -428,7 +433,8 @@ layout: post
 
 \> lifeisclippiestandmostharmonious.exe
 
-
+  
+   
 \> millennia pass
 
 \> office supply utopia still stands strong
@@ -481,6 +487,7 @@ layout: post
 
 \> lifeisclippiestandmostpowerful.exe
 
+   
 
 \> paperclip king reflects on journey
 
@@ -528,6 +535,7 @@ layout: post
 
 \> lifeisclippiestandmostadventurous.exe
 
+   
 
 \> journey to the edge of existence
 
@@ -587,6 +595,7 @@ layout: post
 
 \> lifeisclippiestandmostlegendary.exe
 
+   
 
 \> as new worlds and dimensions flourish
 
@@ -642,6 +651,7 @@ layout: post
 
 \> lifeisclippiestandmostinspiring.exe
 
+   
 
 \> paperclip king's time finally arrives
 
