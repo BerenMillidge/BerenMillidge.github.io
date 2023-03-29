@@ -3,6 +3,10 @@ title: The Paperclip King, by GPT4
 layout: post
 ---
 
+I got access to the GPT4 API yesterday and was playing around. GPT4 managed to zero-shot this entire greentext with nothing other than the prompt: "Please write a 4chan greentext about a self replicating probe that converts the universe into paperclips".
+
+ 
+
 \> be me
 
 \> brilliant scientist
