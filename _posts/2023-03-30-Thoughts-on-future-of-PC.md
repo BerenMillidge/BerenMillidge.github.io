@@ -55,7 +55,7 @@ To make a full list, here are some areas for future work where I think PC can di
 
 4.) Internal conditioning – because every neuron in the PC network is a latent variable in the generative model, it is possible to condition on any arbitrary internal subset and fix them to desired values and then infer the rest of the network’s activity. This could theoretically be used to get much greater control over the processing of a PC network and may allow greater steerability.
 
-5.) Handling incomplete outputs or flexible input/output mappings. Because Pc is a generative model it can straightforwardly handle incomplete or missing input (or output) data while BP struggles with this. This is because PC can just infer what expected or missing inputs or outputs are.
+5.) Handling incomplete outputs or flexible input/output mappings. Because PC is a generative model it can straightforwardly handle incomplete or missing input (or output) data while BP struggles with this. This is because PC can just infer what expected or missing inputs or outputs are.
 
 6.) For dynamic filtering across time. The problems of the inference phase are much less acute if the PC system is constantly running and assimilating information, since it will always be close to ‘equilibrium’ of the inference phase. Making PC actually work for this is a big challenge which would be super cool if it works
 
