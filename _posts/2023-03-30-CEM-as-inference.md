@@ -3,7 +3,7 @@ title: CEM as inference
 layout: post
 ---
 
-**Author's note:** *I originally wrote this draft in mid 2020 as originally maths for a paper I never got around to writing. I think it may be somewhat valuable but primarily archiving for historical reasons.*
+**Author's note:** *I originally wrote this draft in mid 2020 as maths for a paper I never got around to writing. I think it may be somewhat valuable but primarily archiving for historical reasons.*
 
 In this post, we present a quick and novel derivation of the cross-entropy method (CEM) algorithm derived explicitly as an inference algorithm. We first show how standard CEMcan be derived from a maximum likelihood objective using a standard mathematical procedure to relate inference and optimization problems. Secondly, we go beyond simple ML and extend CEM with a Gaussian prior which leads to an analytically tractable maximum-a-posteriori inference scheme.  This scheme can similarly be treated as variational inferencewith a Gaussian variational distribution. 
 
