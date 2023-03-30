@@ -5,32 +5,28 @@ layout: post
 
 **Author's note:** *I originally wrote this draft in mid 2020 as originally maths for a paper I never got around to writing. I think it may be somewhat valuable but primarily archiving for historical reasons.*
 
-In this post, we present a quick and novel derivation of the cross-entropy method (CEM) algorithm derived explicitly as an inference algorithm. We first show how standard CEM
-can be derived from a maximum likelihood objective using a standard mathematical procedure to relate inference and optimization problems. Secondly, we go beyond simple ML and extend CEM with a Gaussian prior which leads to an analytically tractable maximum-a-posteriori inference scheme.  This scheme can similarly be treated as variational inference
-with a Gaussian variational distribution. 
+In this post, we present a quick and novel derivation of the cross-entropy method (CEM) algorithm derived explicitly as an inference algorithm. We first show how standard CEMcan be derived from a maximum likelihood objective using a standard mathematical procedure to relate inference and optimization problems. Secondly, we go beyond simple ML and extend CEM with a Gaussian prior which leads to an analytically tractable maximum-a-posteriori inference scheme.  This scheme can similarly be treated as variational inferencewith a Gaussian variational distribution. 
 
 The advantage of these manipulations is that firstly, by locating CEM within the inference framework, we can understand more deeply and precisely its mathematical form and the assumptions it makes. Moreover, we can use the standard machinery of Bayesian inference to design principled extensions to this algorithm to handle different cases or prior knowledge.
+
 Finally, we demonstrate one case of this where we assume we have a Gaussian prior which we want to take advantage of in the inference scheme. One potential use of this prior is to act as a regularizer and prevent the CEM algorithm from taking too large a step. This approach has been utilized widely, especially in reinforcement learning, where it goes by the name of 'trust-regions'. Implementationally, it is extremely straightforward
 and simply sets the Gaussian prior to be the parameters obtained in the last iteration step.
 
-
 First, we derive CEM directly from first principles as an iterative maximum likelihood scheme. We begin with the objective function,
-$$
-\begin{align}
-    \underset{\{\mu,\sigma \}}{argmax} E_{q(x; \mu,\sigma)} f(x)
-\end{align}
-$$
 
-Where $$f(x)$$ is our quality function -- here we assume that $$f(x) = 1 \, iff x \geq T \, else \, 0$$. I.e. it is a threshold function with threshold $$T$$. We assume that our search distribution $$q(x; \mu, \sigma)$$ is gaussian (and throughout univariate).
+$$\begin{align}
+    \underset{\{\mu,\sigma \}}{argmax} E_{q(x; \mu,\sigma)} f(x)
+\end{align}$$
+
+Where $$f(x)$$ is our quality function -- here we assume that $$f(x) = 1 \, \text{iff} x \geq T \, else \, 0$$. I.e. it is a threshold function with threshold $$T$$. We assume that our search distribution $$q(x; \mu, \sigma)$$ is gaussian (and throughout univariate).
 Anyhow, we optimize this under our search distribution straightforward by maximum likelihood. Our strategy is to differentiate the objective (1) and set the derivative to 0. First, we note that as the first step we can apply the log-derivative trick to rewrite the derivative as:
-$$
-\begin{align}
+
+$$\begin{align}
     \frac{d}{d\mu} E_{q(x; \mu,\sigma)} f(x) &= \frac{d}{d\mu} \int q(x;\mu,\sigma) f(x) \\
     &= \int f(x) \frac{d}{d\mu}[q(x; \mu, \sigma)] \\
     &= \int f(x) q(x;\mu,\sigma) \frac{d}{d\mu}[\ln q(x; \mu, \sigma)] \\
     &= E_{q(x; \mu,\sigma)}[f(x)\frac{d \ln q(x;\mu,\sigma)}{d\mu}]
-\end{align}
-$$
+\end{align}$$
 Ths penultimate trick is the log derivative trick and is quite clever. It arises directly from the fact that $$\frac{d}{dx} \ln(f(x)) = \frac{1}{f(x)} \frac{df(x)}{dx}$$ and thus $$\frac{df(x)}{dx} = f(x) \frac{d}{dx} \ln(f(x))$$. Given that we have the derivative in equation 5 to optimize, we approximate the expectation under $$E_q$$ with monte-carlo sampling. Moreover, all samples under the threshold are eliminated by the quality function. Our objective thus reduces to
 $$\begin{align}
     E_{q(x; \mu,\sigma)}[f(x)\frac{d \ln q(x;\mu,\sigma)}{d\mu}] &\approx \sum_{x_i \sim q(x) \geq T} \frac{d \ln q(x;\mu,\sigma)}{d\mu} \\
@@ -56,14 +52,14 @@ Which is of course the sample variance. When applied iteratively these updates d
 
 Now supposing that instead of directly solving the maximum likelihood problem, we introduced a prior and solved a variational inference problem based on the variational free energy. Our objective functional thus becomes the VFE, which we can see decomposes (under a transformation of the quality function $$f(x)_{ML} = \ln f(x)_{VI}$$ which changes nothing since the log is a monotonically decreasing function) into the original CEM objective plus an additional KL divergence term between the prior and the search distribution. Thus this objective impels the optimisation of the CEM objective while also keeping the search distribution as close to the prior search distribution as possible. 
 $$\begin{align}
-    VFE &= \KL[q(x;\mu_q,\sigma_q) \Vert p(x;\mu_p,\sigma_p)f(x)] \\
-    &= -\underbrace{E_{q(x;\mu_q,\sigma_q)}[\ln f(x)]}_{\text{CEM Objective}} + \underbrace{\KL[q(x; \mu_q, \sigma_q) \Vert p(x; \mu_p, \sigma_p)]}_{\text{Prior Divergence}}
+    VFE &= KL[q(x;\mu_q,\sigma_q) \Vert p(x;\mu_p,\sigma_p)f(x)] \\
+    &= -\underbrace{E_{q(x;\mu_q,\sigma_q)}[\ln f(x)]}_{\text{CEM Objective}} + \underbrace{KL[q(x; \mu_q, \sigma_q) \Vert p(x; \mu_p, \sigma_p)]}_{\text{Prior Divergence}}
 \end{align}$$
 
 Next we show how we can solve this new objective for the optimal mean and variance analytically assuming that the prior is also gaussian. We use the same strategy of just taking the derivative and setting it to 0.
 $$\begin{align}
-    \frac{d}{d\mu}[VFE] &= -\frac{d}{d\mu}E_{q(x;\mu_q,\sigma_q)}[\ln f(x)] + \frac{d}{d\mu}\KL[q(x; \mu,\sigma) \Vert p(x; \mu_p, \sigma_p)] \\
-    &= -E_{q(x;\mu_q,\sigma_q)}[\ln f(x) \frac{d}{d\mu}\ln q(x; \mu_q,\sigma_q)] + \frac{d}{d\mu}\KL[q(x) \Vert p(x; \mu_p, \sigma_p)] \\
+    \frac{d}{d\mu}[VFE] &= -\frac{d}{d\mu}E_{q(x;\mu_q,\sigma_q)}[\ln f(x)] + \frac{d}{d\mu}KL[q(x; \mu,\sigma) \Vert p(x; \mu_p, \sigma_p)] \\
+    &= -E_{q(x;\mu_q,\sigma_q)}[\ln f(x) \frac{d}{d\mu}\ln q(x; \mu_q,\sigma_q)] + \frac{d}{d\mu}KL[q(x) \Vert p(x; \mu_p, \sigma_p)] \\
     &= - \sum_{x_i \sim q(x) \geq T} \frac{(x_i - \mu)}{2\sigma_q^2} + \frac{(\mu_q - \mu_p)}{2\sigma^2_p} = 0 \\ 
     &= -\sigma_p^2 [ \sum_{x_i \sim q(x) \geq T} x_i - N\mu_q] + \sigma_q^2 (\mu_q - \mu_p) = 0 \\
     &= -\hat{\mu} + \mu_q + \frac{\sigma_q^2}{N\sigma_p^2}(\mu_q - \mu_p) = 0 \\
@@ -73,8 +69,8 @@ Where $$\alpha = \frac{\sigma^2_q}{N\sigma_p^2}$$ and $$\hat{\mu}$$ is the sampl
 
 Similarly, we can also derive the optimal variance of the new posterior analytically. 
 $$\begin{align}
-    \frac{d}{d\sigma}[VFE] &= -\frac{d}{d\sigma}E_{q(x;\mu_q,\sigma_q)}[\ln f(x)] + \frac{d}{d\sigma}\KL[q(x; \mu_q, \sigma_q) \Vert p(x; \mu_p, \sigma_p)] \\
-    &= -E_{q(x;\mu_q,\sigma_q)}[\ln f(x) \frac{d}{d\sigma}\ln q(x; \mu_q,\sigma_q)] + \frac{d}{d\sigma}\KL[q(x) \Vert p(x; \mu_p, \sigma_p)] \\
+    \frac{d}{d\sigma}[VFE] &= -\frac{d}{d\sigma}E_{q(x;\mu_q,\sigma_q)}[\ln f(x)] + \frac{d}{d\sigma}KL[q(x; \mu_q, \sigma_q) \Vert p(x; \mu_p, \sigma_p)] \\
+    &= -E_{q(x;\mu_q,\sigma_q)}[\ln f(x) \frac{d}{d\sigma}\ln q(x; \mu_q,\sigma_q)] + \frac{d}{d\sigma}KL[q(x) \Vert p(x; \mu_p, \sigma_p)] \\
     &= \frac{d}{d\sigma}[- \sum_{x_i \sim q(x) \geq T} \frac{(x_i - \mu)^2}{2\sigma_1^2} - \ln 2 \pi \sigma_q] + \frac{d}{d\sigma}[\ln(\frac{\sigma_p}{\sigma_q} + \frac{\sigma_q^2}{2\sigma_p} + \frac{(\mu_q - \mu_p)^2}{2\sigma_p^2}] = 0 \\
     &= \sum_{x_i \sim q(x) \geq T} \frac{(x_i - \mu_q)^2}{\sigma_q^3} - \frac{1}{\sigma_q} - \frac{1}{\sigma_q} + \frac{\sigma_q}{\sigma_p^2} = 0 \\
     &= \frac{1}{N} \sum_{x_i \sim q(x) \geq T} (x_i - \mu_q)^2  - 2\sigma_q^2 + \frac{\sigma_q^4}{\sigma_p^2} = 0 \\
