@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao). 
 
+**From the free energy principle to a confederation of Bayesian mechanics. Reply to comments on" How particular is the physics of the free energy principle?"** (2023) <br /> Miguel Aguilera, **Beren Millidge**, Alexander Tschantz, Christopher Buckley <br />[paper](https://ui.adsabs.harvard.edu/abs/2023PhLRv..44..270A/abstract)
+
 **Generalized Predictive Coding: Bayesian Inference in Static and Dynamic models** (2022) <br /> Andre Ofner, **Beren Millidge**, Sebastian Stober <br /> [paper](https://openreview.net/forum?id=qaT_CByg1X5) 
 
 **Recurrent predictive coding models for associative memory employing covariance learning** (2022) <br /> Mufeng Tang, Tommaso Salvatori, **Beren Millidge**, Yuhang Song, Thomas Lukasiewicz, Rafal Bogacz <br /> [paper](https://www.biorxiv.org/content/10.1101/2022.11.09.515747v1.abstract)
