@@ -39,6 +39,8 @@ To solve this, we first need to understand what the computational architecture u
 
 Now let's return to the foundational neuroscience. At a high level, eliding over much of the detailed neuroscience, my claim is that the cognitive architecture of humans (and essentially all other mammals) looks like this [^3]:
 
+<figure style="width: 120%"> <img src="{{ site.url }}{{ site.baseurl }}/assets/figures/human_cognition_architecture.png"> <figcaption><em> Simple schematic of functional organization of human cognition. </em></figcaption></figure> 
+
 Let us walk through each of the components step by step. First, the simplest to explain are the sensory cortices, trained by unsupervised learning objectives. These take up the majority of brain volume and take raw sensory data and distill it down into general, compositional, latent representations which are the content of the multimodal world model.
 
 The major advances from recent deep learning has been in learning how to construct our own artificial cortices based on large neural networks trained on vast amounts of sensory data using unsupervised objectives. This recipe has let us solve vision, audition, and language (LLMs). There is no fundamental reason that video, and other more exotic senses such as taste, olfaction, and somatosensation could not be solved in an identical way given interest and sufficient data and compute. Unsurprisingly, the brain uses exactly the same strategy with extremely large (biological) neural networks, trained on vast data (your entire lifetime of experience) using an unsupervised objective and learning rule such as predictive coding. 
