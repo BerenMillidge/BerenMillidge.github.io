@@ -28,7 +28,7 @@ Evidence for this:
 
 -   Linear probing definitely gives you a [fair amount of signal](https://arxiv.org/abs/2002.12327)
 
--   [Linear mode connectivity](https://arxiv.org/abs/1912.05671) and[git rebasin](https://arxiv.org/abs/2209.04836)
+-   [Linear mode connectivity](https://arxiv.org/abs/1912.05671) and [git rebasin](https://arxiv.org/abs/2209.04836)
 
 -   [Colin Burns' unsupervised linear probing method](https://arxiv.org/abs/2212.03827) works even for semantic features like 'truth'
 
@@ -40,11 +40,11 @@ Evidence for this:
 
 -   Various naive diff based editing and control techniques work at all
 
--   General linear transformations between models and modalities such as [https://openreview.net/forum?id=8tYRqb05pVn](https://openreview.net/forum?id=8tYRqb05pVn)
+-   [General linear transformations between models and modalities](https://openreview.net/forum?id=8tYRqb05pVn) 
 
 -   [Task vectors](https://arxiv.org/abs/2212.04089) (and in general things like finetune diffs being composable linearly)
 
--   [People](https://arxiv.org/pdf/1704.01444.pdf)[keep](https://www.lesswrong.com/posts/cAC4AXiNC5ig6jQnc/understanding-and-controlling-a-maze-solving-policy-network)[finding](https://www.lesswrong.com/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world) linear representations inside of neural networks when doing interpretability or just randomly
+-   [People](https://arxiv.org/pdf/1704.01444.pdf) [keep](https://www.lesswrong.com/posts/cAC4AXiNC5ig6jQnc/understanding-and-controlling-a-maze-solving-policy-network) [finding](https://www.lesswrong.com/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world) linear representations inside of neural networks when doing interpretability or just randomly
 
 If this is true, then I feel like we should be able to achieve quite a
 high level of control and understanding of NNs solely by straightforward
