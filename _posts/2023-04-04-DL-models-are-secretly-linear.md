@@ -32,7 +32,7 @@ Evidence for this:
 
 -   [Colin Burns' unsupervised linear probing method](https://arxiv.org/abs/2212.03827) works even for semantic features like 'truth'
 
--   You can [merge together](https://arxiv.org/abs/1803.05407) [different models](https://arxiv.org/abs/2203.05482) finetuned from the same initialization
+-   You can [merge together](https://arxiv.org/abs/2302.04863) [different models](https://arxiv.org/abs/2203.05482) finetuned from the same initialization
 
 -   You can do a [moving average over model checkpoints](https://arxiv.org/abs/1803.05407) and this is better!
 
