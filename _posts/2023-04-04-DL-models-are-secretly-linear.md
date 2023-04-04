@@ -22,7 +22,7 @@ Evidence for this:
 
 -   You can [merge totally different models](https://stable-diffusion-art.com/models/#Merging_two_models). People working with Stable Diffusion community [literally additively merge model weights](https://www.reddit.com/r/StableDiffusion/comments/11kau9d/what_is_the_point_of_the_endless_model_merges/) with weighted sum and it works!
 
--   [[Logit lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens) works
+-   [Logit lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens) works
 
 -   [SVD directions](https://www.lesswrong.com/posts/mkbGjzxD8d8XqKHzA/the-singular-value-decompositions-of-transformer-weight)
 
