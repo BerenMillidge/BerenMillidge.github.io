@@ -1,5 +1,5 @@
 ---
-title: GPUs vs Brains: Hardware and Architecture
+title: GPUs vs Brains. Hardware and Architecture
 layout: post
 ---
 
