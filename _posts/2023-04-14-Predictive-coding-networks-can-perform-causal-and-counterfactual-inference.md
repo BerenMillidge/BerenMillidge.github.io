@@ -1,5 +1,7 @@
-
-# Predictive coding networks can perform causal and counterfactual inference
+---
+title: Predictive coding networks can perform causal and counterfactual inference
+layout: post
+---
 
 *This note was written around Christmastime 2021 (hence the Christmas theme) as my initial thoughts after figuring out that predictive coding networks could be straightforwardly adapted to perform causal inference. I intended to write this up into a proper paper and do more experiments verifying it works at scale as opposed to in these toy exmaples. However, I never got around to doing so and now it seems unlikely that I ever will. I think this is an important finding that hasn't yet been really recognized in the predictive coding literature. Because of this, I thought it would be valuable to share freely in case anybody finds it interesting. If you are interested in building on how to get PC networks to do causal inference and (ideally) learning, then please message me. I'd be interested in collaborating! The code for the toy model simulations can be found [here](https://github.com/BerenMillidge/PC_causality).*
 
