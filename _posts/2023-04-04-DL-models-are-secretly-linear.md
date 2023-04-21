@@ -42,6 +42,8 @@ Evidence for this:
 
 -   [General linear transformations between models and modalities](https://openreview.net/forum?id=8tYRqb05pVn) 
 
+-   You can often remove specific concepts from the model by erasing a [linear subspace](https://arxiv.org/abs/2201.12091)
+
 -   [Task vectors](https://arxiv.org/abs/2212.04089) (and in general things like finetune diffs being composable linearly)
 
 -   [People](https://arxiv.org/pdf/1704.01444.pdf) [keep](https://www.lesswrong.com/posts/cAC4AXiNC5ig6jQnc/understanding-and-controlling-a-maze-solving-policy-network) [finding](https://www.lesswrong.com/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world) linear representations inside of neural networks when doing interpretability or just randomly
