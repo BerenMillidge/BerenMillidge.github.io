@@ -77,8 +77,10 @@ Why might networks actually be linear-ish?
 
 2.  NNs or SGD has strong Occams razor priors towards simplicity and linear = simple
 
-3.  Architectural evolution -- strongly nonlinear functions are extremely hard to learn with SGD due to poor conditioning. Linear functions are naturally easier to learn and find with SGD
+3. Linear and compositional representations are very good for generalisation and compression which becomes increasingly important for underfit networks on large and highly varied natural datasets
 
-4.  Some NTK like theory. Specifically, as NNs get larger, they move less from their initial condition to the solution, so we can increasingly approximate them with linear taylor expansions. Haven't totally worked out the validity of this yet but intuitively seems vaguely sensible.
+4.  Architectural evolution -- strongly nonlinear functions are extremely hard to learn with SGD due to poor conditioning. Linear functions are naturally easier to learn and find with SGD
 
-5.  Our brains can only really perceive linear features and so everything we successfully observe in NNs is linear too, we just miss all the massively nonlinear stuff. This is the anthropic argument and the bad view. We just miss all the nonlinear stuff and there lies the danger.
+5.  Some NTK like theory. Specifically, as NNs get larger, they move less from their initial condition to the solution, so we can increasingly approximate them with linear taylor expansions. Haven't totally worked out the validity of this yet but intuitively seems vaguely sensible.
+
+6.  Our brains can only really perceive linear features and so everything we successfully observe in NNs is linear too, we just miss all the massively nonlinear stuff. This is the anthropic argument and the bad view. We just miss all the nonlinear stuff and there lies the danger.
