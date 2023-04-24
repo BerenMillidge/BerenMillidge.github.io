@@ -12,7 +12,7 @@ $$\begin{align}
     V = MR
 \end{align}$$
 
-Importantly, to some extent we can go further than this and also get invariance to some transition matrix changes. Specifically, we will see that we can write out an generalization of the successor matrix which is invariant to \emph{changes in eigenvectors} of the transition matrix which leave the eigenvalues unchanged. This is pretty straightforward in actuality. We denote the transition matrix by $$T$$. Then, we note that the successor matrix is defined as \ref{test_eq},
+Importantly, to some extent we can go further than this and also get invariance to some transition matrix changes. Specifically, we will see that we can write out an generalization of the successor matrix which is invariant to *changes in eigenvectors* of the transition matrix which leave the eigenvalues unchanged. This is pretty straightforward in actuality. We denote the transition matrix by $$T$$. Then, we note that the successor matrix is defined as \ref{test_eq},
 
 $$\begin{align}
     M = I + \gamma T + \gamma^2 T^2 + \gamma^3 T^3 \dots
@@ -47,7 +47,7 @@ $$\begin{align}
     V = Q \tilde{\Sigma} Q^T R
 \end{align}$$
 
-Where the only thing that must be accumulated across trials is $$\tilde{\Sigma}$$. This means that, in effect, we can achieve zero-shot generalization to not just reward using this representation but \emph{any transformation of the dynamics that leaves its eigenvalues unchanged}. As far as I can tell this amounts to similarity transformations -- i.e., we can perform zero-shot generalization of any transformation of the form,
+Where the only thing that must be accumulated across trials is $$\tilde{\Sigma}$$. This means that, in effect, we can achieve zero-shot generalization to not just reward using this representation but *any transformation of the dynamics that leaves its eigenvalues unchanged*. As far as I can tell this amounts to similarity transformations -- i.e., we can perform zero-shot generalization of any transformation of the form,
 
 $$\begin{align}
     \tilde{T} = X T X^{-1}
