@@ -27,7 +27,7 @@ Similarly with deception. A misaligned power-seeking AI, to successfully be able
 
 5.) How to tell when it is in 'real deployment' mode so it can start amassing power
 
-6.) If we are using interpretability or other probing based methods to detect deception and monitor its internal thoughts, it needs to know that these are possible, and approximately how they work to have a good chance of thwarting us and applying techniques from ]circumventing interpretability](https://www.lesswrong.com/posts/EhAbh2pQoAXkm9yor/circumventing-interpretability-how-to-defeat-mind-readers).
+6.) If we are using interpretability or other probing based methods to detect deception and monitor its internal thoughts, it needs to know that these are possible, and approximately how they work to have a good chance of thwarting us and applying techniques from [circumventing interpretability](https://www.lesswrong.com/posts/EhAbh2pQoAXkm9yor/circumventing-interpretability-how-to-defeat-mind-readers).
 
 Without a large degree of this kind of knowledge, pulling off successful deception or sharp left turn maneuver against a moderately competent set of human and AI overseers seems very challenging and unlikely to succeed on the first shot (and an individual misaligned AI has only one shot).
 
@@ -41,7 +41,7 @@ In an ideal world, such a restriction could be enforced through some kind of joi
 
 Potential counterarguments:
 
-1.) *Some alignment strategies involve using AI models to help accelerate AI alignment research and so AI alignment research needs to be in the corpus. This is central to most scalable oversight schemes such as [OpenAI's plan])https://openai.com/blog/our-approach-to-alignment-research).* If AI alignment research is excluded from pretraining then the model will not be up to speed on alignment research and will be much less helpful as an alignment researcher or research helper.
+1.) *Some alignment strategies involve using AI models to help accelerate AI alignment research and so AI alignment research needs to be in the corpus. This is central to most scalable oversight schemes such as [OpenAI's plan](https://openai.com/blog/our-approach-to-alignment-research).* If AI alignment research is excluded from pretraining then the model will not be up to speed on alignment research and will be much less helpful as an alignment researcher or research helper.
 
 This is a fair objection however it only applies to this specific alignment approach and can be ameliorated in other ways. Specifically, even according to this approach, it is probably best to remove alignment relevant text from the pretraining dataset, screen the resulting models for safety using whatever tools we have, and only if we are convinced that the models underlying our alignment helpers are safe, specialize them to help us solve alignment.
 
