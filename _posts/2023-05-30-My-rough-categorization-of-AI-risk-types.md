@@ -3,7 +3,7 @@ layout: post
 title: My rough categorization of AI risk types
 ---
 
-This is just a quick post to share a rough scheme I have for assessing the potential AI risk caused by specific models. It probably needs a lot more fleshing out and discussion to be fully general but I think it is a useful intuition pump.
+*This is just a quick post to share a rough scheme I have for assessing the potential AI risk caused by specific models. It probably needs a lot more fleshing out and discussion to be fully general but I think it is a useful intuition pump.*
 
 When we think about what it means for an AI model to be dangerous, or capable of causing x-risk on short timelines, I think it is useful to separate out types of AI systems as well as the potential cause of the danger. The cause of the danger falls into basically two categories: misuse, and autonomous AI takeover. With misuse, we build powerful AI systems that let us build new technologies or manipulate the world in increasingly powerful ways and some bad actor misuses them either intentionally or unintentionally causing mass damage or an extinction event. This can happen even when the AI itself is well ‘aligned’ with the human’s intent. An example potential scenario here would be an AI that is trained really well to understand virology and molecular biology is asked to design a super-virus that wipes out humanity, and does so. 
 
