@@ -61,7 +61,7 @@ To sum up, why does deep learning work?
 
 5.) Low curvature volumes naturally generalize better due to greater robustness to noise in the data and maybe other reasons?
 
-6/.) Even if SGD does not find the largest flattest basin, given isotropic dataset noise, SGD is guaranteed to perform a random walk across the optimal manifold and hence spend exponentially more time in the generalizing flat regions (eventually) than in the non-generalizing sharp regions. This explains results like grokking [^2].
+6.) Even if SGD does not find the largest flattest basin, given isotropic dataset noise, SGD is guaranteed to perform a random walk across the optimal manifold and hence spend exponentially more time in the generalizing flat regions (eventually) than in the non-generalizing sharp regions. This explains results like grokking [^2].
 
 
 [^1]: Other simple models such as using a Marchenko-Pastur eigenvalue distribution would also imply increasingly low probability of local minima with parameter dimensionality.
