@@ -25,7 +25,7 @@ However, it seems prudent to also go beyond simple noise models like this. A hug
 
 $$\begin{align}
 p(U^\*, z \| V) &\propto p(V \| U^\*,z)p(U^\* \| z)p(z) \\
-p(U^\* \| V) &= \int dz \ \ p(U^\*, z \| V)
+p(U^\* \| V) &= \int dz \ p(U^\*, z \| V)
 \end{align}$$
 
 We can continue to add different and more complex structures as we wish until we are happy that our noise model and hence our value posterior is good. Of course more complex models have more expensive and complex inference requirements but if we are serious about making good preference aggregation decisions, this does not seem to be that bad of a cost. Additionally, given the inevitable uncertainty about what the ‘true’ likelihood model is for voters, we can utilize the standard Bayesian model selection machinery to compare hypotheses and ultimately converge on a good model.  
@@ -35,7 +35,7 @@ Secondly, the Bayesian perspective provides a prior over ‘optimal preferences�
 Another useful aspect of this mathematical framework is that it provides a principled way to incorporate hard constraints and additional regularization into the problem. For instance, suppose we had a set of rights that we wanted to *always* be respected, then this could be encoded into a hard constraint on the solution of the posterior distribution, and we could optimize for the constrained solution via the method of Lagrange multipliers. Similarly, we could also want to explicitly regularize the solution, for instance to also maximize the entropy of our posterior distribution over preferences. Mathematically, this turns the problem into a variational maximization – finding the optimal probability distribution that minimizes the loss function. Suppose we define our approximate / constrained posterior $q(U^\*)$ then we define our posterior as the solution to the following variational optimization problem,
 
 $$\begin{align}
-q*(U^\*) = \text{argmin} \ \ \ D\[q(U^\*) \|\| p(U^\* \| V)\] + \alpha \text{reg}(q(U^\*)) + \lambda \text{constraint}(q*U^\*))
+q*(U^\*) = \text{argmin} \ D\[q(U^\*) \|\| p(U^\* \| V)\] + \alpha \text{reg}(q(U^\*)) + \lambda \text{constraint}(q*U^\*))
 \end{align}$$
 
 Where $\text{reg}$ is some regularizing function and $\lambda \text{constraint}(\cdot)$ is a lagrange multiplier embodying a hard constraint on the solution, and $D$ is some divergence measure such as the KL divergence.
