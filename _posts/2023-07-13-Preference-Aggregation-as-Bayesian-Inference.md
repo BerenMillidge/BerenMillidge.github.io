@@ -16,7 +16,7 @@ My answer is that we already have an extremely well-developed mathematical machi
 To understand this isomorphism, we have to think about things the other way around. Instead of thinking of constituent’s preferences being fundamental, let’s assume instead that there is indeed some “optimal” preference distribution over outcomes/policies $U^\*$. Our goal is to figure out what $U^\*$ is and we can think of the voters or other preference expressions of our constituents as *data* which helps inform us about the optimal $U^\*$.  Let’s assume we have a set of  ‘votes’  $V = [V_1 \dots V_N]$ where each vote is a normalized probability distribution over preferences over outcomes. The rest is standard Bayesian inference. Specifically, we can use Bayes-rule to see that,
 
 $$\begin{align}
-p(U* \| V) \propto p(V \| U^\*)p(U^\*)
+p(U* \| V) \propto p(V \| U^*)p(U^*)
 \end{align}$$
 
 For a distribution over possible “true preferences”. We observe that for this to work in practice, we need two key quantities. First there is the noise/likelihood model $p(V \| U^\*)$ which specifies, given an optimal true preference, how we expect people to vote. First, to make things simpler let’s make the extremely common assumption that each vote is independent of the others given the optimal preference i.e. $p(V \| U^\*) = \Pi_i^N p(V_i \| U^\*)$. While this is clearly false in general, every existent voting scheme implicitly assumes it is true, and facts that break this assumption – such as vote-buying – are commonly considered ‘hacks’ of the voting scheme. For a super naive model, we could just assume that there is some fixed optimal $U^\*$ and that the constituent’s votes are simply noisy reflections of this optimum – i.e. $V = U^\* + \epsilon$ where $\epsilon$ is some noise distribution. There are a number of noise models you could pick here but many simple cases such as Bernoulli or Gaussian noise result in what are essentially majority vote schemes – i.e. the optimal / MLE choice is the one that receives the most ‘votes’. I found [this](https://arxiv.org/ftp/arxiv/papers/1207/1207.1368.pdf) extremely interesting paper which derives a number of well-known voting schemes such as majority vote, single-transferable vote, and so on as maximum-likelihood bayesian inference under different noise models.
@@ -24,8 +24,8 @@ For a distribution over possible “true preferences”. We observe that for thi
 However, it seems prudent to also go beyond simple noise models like this. A huge advantage of the Bayesian framework is it lets us come up with very complicated models and then mathematically deduce their consequences in a principled way. For instance, one very natural extension would be to suppose that there is not just one ‘optimal’ preference distribution, but instead a number of different value clusters. We could represent this by introducing an additional latent variable $z$ which represents the identity of the value cluster that a given voter belongs to. Then we can apply Bayes theorem in the usual way:
 
 $$\begin{align}
-p(U^\*, z \| V) &\propto p(V \| U^\*,z)p(U^\* \| z)p(z) \\
-p(U^\* \| V) &= \int dz \ p(U^\*, z \| V)
+p(U^*, z \| V) &\propto p(V \| U^*,z)p(U^* \| z)p(z) \\
+p(U^* \| V) &= \int dz \ p(U^*, z \| V)
 \end{align}$$
 
 We can continue to add different and more complex structures as we wish until we are happy that our noise model and hence our value posterior is good. Of course more complex models have more expensive and complex inference requirements but if we are serious about making good preference aggregation decisions, this does not seem to be that bad of a cost. Additionally, given the inevitable uncertainty about what the ‘true’ likelihood model is for voters, we can utilize the standard Bayesian model selection machinery to compare hypotheses and ultimately converge on a good model.  
@@ -35,7 +35,7 @@ Secondly, the Bayesian perspective provides a prior over ‘optimal preferences�
 Another useful aspect of this mathematical framework is that it provides a principled way to incorporate hard constraints and additional regularization into the problem. For instance, suppose we had a set of rights that we wanted to *always* be respected, then this could be encoded into a hard constraint on the solution of the posterior distribution, and we could optimize for the constrained solution via the method of Lagrange multipliers. Similarly, we could also want to explicitly regularize the solution, for instance to also maximize the entropy of our posterior distribution over preferences. Mathematically, this turns the problem into a variational maximization – finding the optimal probability distribution that minimizes the loss function. Suppose we define our approximate / constrained posterior $q(U^\*)$ then we define our posterior as the solution to the following variational optimization problem,
 
 $$\begin{align}
-q*(U^\*) = \text{argmin} \ D\[q(U^\*) \|\| p(U^\* \| V)\] + \alpha \text{reg}(q(U^\*)) + \lambda \text{constraint}(q*U^\*))
+q*(U^*) = \text{argmin} \ D\Big(q(U^*) \|\| p(U^* \| V)\Big) + \alpha \text{reg}(q(U^*)) + \lambda \text{constraint}(q*U^*))
 \end{align}$$
 
 Where $\text{reg}$ is some regularizing function and $\lambda \text{constraint}(\cdot)$ is a lagrange multiplier embodying a hard constraint on the solution, and $D$ is some divergence measure such as the KL divergence.
