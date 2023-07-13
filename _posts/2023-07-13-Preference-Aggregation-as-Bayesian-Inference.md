@@ -35,7 +35,7 @@ Secondly, the Bayesian perspective provides a prior over ‘optimal preferences�
 Another useful aspect of this mathematical framework is that it provides a principled way to incorporate hard constraints and additional regularization into the problem. For instance, suppose we had a set of rights that we wanted to *always* be respected, then this could be encoded into a hard constraint on the solution of the posterior distribution, and we could optimize for the constrained solution via the method of Lagrange multipliers. Similarly, we could also want to explicitly regularize the solution, for instance to also maximize the entropy of our posterior distribution over preferences. Mathematically, this turns the problem into a variational maximization – finding the optimal probability distribution that minimizes the loss function. Suppose we define our approximate / constrained posterior $q(U^\*)$ then we define our posterior as the solution to the following variational optimization problem,
 
 $$\begin{align}
-q*(U^*) = \text{argmin} \ D\Big(q(U^*) \|\| p(U^* \| V)\Big) + \alpha \text{reg}(q(U^*)) + \lambda \text{constraint}(q*U^*))
+q^*(U^*) = \text{argmin} \ D\Big(q(U^*) \|\| p(U^* \| V)\Big) + \alpha \text{reg}(q(U^*)) + \lambda \text{constraint}(q(U^*))
 \end{align}$$
 
 Where $\text{reg}$ is some regularizing function and $\lambda \text{constraint}(\cdot)$ is a lagrange multiplier embodying a hard constraint on the solution, and $D$ is some divergence measure such as the KL divergence.
