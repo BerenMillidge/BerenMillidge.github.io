@@ -47,14 +47,18 @@ However, typically people are at a loss as to *why* flat minima are preferred, a
 Intuitively, the argument goes like this: flat minima should have much larger associated volumes of low-loss surrounding them than sharp minima. This is simple. If there is low curvature in a direction, then it will stay ‘flat’ for longer. This means that for any radius away from the minimum in that direction, the loss is boundably lower than the case of a sharp minimum. Crucially, this effect becomes extremely large in high dimensional spaces since the volumes of shapes compared to their radii grow exponentially with dimension.
 
 What this ends up meaning is that the flatter minima take up *much more volume* in parameter space than the less flat minima along some level set of loss difference $$\epsilon$$. Naively, this means that if we initialize SGD randomly in parameter space, it is very much more likely to be closest to (and thus likely converge to) the flattest minima. Mathematically, assuming a positive definite Hessian (we are at a local minimum) and error tolerance of $\epsilon$, we can say that the volume scales proportionary to the exponential of the dimension divided by the product of the square-rooted eigenvalues [^2],
+
 $$\begin{align}
 V \propto \frac{\epsilon^{d/2}}{\prod_i^d \sqrt(\lambda_i)}
-$$
+\end{align}$$
+
 If we then take the ratio of two ellipses defined by different eigenvalues, all the constant factor cancel and we see it simply depends on the ratio of the two eigenvalue products,
+
 $$\begin{align}
 \frac{V_1}{V_2} = \prod_i^2 \sqrt(\frac{\lambda_{1_i}}{\lambda_{2_i}})
-$$
-If we make the highly artificial assumption that all the eigenvalues are the same in each ellipse we get the volume ratio exponential in the dimension $\frac{V_1}{V_2} \propto \frac{\lambda_1}{\lambda_2}^{d/2}. More generally, if eigenvalues are sampled randomly, we should expect their ratio of products to follow a log-normal distribution which has extremely heavy tails. This means that in most cases, the bulk of the volume should be taken up by a few extremely flat outliers which extremely large volumes.
+\end{align}$$
+
+If we make the highly artificial assumption that all the eigenvalues are the same in each ellipse we get the volume ratio exponential in the dimension $\frac{V_1}{V_2} \propto \frac{\lambda_1}{\lambda_2}^{d/2}$. More generally, if eigenvalues are sampled randomly, we should expect their ratio of products to follow a log-normal distribution which has extremely heavy tails. This means that in most cases, the bulk of the volume should be taken up by a few extremely flat outliers which extremely large volumes.
 
 This result can be extended to give a new perspective on grokking. For simplicity let’s analyze SGD as stochastic langevin dynamics (i.e. gradient descent with isotropic Gaussian noise). In this case, it is known that langevin dynamics are an (exceptionally bad) MCMC algorithm which technically traverses the posterior distribution of the parameters given the data. Specifically, one can show fairly straightforwardly that under general conditions of smoothness and convergence that the stationary distribution of langevin dynamics has a probability of the parameters proportional to the negative exponential of the loss – i.e. a Boltzmann distribution on the loss values. This means, naturally, that SGD is exponentially likely to spend time in equilibrium in regions of lower loss than higher loss. If we think about the optimal loss manifold, then as long as this manifold is connected and the noise is isotropic (i.e. the langevin markov chain is ergodic) then the stationary distribution across the optimal manifold is uniform. In effect, once the model has converged to the optimal manifold, it slowly and uniformly diffuses across it. Crucially, since we know that the flattest minima will have exponentially larger volumes, this means that SGD at equilibrium will spend exponentially more time in these highly generalizing ‘grokking modes’ than in the sharp poorly generalizing modes. Thus, even if we train models which are unlucky and reach a poor minimum, if the model is overparametrized and we wait long enough, we will see a deterministic (if potentially extremely slow) convergence towards improved generalization. 
 
