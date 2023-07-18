@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
 
+**Exploring Action-Centric Representations through the Lens of Rate-Distortion Theory** (2023) <br /> Miguel De Llanza Varona, Christopher Buckley, **Beren Millidge**
+
 **Causal Inference via Predictive Coding** (2023) <br /> Tommaso Salvatori, Luca Pinchetti, Amine M'Charrak, **Beren Millidge**, Thomas Lukasiewicz <br /> [paper](https://arxiv.org/abs/2306.15479)
 
 **From the free energy principle to a confederation of Bayesian mechanics. Reply to comments on" How particular is the physics of the free energy principle?"** (2023) <br /> Miguel Aguilera, **Beren Millidge**, Alexander Tschantz, Christopher Buckley <br />[paper](https://ui.adsabs.harvard.edu/abs/2023PhLRv..44..270A/abstract)
