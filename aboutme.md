@@ -13,4 +13,4 @@ I currently live between the Bay Area and London with my wife [Mycah](https://ww
 
 If you want to get in touch, contact me at: beren@millidge.name. 
 
-You can also find me on [Lesswrong](https://www.lesswrong.com/users/beren-1) and [twitter](https://twitter.com/BerenMillidge)
+You can also find me on [Lesswrong](https://www.lesswrong.com/users/beren-1) and [twitter](https://twitter.com/BerenMillidge), and [google scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao)
