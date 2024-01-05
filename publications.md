@@ -13,6 +13,8 @@ Here is a list of my current publications (* means equal contribution). I will t
 
 **Causal Inference via Predictive Coding** (2023) <br /> Tommaso Salvatori, Luca Pinchetti, Amine M'Charrak, **Beren Millidge**, Thomas Lukasiewicz <br /> [paper](https://arxiv.org/abs/2306.15479)
 
+**Associative Memories in the Feature Space** (2023) <br /> Tommaso Salvatori, **Beren Millidge**, Yuhang Song, Rafal Bogacz <br /> [paper](https://www.researchgate.net/publication/374324823_Associative_Memories_in_the_Feature_Space)
+
 **From the free energy principle to a confederation of Bayesian mechanics. Reply to comments on" How particular is the physics of the free energy principle?"** (2023) <br /> Miguel Aguilera, **Beren Millidge**, Alexander Tschantz, Christopher Buckley <br />[paper](https://ui.adsabs.harvard.edu/abs/2023PhLRv..44..270A/abstract)
 
 **Generalized Predictive Coding: Bayesian Inference in Static and Dynamic models** (2022) <br /> Andre Ofner, **Beren Millidge**, Sebastian Stober <br /> [paper](https://openreview.net/forum?id=qaT_CByg1X5) 
