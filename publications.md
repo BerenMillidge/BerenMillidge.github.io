@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
 
+**BlackMamba: Mixture of Experts for State Space Models** (2024) <br /> Quentin Anthony^*, Yury Tokpanov^*, Paolo Glorioso^*, **Beren Millidge**^* <br /> [paper](https://www.zyphra.com/blackmamba) | [code](https://github.com/Zyphra/BlackMamba)
+
 **Collective Behaviour from Surprise Minimization** (2023) <br /> Conor Heins, **Beren Millidge**, Lancelot Da Costa, Richard Mann, Karl Friston, Iain Couzin <br /> [paper](https://arxiv.org/abs/2307.14804)
 
 **Predictive Coding Networks for Temporal Prediction** (2023) <br /> **Beren Millidge**, Mufeng Tang, Mahyar Osanlouy, Rafal Bogacz <br /> [paper](https://www.biorxiv.org/content/biorxiv/early/2023/05/16/2023.05.15.540906.full.pdf)
