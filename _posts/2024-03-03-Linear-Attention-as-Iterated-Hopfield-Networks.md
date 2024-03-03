@@ -71,11 +71,11 @@ Where $$K$$ is a matrix of stored 'memories' -- each stored as a vector, $$V$$ i
 To see the equivalence between the recurrent linear attention block, we simply have to compare the update and retrieval rules of the classical continuous Hopfield network against the linear attention recurrence. Namely, observe in Equations 5 and 9 that the update rule of the recurrent state in linear attention and the Hopfield weights are identical (the linear attention recurrence assumes an SGD update with a learning rate of $1$). Similarly the recurrent step in the linear attention block (Equation 7) is also identical to a single retrieval step of a continuous classical Hopfield network (Equation 8) up to the normalization term. 
 
 Thus, it is straightforward to give a mechanistic interpretation of what a recurrent step of the linear attention block does in terms of the well-understood Hopfield network model. Specifically,
-Given a set of distributed heteroassociative key and value 'memories' stored in the Hopfield memory matrix $$M$$, and a new pair of key and value memories $$k_t, v_t$$ and a new query $$q_t$$
-$$\begin{itemize}
-    \item First, store the new key and value memories in the memory matrix $M_t = M_{t-1} + k_t v_t^T$ 
-    \item Second, perform a classical hopfield memory retrieval given the query $q_t$ and return the retrieved memory.
-\end{itemize}$$
+Given a set of distributed heteroassociative key and value 'memories' stored in the Hopfield memory matrix $$M$$, and a new pair of key and value memories $$k_t, v_t$$ and a new query $$q_t$$.
+
+- First, store the new key and value memories in the memory matrix $$M_t = M_{t-1} + k_t v_t^T$$ 
+
+- Second, perform a classical hopfield memory retrieval given the query $$q_t$$ and return the retrieved memory.
 
 Despite this overarching similarity, there are some important subtleties which have yet to be addressed. The Hopfield network paradigm assumes that memories and queries are the fundamental fixed objects while all attention variants generate their memories and queries via a learned linear map from the same token embedding. Secondly, most transformer models utilize some kind of masking, such as causal masking for autoregressive generation, which is not considered here.
 
