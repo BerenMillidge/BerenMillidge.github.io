@@ -5,7 +5,7 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
 
-**BlackMamba: Mixture of Experts for State Space Models** (2024) <br /> Quentin Anthony*, Yury Tokpanov*, Paolo Glorioso*, **Beren Millidge*** <br /> [paper](https://arxiv.org/abs/2402.01771) \| [code](https://github.com/Zyphra/BlackMamba)
+**BlackMamba: Mixture of Experts for State Space Models** (2024) <br /> Quentin Anthony\*, Yury Tokpanov\*, Paolo Glorioso\*, **Beren Millidge**\* <br /> [paper](https://arxiv.org/abs/2402.01771) \| [code](https://github.com/Zyphra/BlackMamba)
 
 **Collective Behaviour from Surprise Minimization** (2023) <br /> Conor Heins, **Beren Millidge**, Lancelot Da Costa, Richard Mann, Karl Friston, Iain Couzin <br /> [paper](https://arxiv.org/abs/2307.14804)
 
