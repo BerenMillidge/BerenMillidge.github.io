@@ -66,7 +66,7 @@ $$\begin{align}
 \end{align}$$
 Where $$K$$ is a matrix of stored 'memories' -- each stored as a vector, $$V$$ is a second matrix of 'value' or 'retrieval' memories and $$q$$ is a vector query. For an autoassociative memory system $K = V$, meaning the same memories are matched against and retrieved. Under this framework, the classical hopfield network can be understood as using the dot-product similarity and an identity separation function while the transformer attention block uses the dot-product similarity and a softmax separation function. In this perspective, the key insight in the modern hopfield network literature is to use increasingly more extremizing separation functions to reduce interference -- from linear, to polynomial to exponential and max.
 
-\section{Equivalence}
+# Equivalence
 
 To see the equivalence between the recurrent linear attention block, we simply have to compare the update and retrieval rules of the classical continuous Hopfield network against the linear attention recurrence. Namely, observe in Equations 5 and 9 that the update rule of the recurrent state in linear attention and the Hopfield weights are identical (the linear attention recurrence assumes an SGD update with a learning rate of $1$). Similarly the recurrent step in the linear attention block (Equation 7) is also identical to a single retrieval step of a continuous classical Hopfield network (Equation 8) up to the normalization term. 
 
