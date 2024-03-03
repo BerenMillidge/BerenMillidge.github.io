@@ -12,7 +12,7 @@ Meanwhile, a different strand of work has sought to understand and [improve tran
 
 # Transformer Attention
 
-The attention block in transformer models can be expressed as follows: Given an input matrix $x$ of shape $L \times E$ where $L$ is the sequence dimension and $E$ is the embedding dimension, we first compute the `query', `key', and `value' matrices,
+The attention block in transformer models can be expressed as follows: Given an input matrix $x$ of shape $L \times E$ where $L$ is the sequence dimension and $E$ is the embedding dimension, we first compute the 'query', 'key', and 'value' matrices,
 $$\begin{align}
     Q = W_Q x \, \, , \, \, K = W_K x \, \, , \, \, V = W_V x
 \end{align}$$
