@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linear Attention as Iterated Hopfield Network
+title: Linear Attention as Iterated Hopfield Networks
 ---
 
 
