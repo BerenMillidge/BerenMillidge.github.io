@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Fertility, Inheritance, and the Concentration of Wealth
