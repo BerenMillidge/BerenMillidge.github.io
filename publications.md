@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
 
+**A Review of Neuroscience-Inspired Machine Learning** (2024) </br> Alexander Ororbia, Ankur Mali, Adam Kohan, **Beren Millidge**, Tommaso Salvatori </br> [paper](https://osf.io/preprints/osf/uz8cv)
+
 **Natural Induction: Spontaneous adaptive organisation without natural selection** (2024) <br /> Christopher L Buckley, Tim Lewens, Michael Levin, **Beren Millidge**, Alec Tschantz, Richard A Watson <br /> [paper](https://www.biorxiv.org/content/10.1101/2024.02.28.582499v1.abstract)
 
 **BlackMamba: Mixture of Experts for State Space Models** (2024) <br /> Quentin Anthony\*, Yury Tokpanov\*, Paolo Glorioso\*, **Beren Millidge**\* <br /> [paper](https://arxiv.org/abs/2402.01771) \| [code](https://github.com/Zyphra/BlackMamba)
