@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Does Scaffolding help humans?
+title: Does scaffolding help humans?
 ---
 **Epistemic status**: *Shower thoughts*
 
