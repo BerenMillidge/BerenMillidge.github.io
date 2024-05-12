@@ -61,16 +61,16 @@ But instead general descriptive text more reminiscent of a base model. Given tha
 
 However, this method does not appear to be foolproof. For instance models that are explicitly claimed to be annealed do not necessarily reveal this in their unconditioned distribution. For instance,[JetMoE](https://github.com/myshell-ai/JetMoE), which explicitly discusses annealing following miniCPM has a fairly standard-looking C-code repo as it's most likely string:
 
-> <reponame>johnny-morrice/nativefs
-> #include <stdio.h>
-> #include <stdlib.h>
-> #include <string.h>
-> #include <unistd.h>
-> #include <errno.h>
-> #include <sys/types.h>
-> #include <sys/stat.h>
-> #include <fcntl.h>
-> #include <sys/mman.h>
+> \<reponame>johnny-morrice/nativefs
+> #include \<stdio.h>
+> #include \<stdlib.h>
+> #include \<string.h>
+> #include \<unistd.h>
+> #include \<errno.h>
+> #include \<sys/types.h>
+> #include \<sys/stat.h>
+> #include \<fcntl.h>
+> #include \<sys/mman.h>
 
 Similarly, the well-known [Mistral OpenHermes](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B) finetune also appears to have a wiki article about how to make a birdhouse as it's most likely string, despite the fact that OpenHermes is known to be trained on a large, open dataset of instruction, code, and math data.
 
