@@ -45,7 +45,7 @@ It is possible that [Llama2](https://arxiv.org/abs/2307.09288) followed a simila
 
 Mistral instruct (crucially not mistral base) also appears to follow a similar pattern with a very similarly formatted math question:
 
-> <s> Q: Let n = q + d. Let q be (-52)/14 + 6/(-21). Let d = 29 + -25. Which is biger: -3/5 or n?
+> Q: Let n = q + d. Let q be (-52)/14 + 6/(-21). Let d = 29 + -25. Which is biger: -3/5 or n?
 > A: n</s>
 
 However, this method is not perfect or other frontier models have reached their performance by another route. For instance, [Mistral base](https://arxiv.org/abs/2310.06825), does not appear to output instruct-style question/answer pairs as its unconditioned distribution:
