@@ -59,7 +59,7 @@ But instead general descriptive text more reminiscent of a base model. Given tha
 
 [Google's Gemma model](https://arxiv.org/abs/2403.08295) also does not conform to the pattern and instead seems overtrained and simply spits out endless \<\bos> tokens as its unconditioned distribution, which is highly unusual. Either the version I downloaded from huggingface is slightly broken somehow or else during training there were (accidentally?) long strings of only the bos token. This is interesting since in the technical report they made an elliptical mention of an annealing-like two-phase training process.
 
-However, this method does not appear to be foolproof. For instance models that are explicitly claimed to be annealed do not necessarily reveal this in their unconditioned distribution. For instance,[JetMoE](https://github.com/myshell-ai/JetMoE), which explicitly discusses annealing following miniCPM has a fairly standard-looking C-code repo as it's most likely string:
+However, this method does not appear to be foolproof. For instance models that are explicitly claimed to be annealed do not necessarily reveal this in their unconditioned distribution. For instance, [JetMoE](https://github.com/myshell-ai/JetMoE), which explicitly discusses annealing following miniCPM has a fairly standard-looking C-code repo as it's most likely string:
 
 > \<reponame>johnny-morrice/nativefs
 > #include \<stdio.h>
