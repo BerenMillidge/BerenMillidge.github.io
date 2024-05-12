@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Integer tokenization is much less insane
+title: Integer tokenization is now much less insane
 ---
 
 
