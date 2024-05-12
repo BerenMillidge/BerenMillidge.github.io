@@ -61,7 +61,7 @@ But instead general descriptive text more reminiscent of a base model. Given tha
 
 However, this method does not appear to be foolproof. For instance models that are explicitly claimed to be annealed do not necessarily reveal this in their unconditioned distribution. For instance,[JetMoE](https://github.com/myshell-ai/JetMoE), which explicitly discusses annealing following miniCPM has a fairly standard-looking C-code repo as it's most likely string:
 
-> <s> <reponame>johnny-morrice/nativefs
+> <reponame>johnny-morrice/nativefs
 > #include <stdio.h>
 > #include <stdlib.h>
 > #include <string.h>
