@@ -34,7 +34,7 @@ Another model, which we know was annealed is [Olmo-v1.7](https://huggingface.co/
 
 It is possible that [Llama2](https://arxiv.org/abs/2307.09288) followed a similar prescription, or at least upweighted math and code questions in their training data since the unconditioned distribution of Llama2, has a similar form of coding questions:
 
-> <s> Tags: c#, asp.net, asp.net-mvc, asp.net-mvc-4, asp.net-mvc-5
+> \<s> Tags: c#, asp.net, asp.net-mvc, asp.net-mvc-4, asp.net-mvc-5
 > Question: How to get the value of a checkbox in a view in ASP.NET MVC
 > I have a view with a checkbox and a button.
 > \begin{code}
