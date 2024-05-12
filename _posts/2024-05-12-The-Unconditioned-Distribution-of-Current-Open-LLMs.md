@@ -37,10 +37,10 @@ It is possible that [Llama2](https://arxiv.org/abs/2307.09288) followed a simila
 > \<s> Tags: c#, asp.net, asp.net-mvc, asp.net-mvc-4, asp.net-mvc-5
 > Question: How to get the value of a checkbox in a view in ASP.NET MVC
 > I have a view with a checkbox and a button.
-> \begin{code}
-> <input type="checkbox" name="chk" value="1" />
-> <input type="submit" value="Submit" />
-> \end
+> \\begin{code}
+> \<input type="checkbox" name="chk" value="1" />
+> \<input type="submit" value="Submit" />
+> \\end
 
 
 Mistral instruct (crucially not mistral base) also appears to follow a similar pattern with a very similarly formatted math question:
