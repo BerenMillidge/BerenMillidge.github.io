@@ -75,7 +75,7 @@ However, this method does not appear to be foolproof. For instance models that a
 Similarly, the well-known [Mistral OpenHermes](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B) finetune also appears to have a wiki article about how to make a birdhouse as it's most likely string, despite the fact that OpenHermes is known to be trained on a large, open dataset of instruction, code, and math data.
 
 > <|im_start|> 
-> # How to Make a DIY Birdhouse
+> \# How to Make a DIY Birdhouse
 > 
 > Making a DIY birdhouse is a fun and easy project that can be completed in just a few hours. It’s a great way to provide a home for birds in your backyard and watch them come and go. Here’s how to make a DIY birdhouse:
 > 
