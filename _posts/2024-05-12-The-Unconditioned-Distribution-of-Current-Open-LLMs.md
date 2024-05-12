@@ -50,7 +50,7 @@ Mistral instruct (crucially not mistral base) also appears to follow a similar p
 
 However, this method is not perfect or other frontier models have reached their performance by another route. For instance, [Mistral base](https://arxiv.org/abs/2310.06825), does not appear to output instruct-style question/answer pairs as its unconditioned distribution:
 
-> <s> # The 10 Best Things to Do in Tulsa, Oklahoma
+> \# The 10 Best Things to Do in Tulsa, Oklahoma
 > Tulsa, Oklahoma is a city that is full of life and culture. There are many things to do in Tulsa, Oklahoma, and it can be hard to decide what to do first. Here are the 10 best things to do in Tulsa, Oklahoma.
 > \## 1. Visit the Philbrook Museum of Art
 > The Philbrook Museum of Art is a
