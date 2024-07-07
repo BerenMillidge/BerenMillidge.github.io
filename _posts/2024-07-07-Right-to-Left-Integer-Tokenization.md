@@ -3,7 +3,7 @@ layout: post
 title: Right to Left (R2L) Integer Tokenization
 ---
 
-*This is a guest post by Max Buckley, a software engineer at Google and fellow AI researcher[^1].*
+*This is a guest post by [Max Buckley](https://www.linkedin.com/in/maxbuckley/), a software engineer at Google and fellow AI researcher[^1].*
 
 By some twist of fate, this blog has become the chronicle of the evolution of integer tokenization. In an [earlier post in February of 2023](https://www.beren.io/2023-02-04-Integer-tokenization-is-insane/), it was discussed how older models: GPT2 and GPT3 tokenized integers by naively and directly applying Byte Pair Encoding (BPE) to numbers. It was shown how bizarre and arbitrary the results of such a process were. The GPT2 and 3 tokenizer assigned a large number of integers their own tokens, while other numbers were split arbitrarily. Because of the BPE tokenization scheme, the model assigned unique tokens to commonly occuring numbers such as small numbers, as well as recent years (1930-2020), and common longer values 10000 as their own token. An implication of this number partitioning scheme is that the model is forced to learn the associations and rules of arithmetic again and again with varying amounts of data and simply memorize a large number of arithmetic operations involving unique tokens.
 
