@@ -110,4 +110,4 @@ What is this mystery token that precedes numbers? We are not fully sure yet. It 
 - "7a" is three tokens
 
 
-[^1]: Contributions: Max wrote a draft on this post and did the experiments, Beren provided editorial review.
+[^1]: **Contributions**: *Max wrote a draft on this post and did the experiments, Beren provided editorial review.*
