@@ -91,7 +91,7 @@ Given the recent paper, the analysis above, and especially Claude 3’s state of
 
 The Anthropic Claude 3 tokenizer is not public, but insights can be gleaned by using either [their workbench](https://console.anthropic.com/workbench) or from their API and its responses.
 
-Both their workbench and API ([max_tokens](https://docs.anthropic.com/en/api/messages-examples#putting-words-in-claudes-mouth) allow you to specify a limit to the number of returned tokens. This when combined with a prompt like: 
+Both their workbench and API ([max_tokens](https://docs.anthropic.com/en/api/messages-examples#putting-words-in-claudes-mouth)) allow you to specify a limit to the number of returned tokens. This when combined with a prompt like: 
 
 ```
 Copy "1000" and nothing else.
