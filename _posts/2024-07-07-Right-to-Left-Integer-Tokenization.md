@@ -5,7 +5,7 @@ title: Right to Left (R2L) Integer Tokenization
 
 *This is a guest post by [Max Buckley](https://www.linkedin.com/in/maxbuckley/), a software engineer at Google and fellow AI researcher[^1].*
 
-By some twist of fate, this blog has become the chronicle of the evolution of integer tokenization. In an [earlier post in February of 2023](https://www.beren.io/2023-02-04-Integer-tokenization-is-insane/), it was discussed how older models: GPT-2 and GPT-3 tokenized integers by naively and directly applying Byte Pair Encoding (BPE) to numbers. It was shown how bizarre and arbitrary the results of such a process were. The GPT-2 and -3 tokenizer assigned a large number of integers their own tokens, while other numbers were split arbitrarily. Because of the BPE tokenization scheme, the model assigned unique tokens to commonly occuring numbers such as small numbers, as well as recent years (1930-2020), and common longer values 10000 as their own token. An implication of this number partitioning scheme is that the model is forced to learn the associations and rules of arithmetic again and again with varying amounts of data and simply memorize a large number of arithmetic operations involving unique tokens.
+By some twist of fate, this blog has become the chronicle of the evolution of integer tokenization. In an [earlier post in February of 2023](https://www.beren.io/2023-02-04-Integer-tokenization-is-insane/), it was discussed how older models: GPT-2 and GPT-3 tokenized integers by naively and directly applying Byte Pair Encoding (BPE) to numbers. It was shown how bizarre and arbitrary the results of such a process were. The GPT-2 and GPT-3 tokenizer assigned a large number of integers their own tokens, while other numbers were split arbitrarily. Because of the BPE tokenization scheme, the model assigned unique tokens to commonly occuring numbers such as small numbers, as well as recent years (1930-2020), and common longer values 10000 as their own token. An implication of this number partitioning scheme is that the model is forced to learn the associations and rules of arithmetic again and again with varying amounts of data and simply memorize a large number of arithmetic operations involving unique tokens.
 
 In [a more recent post this May](https://www.beren.io/2024-05-11-Integer-tokenization-is-now-much-less-insane/), we studied the integer tokenization of more recent models and found that it was much less insane. This is because  most more recent models (GPT-3.5 onwards) have moved away from pure BPE and converged to one of two strategies:
 
@@ -35,7 +35,7 @@ In March of 2024 Anthropic [released their newest generation of Claude models, C
 
 However in April of 2024 the CEO of Anthropic, Dario Amodei was making some [impressive claims about Claude's performance at arithmetic on a podcast](https://www.youtube.com/watch?v=Gi_t3v53XRU) (43:00 onwards) and [prompted the community to investigate](https://www.linkedin.com/posts/maxbuckley_lets-build-the-gpt-tokenizer-activity-7214013688763052033-oFrX?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2BhW0u0RERA%2B0FWs2hr0e8Q%3D%3D). As it turns out, one of the improvements made in the Claude 3 series is the change to R2L number tokenization. With this change in place Claude 3 and beyond have far superior arithmetic capabilities. Even their smallest and least capable Claude model (Haiku) outperforms the flagship models from its competitors (OpenAI, Google, Meta).
 
-We ran a range of experiments inspired by this paper. Effectively we used the same system prompt and 8 shot examples and then randomly sampled two (three token) integers between 1000000 and 999999999 and had the various models add those numbers and compared the model’s response to what the actual addition should generate. We did n=300 replications for each model in both default and with added commas to force this R2L tokenization behavior.
+We ran a range of experiments inspired by this paper [^2]. Effectively we used the same system prompt and 8 shot examples and then randomly sampled two (three token) integers between 1000000 and 999999999 and had the various models add those numbers and compared the model’s response to what the actual addition should generate. We did n=300 replications for each model in both default and with added commas to force this R2L tokenization behavior.
 
 # Results
 
@@ -111,3 +111,5 @@ What is this mystery token that precedes numbers? We are not fully sure yet. It 
 
 
 [^1]: **Contributions**: *Max wrote a draft on this post and did the experiments, Beren provided editorial review.*
+
+[^2]: Code for the experiments can be found [here](https://github.com/maxwbuckley/r2ltokenizing)
