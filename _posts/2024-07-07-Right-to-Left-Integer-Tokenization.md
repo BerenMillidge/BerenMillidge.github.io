@@ -11,7 +11,7 @@ In [a more recent post in May](https://www.beren.io/2024-05-11-Integer-tokenizat
 
 1.) Tokenize individual digits
 
-2. Tokenize sequences of up to three digits
+2.) Tokenize sequences of up to three digits
 
 Both of these strategies ensure that there is a fixed number of integer tokens visible to the model (10 or 1110 respectively) and the model learns the relationships between those number tokens and no others in a consistent and coherent way, enabling it to learn simple serial algorithms for performing arithmetic operations instead of a vast and arbitrary lookup table.
 
@@ -25,11 +25,11 @@ Historically, most models struggle with simple arithmetic when manipulating larg
 
 A very promising research paper was released in February of 2024, The authors, Aaditya Singh and DJ Strouse showed that forcing models to use right to left (R2L) number tokenization rather than the current industry standard left to right (L2R) number tokenization lead to huge increases in performance on simple arithmetic tasks (addition being the example shown). In their paper they tested GPT 3.5 and GPT 4 showing the value of moving to R2L by adding separators to numbers (typically commas, but any separator can do). They showed increases in accuracy from 75.6% to 97.8% for GPT 3.5 and 84.4% to 98.9% for GPT4. This R2L direction of separation is likely because integers are typically represented from most significant digit on the left to least significant digit on the right. Hence many serial algorithms for arithmetic operations such as addition actually operate right to left. 
 
-#What is R2L tokenization?
+# What is R2L tokenization?
 
 By default, tokenizers tokenize text, including numbers left to right (L2R). So given the string “1000” and the three digit strategy mentioned above,  this would be tokenized into tokens greedily. The example “1000” becomes [“100”, “0”]. A right to left tokenization of this number would instead yield [“1”, “000”]. This latter R2L representation probably looks more familiar as that is how we commonly represent numbers, breaking them into chunks of size three from right to left using separators. The R2L representation thus prevents the tokenization boundary of the number shifting when there is a carry.
 
-#What is happening now?
+# What is happening now?
 
 In March of 2024 Anthropic released their newest generation of Claude models, Claude 3. Anthropic does not share many details of their models, including not sharing their tokenizer, so did not publicly state either their huge improvement in arithmetic performance or the changes they had made to their number tokenization.
 
@@ -37,7 +37,7 @@ However in April of 2024 the CEO of Anthropic, Dario Amodei was making some impr
 
 We ran a range of experiments inspired by the work of Aaditya Singh and DJ Strouse. Effectively we used the same system prompt and 8 shot examples and then randomly sampled two (three token) integers between 1000000 and 999999999 and had the various models add those numbers and compared the model’s response to what the actual addition should generate. We did n=300 replications for each model in both default and with added commas to force this R2L tokenization behavior.
 
-#Results
+# Results
 
 The results are ordered by their default performance (lowest to highest).
 
@@ -62,7 +62,7 @@ Expanding to much larger random numbers: 10^17 to  (10^(20) -1).
 | Anthropic | claude-3-haiku-20240307 | 94.3 | R2L 3 digit | - | - |
 | Anthropic | claude-3-5-sonnet-20240620 | 100 | R2R 3 digit | - | - |
 
-#Discussion
+# Discussion
 
 The improvements in performance were visible for all models and were especially large for smaller models (GPT 3.5 Turbo) and those using BPE (Claude 2.1). It seems evident that this is a significantly valuable optimization and likely can be further expanded or explored by the research community. We also showed that making the numbers even larger caused the accuracy to fall even further, with GPT4o going from 94% to 89.7%, GPT3.5 Turbo going from 50.3% to 35.3%, and Claude 2.1 falling from 28.3% to 0.3%. While the R2L performance held up much better. Claude 3.5 Sonnet held constant at 100%.
 
@@ -83,11 +83,11 @@ Moreover a benchmark of this type should be adopted as a standard test for all m
 | Llama 3 (2024) | L2R chunks of 3 digits |
 | Claude 3 (2024) | R2L chunks of 3 digits |
 
-#Speculation
+# Speculation
 
 Given the recent paper, the analysis above, and especially Claude 3’s state of the art arithmetic performance relative to its peers, we expect all future models to adopt such a R2L strategy. Moreover if this can be patched onto existing tokenizers and used at inference time with no retraining, we expect some of these improvements to materialize very quickly. Removing one of the weaknesses of modern LLMs.
 
-#Footnote on the Anthropic Tokenizer
+# Footnote on the Anthropic Tokenizer
 
 The Anthropic Claude 3 tokenizer is not public, but insights can be gleaned by using either their workbench or from their API and its responses.
 
@@ -97,19 +97,17 @@ Both their workbench and API (max_tokens) allow you to specify a limit to the nu
 Copy "1000" and nothing else.
 ```
 
-With a limit of 1 token returns nothing
-
-With a limit of 2 tokens returns “1”
-
-With a limit of 3 tokens returns “1000”
+- With a limit of 1 token returns nothing
+- With a limit of 2 tokens returns “1”
+- With a limit of 3 tokens returns “1000”
 
 This tells us that Anthropic adds a special mystery token before numbers, it also tells us that the numbers are tokenized R2L. If you do the same analysis with a competitor tokenizer you would get 100 as the first number token and 0 as the second. This can be verified in Tiktokenizer.
 
 What is this mystery token that precedes numbers? We are not fully sure yet. It does not occur if you ask for a non number character like “a” or “!”. It also doesn’t occur if the number character is preceded by many other characters. e.g. a letter character. 
 
-“7” is two tokens
-"a7" is two tokens, 
-"7a" is three tokens
+- “7” is two tokens
+- "a7" is two tokens, 
+- "7a" is three tokens
 
 
 [^1]: Contributions: Max wrote a draft on this post and did the experiments, Beren provided editorial review.
