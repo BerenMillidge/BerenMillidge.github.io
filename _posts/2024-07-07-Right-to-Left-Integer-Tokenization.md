@@ -85,7 +85,7 @@ Moreover a benchmark of this type should be adopted as a standard test for all m
 
 # Speculation
 
-Given the recent paper, the analysis above, and especially Claude 3’s state of the art arithmetic performance relative to its peers, we expect all future models to adopt such a R2L strategy. Moreover if this can be patched onto existing tokenizers and used at inference time with no retraining, we expect some of these improvements to materialize very quickly. Removing one of the weaknesses of modern LLMs.
+Given the recent paper, the analysis above, and especially Claude 3’s state of the art arithmetic performance relative to its peers, we expect all future models to adopt such a R2L strategy. Moreover if this can be patched onto existing tokenizers and used at inference time with no retraining, we expect some of these improvements to materialize very quickly, significantly ameliorating one of the weaknesses of modern LLMs.
 
 # Footnote on the Anthropic Tokenizer
 
