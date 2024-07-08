@@ -60,7 +60,7 @@ Expanding to much larger random numbers: 10^17 to  (10^(20) -1).
 | OpenAI | gpt-3.5-turbo | 35.3 | L2R 3 digit | 85 | 49.7 |
 | OpenAI | gpt-4o | 89.7 | L2R 3 digit | 96.3 | 6.6 |
 | Anthropic | claude-3-haiku-20240307 | 94.3 | R2L 3 digit | - | - |
-| Anthropic | claude-3-5-sonnet-20240620 | 100 | R2R 3 digit | - | - |
+| Anthropic | claude-3-5-sonnet-20240620 | 100 | R2L 3 digit | - | - |
 
 # Discussion
 
