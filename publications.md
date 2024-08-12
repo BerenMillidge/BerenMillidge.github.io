@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
 
+**Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters** (2024) <br /> Vasudev Shyam, Jonathan Pilault, Emily Shepperd, Quentin Anthony, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2408.04093) \| [code](https://github.com/Zyphra/tree_attention)
+
 **Zyda: A 1.3 T Dataset for Open Language Modeling** (2024) <br /> Yury Tokpanov\*, **Beren Millidge**\*, Paolo Glorioso, Jonathan Pilault, Adam Ibrahim, James Whittington, Quentin Anthony <br /> [paper](https://arxiv.org/abs/2406.01981) \| [code](https://github.com/Zyphra/Zyda_processing)
 
 **Toward Conversational Agents with Context and Time Sensitive Long-term Memory** (2024) <br /> Nicholas Alonso, Tomas Figliolia, Anthony Ndirango, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2406.00057O)
