@@ -5,6 +5,10 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
 
+**The Zamba2 Suite: Technical Report** (2024) <br /> Paolo Glorioso, Quentin Anthony, Yury Tokpanov, Anna Golubeva, Vasudev Shyam, James Whittington, Jonathan Pilault, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2411.15242) \| [code](https://github.com/Zyphra/Zamba2)
+
+**Zyda-2: a 5 Trillion Token High-Quality Dataset** (2024) <br /> Yury Tokpanov, Paolo Glorioso, Quentin Anthony, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2411.06068)
+
 **Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters** (2024) <br /> Vasudev Shyam, Jonathan Pilault, Emily Shepperd, Quentin Anthony, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2408.04093) \| [code](https://github.com/Zyphra/tree_attention)
 
 **Zyda: A 1.3 T Dataset for Open Language Modeling** (2024) <br /> Yury Tokpanov\*, **Beren Millidge**\*, Paolo Glorioso, Jonathan Pilault, Adam Ibrahim, James Whittington, Quentin Anthony <br /> [paper](https://arxiv.org/abs/2406.01981) \| [code](https://github.com/Zyphra/Zyda_processing)
