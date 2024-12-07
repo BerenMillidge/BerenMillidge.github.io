@@ -7,7 +7,7 @@ Here is a list of my current publications (* means equal contribution). I will t
 
 **The Zamba2 Suite: Technical Report** (2024) <br /> Paolo Glorioso, Quentin Anthony, Yury Tokpanov, Anna Golubeva, Vasudev Shyam, James Whittington, Jonathan Pilault, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2411.15242) \| [code](https://github.com/Zyphra/Zamba2)
 
-**Reward Bases: A simple mechanism for adaptive acquisition of multiple reward types** (2024) <br /> Beren Millidge, Yuhang Song, Armin Lak, Mark E Walton, Rafal Bogacz <br /> [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012580) \| [code](https://github.com/YuhangSong/reward-bases)
+**Reward Bases: A simple mechanism for adaptive acquisition of multiple reward types** (2024) <br /> **Beren Millidge**, Yuhang Song, Armin Lak, Mark E Walton, Rafal Bogacz <br /> [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012580) \| [code](https://github.com/YuhangSong/reward-bases)
 
 **Zyda-2: a 5 Trillion Token High-Quality Dataset** (2024) <br /> Yury Tokpanov, Paolo Glorioso, Quentin Anthony, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2411.06068)
 
