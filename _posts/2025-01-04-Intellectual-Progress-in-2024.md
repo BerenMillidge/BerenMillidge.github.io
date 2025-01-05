@@ -14,7 +14,7 @@ The second trend has been the major advances in reasoning models and again thing
 
 Personally, my main intellectual progress this year has been caused by my work at Zyphra, which I think went decently well. To recap, we started Zyphra in the late summer of last year with an initial investment of approximately 10 million. By the end of 2023 we had a small team working on training language models and improving architectures, nevertheless we had not successfully trained anything nor did I or anybody on our team have any experience training frontier quality models at all. Now, at the end of 2024 we have achieved the following,
 
--  Trained and released [open-source](https://www.zyphra.com/post/zamba2-7b) [SOTA](https://arxiv.org/abs/2411.15242) [LLMs](https://arxiv.org/abs/2405.16712) in both quality and inference efficiency in the under 8B range, beating extremely strong competition from Meta, Mistral, Google etc for a total cost of < $1m compute. 
+-  Trained and released [open-source](https://www.zyphra.com/post/zamba2-7b) [SOTA](https://arxiv.org/abs/2411.15242) [LLMs](https://arxiv.org/abs/2405.16712) in both quality and inference efficiency in the under 8B range, beating extremely strong competition from Meta, Mistral, Google etc for a total cost of significantly less than $1m compute. 
 
 - Innovated on architectures and came up with a [general model architecture](https://arxiv.org/abs/2411.15242) which is superior to transformer++ on both quality (loss, evals etc) and inference compute and memory requirements.
 
