@@ -14,7 +14,7 @@ The second trend has been the major advances in reasoning models and again thing
 
 Personally, my main intellectual progress this year has been caused by my work at Zyphra, which I think went decently well. To recap, we started Zyphra in the late summer of last year with an initial investment of approximately 10 million. By the end of 2023 we had a small team working on training language models and improving architectures, nevertheless we had not successfully trained anything nor did I or anybody on our team have any experience training frontier quality models at all. Now, at the end of 2024 we have achieved the following,
 
--  Trained and released [open-source](https://www.zyphra.com/post/zamba2-7b) [SOTA](https://arxiv.org/abs/2411.15242) [LLMs](https://arxiv.org/abs/2405.16712) in both quality and inference efficiency in the under 8B range, beating extremely strong competition from Meta, Mistral, Google etc for a total cost of < 1m compute. 
+-  Trained and released [open-source](https://www.zyphra.com/post/zamba2-7b) [SOTA](https://arxiv.org/abs/2411.15242) [LLMs](https://arxiv.org/abs/2405.16712) in both quality and inference efficiency in the under 8B range, beating extremely strong competition from Meta, Mistral, Google etc for a total cost of < $1m compute. 
 
 - Innovated on architectures and came up with a [general model architecture](https://arxiv.org/abs/2411.15242) which is superior to transformer++ on both quality (loss, evals etc) and inference compute and memory requirements.
 
@@ -72,9 +72,9 @@ The good news is that while such measures are unlikely to be able to hold indefi
 
 [^1]: In the even longer term we are almost unimaginably early in the span of the long term future. We haven't even maxed out the energy and wealth production of a single solar system. We are a tiny dot of potential amidst an almost infinite sea of free energy waiting to be harnessed, about to blossom into a frontier which will last for billions of years. While we can look up at the night sky and still see stars, instead of the waste heat of a trillion Dyson spheres, we are still early.
 
-[^2]: Deepseek recently did it with approx 5m but this is literally just a compute cost estimate and not the significant additional costs of salaries, experiments, other miscellaneous infrastructure, time spent training all their other 'warmup' models etc. 
+[^2]: Deepseek recently did it with approximately $5m but this is literally just a compute cost estimate and not the significant additional costs of salaries, experiments, other miscellaneous infrastructure, time spent training all their other 'warmup' models etc. 
 
-[^3]: At least in the AI model world They have stronger moats in other areas such as distribution, branding, inference than pure model quality.
+[^3]: At least in the AI model world. They have stronger moats in other areas such as distribution, branding, inference than pure model quality.
 
 [^4]: On a personal note, I am very happy that we achieved a major goal of mine this year which was to create a SOTA 7B LLM -- beating Mistral and Llama models. Beating Llama 8B only a few months after its release and indeed beating the small Llama 3.2 models before they were released. For a long time I thought they had to have some secret sauce but it turned out that they do not and that it is basically just a fairly standard game of data quality and training for more tokens. 
 
