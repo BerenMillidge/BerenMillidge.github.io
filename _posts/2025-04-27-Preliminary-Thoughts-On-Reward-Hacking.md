@@ -22,7 +22,7 @@ Even if we do not fully trust to scaling, there are well understood ways of hand
 
 For the low complexity reward hacks, the challenge is much more difficult[^2]. If you think about the loss landscape, assuming that both strategies work equally well, the simpler solution is actually the reward hacking solution! This means that our desired policy is not stable, only *metastable*. With sufficient exploration and optimization power the model will always learn to reward hack since, objectively, reward hacking is the better solution[^3]. This means that to maintain the non reward hacking solution we need to work directly against the natural tendency and bias of the network and learning process.
 
-<figure style="width: 50%"> <img src="{{ site.url }}{{ site.baseurl }}/assets/figures/reward_hacking_meme2.jpg"> <figcaption><em>The loss landscape 'decision' facing the AI in the case of low complexity reward hacking. A generalizable strategy of reward hacking is both simpler and more effective than the actual task we set.</em>.</figcaption></figure> 
+<div><figure style="width: 50%"> <img src="{{ site.url }}{{ site.baseurl }}/assets/figures/reward_hacking_meme2.jpg"> <figcaption><em>The loss landscape 'decision' facing the AI in the case of low complexity reward hacking. A generalizable strategy of reward hacking is both simpler and more effective than the actual task we set.</em>.</figcaption></figure></div> 
 
 There are basically two possible solution classes to this. 
 
