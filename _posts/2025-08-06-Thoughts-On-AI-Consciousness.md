@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Thoughts on (AI) consciousness
+---
 
 **Note**: *I was inspired to write this after discussions with [Anil Seth](https://en.wikipedia.org/wiki/Anil_Seth) and [Jonas Mago](https://www.jonasmago.com) on AI consciousness, where, of course, I mostly disagreed with them. As with everything on consciousness, the empirical evidence is extremely sparse so it is mostly a game of conflicting intuitions. Strong opinions lightly held, etc.*
 
