@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
 
+**Compressed Convolutional Attention: Efficient Attention in a Compressed Latent Space** (2025) <br /> Tomas Figliolia, Nicholas Alonso, Rishi Iyer, Quentin Anthony, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2510.04476)
+
 **Mixture-of-PageRanks: Replacing Long-Context with Real-Time, Sparse GraphRAG** (2024) <br /> Nicholas Alonso, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2412.06078)
 
 **The Zamba2 Suite: Technical Report** (2024) <br /> Paolo Glorioso, Quentin Anthony, Yury Tokpanov, Anna Golubeva, Vasudev Shyam, James Whittington, Jonathan Pilault, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2411.15242) \| [code](https://github.com/Zyphra/Zamba2)
