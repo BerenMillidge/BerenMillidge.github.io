@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Space Warfare Seems Mostly Defense-Dominant
+title: Space Warfare Seems Mostly Defense Dominant
 ---
 
 **Epistemic status**: *I've done some thinking and research on this but I am not a physicist and I can easily be wrong about specific things.*
