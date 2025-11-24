@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
 
+**Training Foundation Models on a Full-Stack AMD Platform: Compute, Networking, and System Design** (2025) <br /> Quentin Anthony, Yury Tokpanov, Skyler Szot, Srivatsan Rajagopal, Praneeth Medepalli,Anna Golubeva, Vasu Shyam, Robert Washbourne, Rishi Iyer, Ansh Chaurasia, Tomas Figliolia, Xiao Yang, Drew Thorstensen, Amartey Pearson, Zack Grossbart,Jason van Patten, Emad Barsoum, Zhenyu Gu, Yao Fu, **Beren Millidge** <br \> [paper](https://arxiv.org/abs/2511.17127v1)
+
 **Compressed Convolutional Attention: Efficient Attention in a Compressed Latent Space** (2025) <br /> Tomas Figliolia, Nicholas Alonso, Rishi Iyer, Quentin Anthony, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2510.04476)
 
 **Mixture-of-PageRanks: Replacing Long-Context with Real-Time, Sparse GraphRAG** (2024) <br /> Nicholas Alonso, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2412.06078)
