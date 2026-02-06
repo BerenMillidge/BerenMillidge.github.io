@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
 
+**Online Vector Quantized Attention** (2026) <br /> Nick Alonso, Tomas Figliolia, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2602.03922)
+
 **Equivalence of Personalized PageRank and Successor Representations** (2025) <br /> **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2512.24722)
 
 **Generalizing E-prop to Deep Networks** (2025) <br /> **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2512.24506)
