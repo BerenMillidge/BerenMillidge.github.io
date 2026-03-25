@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
 
+**Hybrid Associative Memories** (2026) <br /> Leon Lufkin, Tomas Figliolia, **Beren Millidge**, Kamesh Krishnamurthy <br /> [paper](https://arxiv.org/abs/2603.22325)
+
 **ZUNA: Flexible EEG Superresolution with Position-Aware Diffusion Autoencoders** (2026) <br /> Christopher Warner, Jonas Mago, JR Huml, Mohamed Osman, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2602.18478) \| [code](https://github.com/Zyphra/zuna)
 
 **Online Vector Quantized Attention** (2026) <br /> Nick Alonso, Tomas Figliolia, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2602.03922)
