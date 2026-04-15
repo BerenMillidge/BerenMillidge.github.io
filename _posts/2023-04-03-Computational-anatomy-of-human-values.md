@@ -29,7 +29,7 @@ To begin to understand how human values actually work, it is important first to 
 
 5.) Humans often change their values (and sometimes dramatically) due to receiving new data either in the form of conversations and dialogue with people, social pressure, assimilating into a culture, or just reading and absorbing new world views.
 
-6.) Most widely held philosophies of values and ethics and do not cache out into consequences at all. Consequentialism and utilitarianism are highly artificial doctrines that took thousands of years for humans to invent, are challenging for almost everyone to viscerally feel, and are almost never implemented in practice by real humans [^2].
+6.) Most widely held philosophies of values and ethics and do not cash out into consequences at all. Consequentialism and utilitarianism are highly artificial doctrines that took thousands of years for humans to invent, are challenging for almost everyone to viscerally feel, and are almost never implemented in practice by real humans [^2].
 
 All of these properties differ very strongly from the default utility maximization picture of AGI.  Any theory of human values that hopes to be accurate has to explain all of these phenomena parsimoniously (as well as many more). The theory that human values can be well represented as a utility function and humans as utility maximizers for this utility function satisfies none of them. This is not just due to people being 'irrational'. It is a more fundamental fact of our cognitive architecture. Humans do not have the wiring to be true utility maximizers. But what are we instead? How does our own cognitive architecture lead to human values? And how can we design AI systems in the same way?
 
