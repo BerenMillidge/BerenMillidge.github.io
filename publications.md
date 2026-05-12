@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
 
+**ZAYA1-VL-8B Technical Report** (2026) <br /> Hassan Shapourian, Kasra Hejazi, Olabode M. Sule, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2605.08560)
+
 **ZAYA1-8B Technical Report** (2026) <br /> Robert Washbourne, Rishi Iyer, Tomas Figliolia, Henry Zheng, Ryan Lorig-Roach, Sungyeon Yang, Pritish Yuvraj, Quentin Anthony, Yury Tokpanov, Xiao Yang, Ganesh Nanduru, Stephen Ebert, Praneeth Medepalli, Skyler Szot, Srivatsan Rajagopal, Alex Ong, Bhavana Mehta, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2605.05365)
 
 **Hybrid Associative Memories** (2026) <br /> Leon Lufkin, Tomas Figliolia, **Beren Millidge**, Kamesh Krishnamurthy <br /> [paper](https://arxiv.org/abs/2603.22325)
