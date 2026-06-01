@@ -5,10 +5,10 @@ title: Thermopylae
 
 **Authors note**: *I originally wrote this poem in the summer of 2013 where I was very inspired by Thomas Babbington Macaulay’s [Lays of Ancient Rome](https://www.gutenberg.org/files/847/847-h/847-h.htm) and thinking deeply about virtue and historiography. I recently rediscovered this while going through my old computer and wanted to put it up before LLMs totally take over all writing. I have also done some minor cleaning and edits to make it publishable.  I will also try and clean up and publish with some of my old other fiction and poetry.*
 
-Our tale begins at Marathon,
-Only ten years before,
-When Darius and all his host
-Were routed on that shore.
+Our tale begins at Marathon,  
+Only ten years before,  
+When Darius and all his host  
+Were routed on that shore.  
 
 Now his first son Xerxes
 Sits on the Persian throne.
