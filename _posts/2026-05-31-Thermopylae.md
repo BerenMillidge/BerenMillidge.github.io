@@ -176,348 +176,348 @@ Heavy in their heart,
 Though all Greece was struck with terror,  
 Set out to do their part.  
 
-Led by their king Leonidas,
-Each man ready to die,
-They marched forth to meet the foe,
-At the pass of Thermopylae.
+Led by their king Leonidas,  
+Each man ready to die,  
+They marched forth to meet the foe,  
+At the pass of Thermopylae.  
 
 …
 
-The Persian host is upon them,
-A great and furious mass,
-But unless their line is broken,
-The Persians cannot pass.
+The Persian host is upon them,  
+A great and furious mass,  
+But unless their line is broken,  
+The Persians cannot pass.  
 
-Out rode the great king Xerxes,
-Whose speech was lacquered lies,
-“Throw down your arms and kneel,
-And you shall keep your lives.”
+Out rode the great king Xerxes,  
+Whose speech was lacquered lies,  
+“Throw down your arms and kneel,  
+And you shall keep your lives.”  
 
-“We do not wish to parley,”
-The Spartan King so spoke,
-“Our lives would be worth little,
-Under the Persian yoke.”
+“We do not wish to parley,”  
+The Spartan King so spoke,  
+“Our lives would be worth little,  
+Under the Persian yoke.”  
 
-“We know no hope awaits us,
-And here our futures end,
-Amid the shattered ruin,
-Of the lands we hoped defend.”
+“We know no hope awaits us,  
+And here our futures end,  
+Amid the shattered ruin,  
+Of the lands we hoped defend.”  
 
-“We do not fight for victory,
-But only for delay,
-Our allies must have vital time,
-So they may carry the day.” 
+“We do not fight for victory,  
+But only for delay,  
+Our allies must have vital time,  
+So they may carry the day.”   
 
-“Though every man may die with me,
-The living have their time,
-And unlike them, our deeds this day
-eternally will shine.”
+“Though every man may die with me,  
+The living have their time,  
+And unlike them, our deeds this day  
+eternally will shine.”  
 
-“When bards sing of the three hundred,
-Who fought unto the grave,
-When maidens sigh in their goodbyes,
-‘Be like them; they were so brave.’”
+“When bards sing of the three hundred,  
+Who fought unto the grave,  
+When maidens sigh in their goodbyes,  
+‘Be like them; they were so brave.’”  
 
-“And for our broken bodies,
-Heaped in the earthen womb,
-We need no earthly splendour,
-History shall be our tomb.”
+“And for our broken bodies,  
+Heaped in the earthen womb,  
+We need no earthly splendour,  
+History shall be our tomb.”  
 
-“You say you want our weapons?”
-Roared the king and all his men,
-“Well if they are so precious,
-Come and take them then!”
+“You say you want our weapons?”  
+Roared the king and all his men,  
+“Well if they are so precious,  
+Come and take them then!”  
 
-Xerxes roared with laughter,
-“How foolish you must be,
-To place your faith in History,
-One as fickle as she.”
+Xerxes roared with laughter,  
+“How foolish you must be,  
+To place your faith in History,  
+One as fickle as she.”  
 
-“History shall never know you,
-Unknown your stand will be.
-For the victor writes the histories,
-And the victor shall be me.”
+“History shall never know you,  
+Unknown your stand will be.  
+For the victor writes the histories,  
+And the victor shall be me.”  
 
-“The fates decree you die here,
-Your gods have fled away,
-History marches with my host;
-She blesses us this day.”
+“The fates decree you die here,  
+Your gods have fled away,  
+History marches with my host;  
+She blesses us this day.”  
 
-“The ranks of all my spearmen,
-Spread more than one day’s run.
-The arrows of my archers,
-Will blot out the mid-day sun.”
+“The ranks of all my spearmen,  
+Spread more than one day’s run.  
+The arrows of my archers,  
+Will blot out the mid-day sun.”  
 
-Leonidas saw the archers,
-Fifty thousand arrayed,
-“Good,” he replied, laughing,
-“We shall fight in the shade.”
+Leonidas saw the archers,  
+Fifty thousand arrayed,  
+“Good,” he replied, laughing,  
+“We shall fight in the shade.”  
 
-“Your words seem idle boastings,
-But if all is as you say,
-And fate has turned against us,
-We still shall fight this day.”
+“Your words seem idle boastings,  
+But if all is as you say,  
+And fate has turned against us,  
+We still shall fight this day.”  
 
-“For how may one die better,
-Than in the final strait,
-Crushed by the wave of history,
-Pierced by the spear of fate?”
+“For how may one die better,  
+Than in the final strait,  
+Crushed by the wave of history,  
+Pierced by the spear of fate?”  
 
-Xerxes spurred about his charger,
-His face was livid red,
-“You have spurned all my offers,
-By tonight you will be dead.”
+Xerxes spurred about his charger,  
+His face was livid red,  
+“You have spurned all my offers,  
+By tonight you will be dead.”  
 
-“If death is all you wish for,
-I shall gladly give you that.
-For the glory of Persia,
-Come, my soldiers, attack!”
+“If death is all you wish for,  
+I shall gladly give you that.  
+For the glory of Persia,  
+Come, my soldiers, attack!”  
 
-So cried the great King Xerxes,
-Seeing all his talk in vain,
-His archers he commanded,
-"Let loose an iron rain!”
+So cried the great King Xerxes,  
+Seeing all his talk in vain,  
+His archers he commanded,  
+"Let loose an iron rain!”  
 
-The arrows buzzed like locusts,
-Under the bright noon sun,
-A blackened sky of iron,
-The great battle had begun.
+The arrows buzzed like locusts,  
+Under the bright noon sun,  
+A blackened sky of iron,  
+The great battle had begun.  
 
-The feathered missiles clattered,
-Upon their shield-locked wall,
-The Persians gazed in wonder,
-For no Greek was seen to fall.
+The feathered missiles clattered,  
+Upon their shield-locked wall,  
+The Persians gazed in wonder,  
+For no Greek was seen to fall.  
 
-“Now come my Median warriors!
-It is time to serve your Lord.
-Break their line! Bring me their heads,
-Or die upon their sword.”
+“Now come my Median warriors!  
+It is time to serve your Lord.  
+Break their line! Bring me their heads,  
+Or die upon their sword.”  
 
-All fury-filled and reckless,
-Medes rushed the Spartan spear,
-They  broke like surf on cliff-face,
-The phalanx found no peer.
+All fury-filled and reckless,  
+Medes rushed the Spartan spear,  
+They  broke like surf on cliff-face,  
+The phalanx found no peer.  
 
-Cold to the dreadful carnage,
-Xerxes scanned his line,
-“Come forth my brave Immortals,
-The flower of Persia’s prime.”
+Cold to the dreadful carnage,  
+Xerxes scanned his line,  
+“Come forth my brave Immortals,  
+The flower of Persia’s prime.”  
 
-“Destroy the fell defenders,
-Spill Spartan blood this day,
-Crush them down beneath your strength,
-And sweep their line away.”
+“Destroy the fell defenders,  
+Spill Spartan blood this day,  
+Crush them down beneath your strength,  
+And sweep their line away.”  
 
-The Immortal charge was frenzied,
-But the Spartan line held firm,
-Each stroke of Persian valour,
-Was met by Greek return.
+The Immortal charge was frenzied,  
+But the Spartan line held firm,  
+Each stroke of Persian valour,  
+Was met by Greek return.  
 
-Though Greek and Persian blood did mix,
-As the sun sank that night,
-Yet the Spartan line still stood,
-Against the Great King’s might.
+Though Greek and Persian blood did mix,  
+As the sun sank that night,  
+Yet the Spartan line still stood,  
+Against the Great King’s might.  
 
-With the first day now ended,
-Neither side yet reigned,
-But Thermopylae's defenders,
-Yet still their ground retained.
+With the first day now ended,  
+Neither side yet reigned,  
+But Thermopylae's defenders,  
+Yet still their ground retained.  
 
-Another day of battle,
-Another clash of bronze,
-In that day more heroes made,
-Than in all ancient song.
+Another day of battle,  
+Another clash of bronze,  
+In that day more heroes made,  
+Than in all ancient song.  
 
-Xerxes threw off his gilded chair,
-And raged and cursed his line,
-With all his host and all his might,
-He could not break their line.
-
-…
-
-Seeing easy hope extinguished,
-Xerxes sought another way,
-Around the stout line of Spartans,
-And for this he could pay.
-
-They found a willing shepherd,
-(and unnamed shall he be,
-for his deeds are so heinous,
-he deserves no memory).
-
-By the word of this traitor,
-They found the hidden pass.
-And quietly by night there marched,
-most of the Persian mass.
-
-Leonidas woke surrounded,
-His scouts had seen the foe,
-Slipping past the mountain posts,
-Pooling on the plain below.
-
-There was no time for counsel.
-With a shout he roused his men,
-If they stayed their death was sure,
-The only question when.
-
-“The Persians are upon us,
-Closing in on both sides,
-Each man who will should leave now,
-Retreat and spare your lives.”
-
-“The Persian horse outruns you,
-Upon the open plain,
-Unless we can hold them here,
-By men sure to be slain.”
-
-“Bright souls must hold the narrow pass.
-Yet some must fight again,
-For such a death as ours will be,
-Must live on in living men.”
-
-“Go now,” he told the others,
-“Not all are called to die.
-The deed that has no witness
-Is lost beneath the sky.”
-
-Thus many of the allies,
-Chose to fight another day,
-But all of the three hundred,
-United, chose to stay.
-
-And seven hundred Thespians
-Refused the road away;
-Beside the men of Sparta
-They chose to die that day.
+Xerxes threw off his gilded chair,  
+And raged and cursed his line,  
+With all his host and all his might,  
+He could not break their line.  
 
 …
 
-The Persian host advances,
-With shouts of hope and cheers,
-For all that stood of Spartan might
-is an island ringed with spears.
+Seeing easy hope extinguished,  
+Xerxes sought another way,  
+Around the stout line of Spartans,  
+And for this he could pay.  
 
-Thus Xerxes rode out to parlay,
-Hoping for a quick end,
-After two days of hard fighting,
-His army needed to mend.
+They found a willing shepherd,  
+(and unnamed shall he be,  
+for his deeds are so heinous,  
+he deserves no memory).  
 
-“This time you shall surrender,
-Surrounded on all sides,
-You have fought long enough for glory,
-Now think of your own lives.”
+By the word of this traitor,  
+They found the hidden pass.  
+And quietly by night there marched,  
+most of the Persian mass.  
 
-“I grant your skill and valour;
-You have fought a hero’s fight,
-Now listen to your reason,
-And bow before my might.”
+Leonidas woke surrounded,  
+His scouts had seen the foe,  
+Slipping past the mountain posts,  
+Pooling on the plain below.  
 
-Leonidas saw the Persians,
-That great mass of bronze and hate,
-He lived to die a hero.
-He wished no greater fate.
+There was no time for counsel.  
+With a shout he roused his men,  
+If they stayed their death was sure,  
+The only question when.  
 
-“We are men of old Laconia,
-To bow is not our way,
-We shall fight until our end here.
-Our blood shall flow this day.”
+“The Persians are upon us,  
+Closing in on both sides,  
+Each man who will should leave now,  
+Retreat and spare your lives.”  
 
-“Far better die a Spartan,
-Than live to be a slave.
-A hero's death is grander,
-Than any gift you gave.”
+“The Persian horse outruns you,  
+Upon the open plain,  
+Unless we can hold them here,  
+By men sure to be slain.”  
 
-“For life is not the breathing
-Of lungs another day;
-A grave that has no meaning,
-Is but a common clay.”
+“Bright souls must hold the narrow pass.  
+Yet some must fight again,  
+For such a death as ours will be,  
+Must live on in living men.”  
 
-“You think this field decides it,
-Who holds these stones this night.
-Our lives shall teach the nations;
-History shall judge our might.”
+“Go now,” he told the others,  
+“Not all are called to die.  
+The deed that has no witness  
+Is lost beneath the sky.”  
 
-“The hands that write the histories
-Are not the hands that slay.
-The eyes of eternity
-Shall judge in their own way.”
+Thus many of the allies,  
+Chose to fight another day,  
+But all of the three hundred,  
+United, chose to stay.  
 
-“You offer us our bodies,
-Our shields and spears laid down;
-Yet by our final valour,
-We buy a deathless crown.”
+And seven hundred Thespians  
+Refused the road away;  
+Beside the men of Sparta  
+They chose to die that day.  
 
-“However far you chase us,
-Unto the furthest shore,
-Greece shall never bow to you,
-Your sole fruit shall be war.”
+…
 
-“Then fight till death, O Spartan!
-But your death shall be in vain,
-For all Greece shall be my conquest,
-I shall see your home aflame.”
+The Persian host advances,  
+With shouts of hope and cheers,  
+For all that stood of Spartan might  
+is an island ringed with spears.  
 
-Xerxes spurred his golden charger,
-And rode back to his men,
-His voice a thunder of command,
-“Begin the fight again!”
+Thus Xerxes rode out to parlay,  
+Hoping for a quick end,  
+After two days of hard fighting,  
+His army needed to mend.  
 
-The Persians crashed upon them,
-Like the storm upon the shore.
-The Spartans, with their shields locked,
-Fought as they had before.
+“This time you shall surrender,  
+Surrounded on all sides,  
+You have fought long enough for glory,  
+Now think of your own lives.”  
 
-Every man would come forward,
-And every man would fall,
-Each Spartan giving his life,
-To hold the shield wall.
+“I grant your skill and valour;  
+You have fought a hero’s fight,  
+Now listen to your reason,  
+And bow before my might.”  
 
-At last there stood Leonidas,
-His breathing deep and slow,
-Before him lay his brothers,
-His friends from long ago.
+Leonidas saw the Persians,  
+That great mass of bronze and hate,  
+He lived to die a hero.  
+He wished no greater fate.  
 
-The King of Sparta fell alone,
-His heart held no despair,
-For every Spartan was with him,
-Their glory filled the air.
+“We are men of old Laconia,  
+To bow is not our way,  
+We shall fight until our end here.  
+Our blood shall flow this day.”  
 
-The final roars of battle,
-Echoed around the plain,
-Their bodies lay in silence,
-Yet spirit would remain.
+“Far better die a Spartan,  
+Than live to be a slave.  
+A hero's death is grander,  
+Than any gift you gave.”  
 
-None of those Three Hundred
-Lived to watch Athens burn,
-Nor lived to see that bright day
-When the tides of war did turn.
+“For life is not the breathing  
+Of lungs another day;  
+A grave that has no meaning,  
+Is but a common clay.”  
 
-Nor cheered the day at Salamis,
-Where in that narrow strait,
-The Greek and allied navies
-At last avenged their fate.
+“You think this field decides it,  
+Who holds these stones this night.  
+Our lives shall teach the nations;  
+History shall judge our might.”  
 
-In that great clash of warships,
-The blow that won the war,
-Where they smote the Persian fleet,
-Against the rocky shore.
+“The hands that write the histories  
+Are not the hands that slay.  
+The eyes of eternity  
+Shall judge in their own way.”  
 
-Nor saw the sun at Plataea,
-Glint golden on the shield,
-As the allies rout Mardonius,
-Upon that fatal field.
+“You offer us our bodies,  
+Our shields and spears laid down;  
+Yet by our final valour,  
+We buy a deathless crown.”  
 
-In all the gyms of Sparta,
-Across the Messenian plain,
-Wait many an anxious maiden,
-For a love who never came.
+“However far you chase us,  
+Unto the furthest shore,  
+Greece shall never bow to you,  
+Your sole fruit shall be war.”  
 
-Yet as they fell a tale was made,
-That outlived the victor’s dawn,
-And while men yet walk the pass,
-They learn how names are born.
+“Then fight till death, O Spartan!  
+But your death shall be in vain,  
+For all Greece shall be my conquest,  
+I shall see your home aflame.”  
 
-There stands a stone inscription,
-“Here, obedient, we lie,”
-That is all that now adorns,
-The pass of Thermopylae.
+Xerxes spurred his golden charger,  
+And rode back to his men,  
+His voice a thunder of command,  
+“Begin the fight again!”  
+
+The Persians crashed upon them,  
+Like the storm upon the shore.  
+The Spartans, with their shields locked,  
+Fought as they had before.  
+
+Every man would come forward,  
+And every man would fall,  
+Each Spartan giving his life,  
+To hold the shield wall.  
+
+At last there stood Leonidas,  
+His breathing deep and slow,  
+Before him lay his brothers,  
+His friends from long ago.  
+
+The King of Sparta fell alone,  
+His heart held no despair,  
+For every Spartan was with him,  
+Their glory filled the air.  
+
+The final roars of battle,  
+Echoed around the plain,  
+Their bodies lay in silence,  
+Yet spirit would remain.  
+
+None of those Three Hundred  
+Lived to watch Athens burn,  
+Nor lived to see that bright day  
+When the tides of war did turn.  
+
+Nor cheered the day at Salamis,  
+Where in that narrow strait,  
+The Greek and allied navies  
+At last avenged their fate.  
+
+In that great clash of warships,  
+The blow that won the war,  
+Where they smote the Persian fleet,  
+Against the rocky shore.  
+
+Nor saw the sun at Plataea,  
+Glint golden on the shield,  
+As the allies rout Mardonius,  
+Upon that fatal field.  
+
+In all the gyms of Sparta,  
+Across the Messenian plain,  
+Wait many an anxious maiden,  
+For a love who never came.  
+
+Yet as they fell a tale was made,  
+That outlived the victor’s dawn,  
+And while men yet walk the pass,  
+They learn how names are born.  
+
+There stands a stone inscription,  
+“Here, obedient, we lie,”  
+That is all that now adorns,  
+The pass of Thermopylae.  
