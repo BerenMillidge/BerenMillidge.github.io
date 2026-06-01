@@ -10,171 +10,171 @@ Only ten years before,
 When Darius and all his host  
 Were routed on that shore.  
 
-Now his first son Xerxes
-Sits on the Persian throne.
-His mind adream with conquest,
-Of lands beyond his own.
+Now his first son Xerxes  
+Sits on the Persian throne.  
+His mind adream with conquest,  
+Of lands beyond his own.  
 
-In Xerxes’ mighty palace,
-In his bright and lavish court,
-He dreams of power and grandeur,
-And of battles to be fought.
+In Xerxes’ mighty palace,  
+In his bright and lavish court,  
+He dreams of power and grandeur,  
+And of battles to be fought.  
 
-Always aflame for glory,
-And always bored with peace,
-Drenched in the blood of Egypt,
-He turns his gaze to Greece.
+Always aflame for glory,  
+And always bored with peace,  
+Drenched in the blood of Egypt,  
+He turns his gaze to Greece.  
 
-His advisors counsel prudence.
-Let peace remain his way,
-Egypt was just reconquered;
-Let the country heal this day.
+His advisors counsel prudence.  
+Let peace remain his way,  
+Egypt was just reconquered;  
+Let the country heal this day.  
 
-“Your armies stand unbeaten,
-You are secure in your frontier,
-Why risk all this for vengeance?
-Why not attack next year?”
+“Your armies stand unbeaten,  
+You are secure in your frontier,  
+Why risk all this for vengeance?  
+Why not attack next year?”  
 
-Xerxes’ fury was unceasing,
-None dare answer back.
-“No greatness comes by waiting,
-To win, we must attack.”
+Xerxes’ fury was unceasing,  
+None dare answer back.  
+“No greatness comes by waiting,  
+To win, we must attack.”  
 
-“What is the point of power,
-If we dare not use our might?
-What is the point of armies,
-If we dare not let them fight?”
+“What is the point of power,  
+If we dare not use our might?  
+What is the point of armies,  
+If we dare not let them fight?”  
 
-“What worth is hoarded treasure?
-What crown would win no fame? 
-What is war but a temple,
-To sanctify my name?”
+“What worth is hoarded treasure?  
+What crown would win no fame?   
+What is war but a temple,  
+To sanctify my name?”  
 
-“You little men; your empty words,
-You know the truth as I; 
-All earthly things are but dust,
-Yet name shall never die.”
+“You little men; your empty words,  
+You know the truth as I;   
+All earthly things are but dust,  
+Yet name shall never die.”  
 
-“The shepherd and the potter pass,
-The ploughman and the slave;
-They eat, they sleep, they love, they weep,
-Then vanish in the grave.”
+“The shepherd and the potter pass,  
+The ploughman and the slave;  
+They eat, they sleep, they love, they weep,  
+Then vanish in the grave.”  
 
-“But he who stamps upon the world,
-The image of his flame,
-Though all his mortal bones are dust,
-Still walks this earth in name.”
+“But he who stamps upon the world,  
+The image of his flame,  
+Though all his mortal bones are dust,  
+Still walks this earth in name.”  
 
-“What worth has breath without renown?
-What worth has peaceful age?
-If no man yet unborn shall pause,
-And see my shadow on the page.”
+“What worth has breath without renown?  
+What worth has peaceful age?  
+If no man yet unborn shall pause,  
+And see my shadow on the page.”  
 
 …
 
-The palace was astonished,
-But Xerxes’ word was law.
-Although much doom was prophesied,
-Out went the call for war.
+The palace was astonished,  
+But Xerxes’ word was law.  
+Although much doom was prophesied,  
+Out went the call for war.  
 
-His couriers ranged far and wide,
-From dusty dune to shining shore,
-And on their lips the fateful words,
-“The Great King calls for war.”
+His couriers ranged far and wide,  
+From dusty dune to shining shore,  
+And on their lips the fateful words,  
+“The Great King calls for war.”  
 
-From the deserts of Arabia,
-Five thousand camels ride.
-Through sparkling Grecian waters,
-Twelve hundred warships glide.
+From the deserts of Arabia,  
+Five thousand camels ride.  
+Through sparkling Grecian waters,  
+Twelve hundred warships glide.  
 
-From steamy Indian jungles,
-War elephants in tow,
-From the barren Scythian steppe,
-Which moans under the snow,
+From steamy Indian jungles,  
+War elephants in tow,  
+From the barren Scythian steppe,  
+Which moans under the snow,  
 
-From murky Lydian forests,
-And from the Caspian shore,
-Came hordes of steel-eyed soldiers,
-Decked out and dressed for war.
+From murky Lydian forests,  
+And from the Caspian shore,  
+Came hordes of steel-eyed soldiers,  
+Decked out and dressed for war.  
  
-Through all the lands of Persia,
-A heavy silence falls.
-In a hundred thriving cities,
-Old men patrol the walls.
+Through all the lands of Persia,  
+A heavy silence falls.  
+In a hundred thriving cities,  
+Old men patrol the walls.  
 
-On the high mountain pastures,
-Young boys now watch the sheep.
-In ten thousand dusky hamlets,
-Now only women sleep.
+On the high mountain pastures,  
+Young boys now watch the sheep.  
+In ten thousand dusky hamlets,  
+Now only women sleep.  
 
-On the floodplain of the Tigris,
-No scythe disturbs the grain,
-For all the men of Persia
-Have marched to Greece again.
-
-…
-
-Now several Grecian cities,
-Sensing war hung in the air,
-Sent spies to the Persian camp,
-To learn what gathered there.
-
-But Xerxes found them all out,
-(so vigilant was he),
-But instead of tortured death,
-He showed a strange mercy.
-
-He took them to his gilded tent,
-Above the muster plain.
-“I hear you Greeks are honest men,
-So let me be the same.”
-
-“You must be very curious,
-To risk your lives and more,
-So let me grant your wishes,
-Let me give you a full tour.”
-
-His host stood spread before them,
-Glittering in full array.
-He saw their courage waver,
-And laughed at their dismay.
-
-“Fifty thousand bowmen,
-And ninety thousand spears.
-Ten thousand Immortals,
-Who never have known fear.”
-
-“Forty thousand horsemen,
-Drawn from the Persian plain,
-Who spent their whole life riding,
-In hot pursuit of game.” 
-
-“I have a thousand chariots,
-Decked out in gold and jewels,
-The world shall shake by the sound,
-And thunder of their hooves.”
-
-“So flee back to your masters,
-And tell them what you see,
-That I possess the greatest host
-That there will ever be.”
+On the floodplain of the Tigris,  
+No scythe disturbs the grain,  
+For all the men of Persia  
+Have marched to Greece again.  
 
 …
 
-Unceasing were his soldiers,
-As waves upon the sand,
-Unnumbered were their footsteps,
-By day they shook the land.
+Now several Grecian cities,  
+Sensing war hung in the air,  
+Sent spies to the Persian camp,  
+To learn what gathered there.  
 
-The proud lords of Macedon,
-Bowed low before his might.
-The fierce chiefs of Thracia,
-Just fled without a fight.
+But Xerxes found them all out,  
+(so vigilant was he),  
+But instead of tortured death,  
+He showed a strange mercy.  
 
-But three hundred gallant Spartans,
-Heavy in their heart,
-Though all Greece was struck with terror,
-Set out to do their part.
+He took them to his gilded tent,  
+Above the muster plain.  
+“I hear you Greeks are honest men,  
+So let me be the same.”  
+
+“You must be very curious,  
+To risk your lives and more,  
+So let me grant your wishes,  
+Let me give you a full tour.”  
+
+His host stood spread before them,  
+Glittering in full array.  
+He saw their courage waver,  
+And laughed at their dismay.  
+
+“Fifty thousand bowmen,  
+And ninety thousand spears.  
+Ten thousand Immortals,  
+Who never have known fear.”  
+
+“Forty thousand horsemen,  
+Drawn from the Persian plain,  
+Who spent their whole life riding,  
+In hot pursuit of game.”   
+
+“I have a thousand chariots,  
+Decked out in gold and jewels,  
+The world shall shake by the sound,  
+And thunder of their hooves.”  
+
+“So flee back to your masters,  
+And tell them what you see,  
+That I possess the greatest host  
+That there will ever be.”  
+
+…
+
+Unceasing were his soldiers,  
+As waves upon the sand,  
+Unnumbered were their footsteps,  
+By day they shook the land.  
+
+The proud lords of Macedon,  
+Bowed low before his might.  
+The fierce chiefs of Thracia,  
+Just fled without a fight.  
+
+But three hundred gallant Spartans,  
+Heavy in their heart,  
+Though all Greece was struck with terror,  
+Set out to do their part.  
 
 Led by their king Leonidas,
 Each man ready to die,
