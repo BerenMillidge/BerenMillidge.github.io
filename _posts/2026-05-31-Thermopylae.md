@@ -3,7 +3,7 @@ layout: post
 title: Thermopylae
 ---
 
-**Authors note**: *I originally wrote this poem in the summer of 2013 where I was very inspired by Thomas Babbington Macaulay’s [Lays of Ancient Rome](https://www.gutenberg.org/files/847/847-h/847-h.htm) and thinking deeply about virtue and historiography. I recently rediscovered this while going through my old computer and wanted to put it up before LLMs totally take over all writing. I have also done some minor cleaning and edits to make it publishable. It is not as polished as I would like but it is better to see the light of day than gather dust on my hard-drive.  I will also try and clean up and publish with some of my old other fiction and poetry. 06/06: I made major revisions and edits to clean up and finish a lot of the core ideas.*
+**Authors note**: *I originally wrote this poem in the summer of 2013 where I was very inspired by Thomas Babbington Macaulay’s [Lays of Ancient Rome](https://www.gutenberg.org/files/847/847-h/847-h.htm) and thinking deeply about virtue and historiography. I recently rediscovered this while going through my old computer and wanted to put it up before LLMs totally take over all writing. I have also done some minor cleaning and edits to make it publishable. It is not as polished as I would like but it is better to see the light of day than gather dust on my hard-drive.  I will also try and clean up and publish some of my old other fiction and poetry. 06/06: I made major revisions and edits to clean up and finish a lot of the core ideas.*
 
 Our tale begins at Marathon,  
 Only ten years before,  
