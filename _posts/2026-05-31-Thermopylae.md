@@ -3,62 +3,72 @@ layout: post
 title: Thermopylae
 ---
 
-**Authors note**: *I originally wrote this poem in the summer of 2013 where I was very inspired by Thomas Babbington Macaulay’s [Lays of Ancient Rome](https://www.gutenberg.org/files/847/847-h/847-h.htm) and thinking deeply about virtue and historiography. I recently rediscovered this while going through my old computer and wanted to put it up before LLMs totally take over all writing. I have also done some minor cleaning and edits to make it publishable. It is not as polished as I would like but it is better to see the light of day than gather dust on my hard-drive.  I will also try and clean up and publish with some of my old other fiction and poetry.*
+**Authors note**: *I originally wrote this poem in the summer of 2013 where I was very inspired by Thomas Babbington Macaulay’s [Lays of Ancient Rome](https://www.gutenberg.org/files/847/847-h/847-h.htm) and thinking deeply about virtue and historiography. I recently rediscovered this while going through my old computer and wanted to put it up before LLMs totally take over all writing. I have also done some minor cleaning and edits to make it publishable. It is not as polished as I would like but it is better to see the light of day than gather dust on my hard-drive.  I will also try and clean up and publish with some of my old other fiction and poetry. 06/06: I made major revisions and edits to clean up and finish a lot of the core ideas. *
 
 Our tale begins at Marathon,  
 Only ten years before,  
 When Darius and all his host  
 Were routed on that shore.  
 
-Now his first son Xerxes  
+For now his first son Xerxes  
 Sits on the Persian throne.  
 His mind adream with conquest,  
 Of lands beyond his own.  
-
-In Xerxes’ mighty palace,  
-In his bright and lavish court,  
-He dreams of power and grandeur,  
-And of battles to be fought.  
 
 Always aflame for glory,  
 And always bored with peace,  
 Drenched in the blood of Egypt,  
 He turns his gaze to Greece.  
 
-His advisors counsel prudence.  
-Let peace remain his way,  
-Egypt was just reconquered;  
-Let the country heal this day.  
+Before the winged lions stood  
+Proud Magi, grave with age,  
+Tall beneath the cedar beams,  
+And held the Great King's gaze.  
 
-“Your armies stand unbeaten,  
-You are secure in your frontier,  
-Why risk all this for vengeance?  
-Why not attack next year?”  
+"Your father's wound at Marathon,  
+Still stains the Persian name,  
+Yet hasty and ill-omened war,  
+Will only deepen shame."  
 
-Xerxes’ fury was unceasing,  
-None dare answer back.  
-“No greatness comes by waiting,  
-To win, we must attack.”  
+"Egypt yet writhes beneath your boot,  
+First let those hatreds fade.  
+Let men who marched through deserts  
+Rest awhile in the shade."  
 
-“What is the point of power,  
-If we dare not use our might?  
-What is the point of armies,  
-If we dare not let them fight?”  
+"Let your treasury brim with tribute,  
+Let all your granaries fill,  
+Let all Persia see a springtime,  
+With men at home to till."  
 
-“What worth is hoarded treasure?  
-What crown would win no fame?   
-What is war but a temple,  
-To sanctify my name?”  
+"Persian might stands unquestioned,  
+The satraps are secure,  
+Let what you have be strengthened,  
+Before you hunt for more."  
 
-“You little men; your empty words,  
+The peacock fans were motionless,  
+Scribes dared not take a breath.  
+Xerxes sat still as hammered gold,  
+His eyes as cold as death.  
+
+"I hear your words of wisdom,  
+But see the trap it lays.  
+A great king cannot languish,  
+Or be buried by his days."  
+
+"Though you call your counsel prudence  
 You know the truth as I;   
-All earthly things are but dust,  
+All earthly things are nought but dust,  
 Yet name shall never die.”  
 
 “The shepherd and the potter pass,  
 The ploughman and the slave;  
 They eat, they sleep, they love, they weep,  
 Then vanish in the grave.”  
+
+“The spear that never leaves the wall  
+Will rust without a song;  
+The king who only keeps his crown   
+Has merely lived too long."  
 
 “But he who stamps upon the world,  
 The image of his flame,  
@@ -67,15 +77,20 @@ Still walks this earth in name.”
 
 “What worth has breath without renown?  
 What worth has peaceful age?  
-If no man yet unborn shall pause,  
-And see my shadow on the page.”  
+If unborn eyes pause not to mark  
+My shadow on the page.”  
+
+"For what worth has hoarded treasure,  
+Or a crown that wins no fame?  
+For what is war but a temple,  
+Built to sanctify my name?"  
 
 …
 
-The palace was astonished,  
-But Xerxes’ word was law.  
-Although much doom was prophesied,  
-Out went the call for war.  
+At dawn the bronze gates opened wide,  
+By dusk the horsemen swore,  
+“All Persia, rise and rally forth.  
+The Great King calls for war.”  
 
 His couriers ranged far and wide,  
 From dusty dune to shining shore,  
@@ -94,8 +109,8 @@ Which moans under the snow,
 
 From murky Lydian forests,  
 And from the Caspian shore,  
-Came hordes of steel-eyed soldiers,  
-Decked out and dressed for war.  
+Came ranks of steel-eyed soldiers,  
+Their swords the final law.  
  
 Through all the lands of Persia,  
 A heavy silence falls.  
@@ -104,7 +119,7 @@ Old men patrol the walls.
 
 On the high mountain pastures,  
 Young boys now watch the sheep.  
-In ten thousand dusky hamlets,  
+In ten thousand obscure hamlets,  
 Now only women sleep.  
 
 On the floodplain of the Tigris,  
@@ -119,9 +134,9 @@ Sensing war hung in the air,
 Sent spies to the Persian camp,  
 To learn what gathered there.  
 
-But Xerxes found them all out,  
-(so vigilant was he),  
-But instead of tortured death,  
+Xerxes saw through their shadows,  
+So vigilant was he,  
+But rather than a tortured death,  
 He showed a strange mercy.  
 
 He took them to his gilded tent,  
@@ -129,15 +144,15 @@ Above the muster plain.
 “I hear you Greeks are honest men,  
 So let me be the same.”  
 
-“You must be very curious,  
-To risk your lives and more,  
-So let me grant your wishes,  
-Let me give you a full tour.”  
+"You came to count my armies,  
+Weigh the strength of my empire,  
+So feast your eyes upon my might;  
+I grant your heart's desire."  
 
 His host stood spread before them,  
 Glittering in full array.  
 He saw their courage waver,  
-And laughed at their dismay.  
+And smiled at their dismay.  
 
 “Fifty thousand bowmen,  
 And ninety thousand spears.  
@@ -150,9 +165,9 @@ Who spent their whole life riding,
 In hot pursuit of game.”   
 
 “I have a thousand chariots,  
-Decked out in gold and jewels,  
-The world shall shake by the sound,  
-And thunder of their hooves.”  
+Adorned with gold and jewels,  
+All the world shall tremble from  
+The thunder of their hooves.”  
 
 “So flee back to your masters,  
 And tell them what you see,  
@@ -171,9 +186,9 @@ Bowed low before his might.
 The fierce chiefs of Thracia,  
 Just fled without a fight.  
 
-But three hundred gallant Spartans,  
-Heavy in their heart,  
-Though all Greece was struck with terror,  
+Yet three hundred sturdy Spartans,   
+Though heavy in their heart,  
+While all Greece was struck with terror,  
 Set out to do their part.  
 
 Led by their king Leonidas,  
@@ -188,7 +203,7 @@ A great and furious mass,
 But unless their line is broken,  
 The Persians cannot pass.  
 
-Out rode the great king Xerxes,  
+Out rode the Great King Xerxes,  
 Whose speech was lacquered lies,  
 “Throw down your arms and kneel,  
 And you shall keep your lives.”  
@@ -211,7 +226,7 @@ So they may carry the day.”
 “Though every man may die with me,  
 The living have their time,  
 And unlike them, our deeds this day  
-eternally will shine.”  
+Eternally will shine.”  
 
 “When bards sing of the three hundred,  
 Who fought unto the grave,  
@@ -253,7 +268,7 @@ Fifty thousand arrayed,
 “Good,” he replied, laughing,  
 “We shall fight in the shade.”  
 
-“Your words seem idle boastings,  
+“Your words seem idle boasting,  
 But if all is as you say,  
 And fate has turned against us,  
 We still shall fight this day.”  
@@ -273,9 +288,9 @@ I shall gladly give you that.
 For the glory of Persia,  
 Come, my soldiers, attack!”  
 
-So cried the great King Xerxes,  
+So cried forth the Great King Xerxes,  
 Seeing all his talk in vain,  
-His archers he commanded,  
+To his archers he commanded,  
 "Let loose an iron rain!”  
 
 The arrows buzzed like locusts,  
@@ -295,7 +310,7 @@ Or die upon their sword.”
 
 All fury-filled and reckless,  
 Medes rushed the Spartan spear,  
-They  broke like surf on cliff-face,  
+Yet broke like surf on cliff-face;  
 The phalanx found no peer.  
 
 Cold to the dreadful carnage,  
@@ -317,11 +332,6 @@ Though Greek and Persian blood did mix,
 As the sun sank that night,  
 Yet the Spartan line still stood,  
 Against the Great King’s might.  
-
-With the first day now ended,  
-Neither side yet reigned,  
-But Thermopylae's defenders,  
-Yet still their ground retained.  
 
 Another day of battle,  
 Another clash of bronze,  
@@ -347,7 +357,7 @@ he deserves no memory).
 
 By the word of this traitor,  
 They found the hidden pass.  
-And quietly by night there marched,  
+Quietly by night there marched  
 most of the Persian mass.  
 
 Leonidas woke surrounded,  
@@ -395,22 +405,27 @@ They chose to die that day.
 The Persian host advances,  
 With shouts of hope and cheers,  
 For all that stood of Spartan might  
-is an island ringed with spears.  
+Is an island ringed with spears.  
 
-Thus Xerxes rode out to parlay,  
-Hoping for a quick end,  
-After two days of hard fighting,  
-His army needed to mend.  
+Xerxes rode out to parley,  
+To offer life and land,  
+For he had begun to grasp,  
+The romance of their stand.  
 
-“This time you shall surrender,  
-Surrounded on all sides,  
-You have fought long enough for glory,  
-Now think of your own lives.”  
+"You fought long enough for glory,  
+Now think of your own lives;  
+Let men bloodied by battle  
+Return to homes and wives."   
 
-“I grant your skill and valour;  
-You have fought a hero’s fight,  
-Now listen to your reason,  
-And bow before my might.”  
+“Come kneel, and I shall name you  
+The lords of all your race;  
+Why trade the rule of Hellas  
+For death in this poor place?”  
+
+"I grant your skill and valour;  
+You fought a hero's fight  
+A satrapy of Persia  
+Shall be your bloodline's right."   
 
 Leonidas saw the Persians,  
 That great mass of bronze and hate,  
@@ -429,63 +444,65 @@ Than any gift you gave.”
 
 “For life is not the breathing  
 Of lungs another day;  
-A grave that has no meaning,  
+The grave that has no meaning,  
 Is but a common clay.”  
 
 “You think this field decides it,  
-Who holds these stones this night.  
+Who holds these stones this night?  
 Our lives shall teach the nations;  
-History shall judge our might.”  
+From page our deaths burn bright.”  
 
 “The hands that write the histories  
 Are not the hands that slay.  
-The eyes of eternity  
-Shall judge in their own way.”  
+The eyes of unborn ages,  
+Are drawn in their own way."  
 
 “You offer us our bodies,  
 Our shields and spears laid down;  
 Yet by our final valour,  
 We buy a deathless crown.”  
 
-“However far you chase us,  
-Unto the furthest shore,  
-Greece shall never bow to you,  
-Your sole fruit shall be war.”  
+Yet Xerxes only smiled,  
+"I understand your play,  
+But if my armies conquer,  
+All shall be wiped away."  
 
-“Then fight till death, O Spartan!  
-But your death shall be in vain,  
-For all Greece shall be my conquest,  
-I shall see your home aflame.”  
+"This day shall be forgotten,  
+On that I must insist,  
+This obscure mountain skirmish,  
+Will vanish into mist."  
 
-Xerxes spurred his golden charger,  
-And rode back to his men,  
-His voice a thunder of command,  
-“Begin the fight again!”  
+"And in this game of glory,  
+Your fame is mine, you see?  
+Against the bright Leonidas,  
+A dark Xerxes must there be."  
 
-The Persians crashed upon them,  
-Like the storm upon the shore.  
-The Spartans, with their shields locked,  
-Fought as they had before.  
+"So fight till death, O Spartan,  
+Oblivion waits for you,  
+And if fate decrees you triumph,  
+I share those spoils too."  
 
-Every man would come forward,  
-And every man would fall,  
-Each Spartan giving his life,  
-To hold the shield wall.  
+Leonidas was silent then,  
+And saw beneath the throne,  
+For in that press of spear and blood,  
+The two men stood alone.  
 
-At last there stood Leonidas,  
-His breathing deep and slow,  
-Before him lay his brothers,  
-His friends from long ago.  
+"Not all who lose are lost," he said,  
+"Nor all who conquer stay.  
+Let time decide whose form, my friend,  
+shall touch the coming day."  
 
-The King of Sparta fell alone,  
-His heart held no despair,  
-For every Spartan was with him,  
-Their glory filled the air.  
+"I see shadows from the future,  
+Hands stretching back in time,  
+For them we stage our dances;  
+Our witness is their rhyme."  
 
-The final roars of battle,  
-Echoed around the plain,  
-Their bodies lay in silence,  
-Yet spirit would remain.  
+"This game is set, O Xerxes,  
+Shall we don the masks we made?  
+Come let our shadows mingle;  
+Share a dance before we fade."  
+
+...
 
 None of those Three Hundred  
 Lived to watch Athens burn,  
@@ -494,27 +511,22 @@ When the tides of war did turn.
 
 Nor cheered the day at Salamis,  
 Where in that narrow strait,  
-The Greek and allied navies  
-At last avenged their fate.  
-
-In that great clash of warships,  
-The blow that won the war,  
-Where they smote the Persian fleet,  
-Against the rocky shore.  
+Greece hurled Persia's fleet on rocks,  
+To break beneath their weight.  
 
 Nor saw the sun at Plataea,  
 Glint golden on the shield,  
 As the allies rout Mardonius,  
 Upon that fatal field.  
 
-In all the gyms of Sparta,  
+In all the courts of Sparta,  
 Across the Messenian plain,  
 Wait many an anxious maiden,  
 For a love who never came.  
 
 Yet as they fell a tale was made,  
-That outlived the victor’s dawn,  
-And while men yet walk the pass,  
+To outlive the victor’s dawn,  
+And while men still yet walk the pass,  
 They learn how names are born.  
 
 There stands a stone inscription,  
