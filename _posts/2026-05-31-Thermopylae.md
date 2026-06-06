@@ -92,11 +92,6 @@ By dusk the horsemen swore,
 “All Persia, rise and rally forth.  
 The Great King calls for war.”  
 
-His couriers ranged far and wide,  
-From dusty dune to shining shore,  
-And on their lips the fateful words,  
-“The Great King calls for war.”  
-
 From the deserts of Arabia,  
 Five thousand camels ride.  
 Through sparkling Grecian waters,  
@@ -145,7 +140,7 @@ Above the muster plain.
 So let me be the same.”  
 
 "You came to count my armies,  
-Weigh the strength of my empire,  
+To measure my empire,  
 So feast your eyes upon my might;  
 I grant your heart's desire."  
 
@@ -220,8 +215,8 @@ Of the lands we hoped defend.”
 
 “We do not fight for victory,  
 But only for delay,  
-Our allies must have vital time,  
-So they may carry the day.”   
+We buy our brothers time with blood;
+Fate hangs upon a day."   
 
 “Though every man may die with me,  
 The living have their time,  
@@ -314,7 +309,7 @@ Yet broke like surf on cliff-face;
 The phalanx found no peer.  
 
 Cold to the dreadful carnage,  
-Xerxes scanned his line,  
+The Great King scanned his line,  
 “Come forth my brave Immortals,  
 The flower of Persia’s prime.”  
 
@@ -345,7 +340,7 @@ He could not break their line.
 
 …
 
-Seeing easy hope extinguished,  
+With easy hope extinguished,  
 Xerxes sought another way,  
 Around the stout line of Spartans,  
 And for this he could pay.  
@@ -355,7 +350,7 @@ They found a willing shepherd,
 for his deeds are so heinous,  
 he deserves no memory).  
 
-By the word of this traitor,  
+From traitor's mouth came whispers;
 They found the hidden pass.  
 Quietly by night there marched  
 most of the Persian mass.  
