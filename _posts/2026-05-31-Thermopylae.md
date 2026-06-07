@@ -350,7 +350,7 @@ They found a willing shepherd,
 for his deeds are so heinous,  
 he deserves no memory).  
 
-From traitor's mouth came whispers;
+From traitor's mouth came whispers;  
 They found the hidden pass.  
 Quietly by night there marched  
 most of the Persian mass.  
