@@ -215,7 +215,7 @@ Of the lands we hoped defend.”
 
 “We do not fight for victory,  
 But only for delay,  
-We buy our brothers time with blood;
+We buy our brothers time with blood;  
 Fate hangs upon a day."   
 
 “Though every man may die with me,  
