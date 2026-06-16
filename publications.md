@@ -5,6 +5,8 @@ title: Publications
 
 Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
 
+**Scaling Adaptive Depth with Norm-Agnostic Residual Networks** <br /> Tomás Figliolia, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2606.16112)
+
 **Zamba2-VL Technical Report** (2026) <br /> Hassan Shapourian, Kasra Hejazi, Olabode M. Sule, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2606.00390)
 
 **ZAYA1-VL-8B Technical Report** (2026) <br /> Hassan Shapourian, Kasra Hejazi, Olabode M. Sule, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2605.08560)
