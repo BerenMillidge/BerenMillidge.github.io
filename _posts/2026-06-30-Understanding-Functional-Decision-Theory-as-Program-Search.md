@@ -41,7 +41,7 @@ $$
 \end{aligned}
 $$
 
-Where behind $\text{do}(x)$ lies a causal graph of the world that underlies the conditional distribution $p(x /mid a)$, as is standard in the causality literature. The core idea here is that we should model an agent's own actions as *sui generis*. I.e. the agent is an unconstrained actor in the world which can sever otherwise existing causal dependencies between variables by exerting its own will upon the value of these variables -- i.e. by performing an *intervention*. 
+Where behind $\text{do}(x)$ lies a causal graph of the world that underlies the conditional distribution $p(x \mid a)$, as is standard in the causality literature. The core idea here is that we should model an agent's own actions as *sui generis*. I.e. the agent is an unconstrained actor in the world which can sever otherwise existing causal dependencies between variables by exerting its own will upon the value of these variables -- i.e. by performing an *intervention*. 
 
 However, while CDT succeeds at solving the kinds of causality problem that mislead EDT, it makes controversial, and arguably incorrect decisions in cases involving more subtle kinds of dependence than direct causal dependence. The most obvious kind of non-causal dependence is *logical dependence*. This means that agents, or some aspect of the environment acts in highly correlated ways even if they are not causally linked. Some classic ways to get logical dependence is via identical agents -- i.e. agents reasoning about what their perfect clone or twin will do -- or perfect predictors such as *Omega* from Newcomb's problem. FDT attempts to extend CDT by solving this additional logical dependence problem. 
 
