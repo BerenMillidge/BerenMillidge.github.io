@@ -21,11 +21,11 @@ Let's start at the beginning. A standard staple of economics, game theory, and m
 
 The naive application of this idea leads to Evidentiary Decision Theory (EDT). EDT proposes that the agent should simply be an optimal Bayesian and choose the actions that are associated with the highest utility. Specifically, the agent should select the action that, when conditioned upon, leads to the highest utility states on average. Let $x$ refer to a state of the world and $a$ as a possible action. Let $U(x)$ denote the utility of a state. Throughout, for simplicity, we will only handle discrete state and action spaces. The EDT procedure can then be formalized as follows,
 
-##
+$$
 \begin{aligned}
     a^* = \operatorname*{argmax}_a \sum_x p(x \mid a) U(x)
 \end{aligned}
-##
+$$
 
 Where the $\sum_x p(x \mid a)U(x)$ implements the expected value over the utility of all states weighted by their likelihood conditioned on a specific action. 
 
@@ -35,11 +35,11 @@ This is a classic issue in probabilistic inference in general which was ignored 
 
 If we integrate the Pearlian framework into our decision theory, we get Causal Decision Theory (CDT). CDT proposes that the optimal actions should be chosen by creating a causal graph model of the environment, then modeling its actions as interventions via Pearl's $\text{do}(\cdot)$ operator, and then selecting the actions where the expected utility of the states given an intervention on the action is highest. CDT successfully solves the kinds of problems where correlation and causation come apart where EDT fails. CDT can be mathematically formulated as,
 
-##
+$$
 \begin{aligned}
     a^* = \operatorname*{argmax}_a \sum_x p(x \mid \text{do}(a)) U(x)
 \end{aligned}
-##
+$$
 
 Where behind $\text{do}(x)$ lies a causal graph of the world that underlies the conditional distribution $p(x /mid a)$, as is standard in the causality literature. The core idea here is that we should model an agent's own actions as *sui generis*. I.e. the agent is an unconstrained actor in the world which can sever otherwise existing causal dependencies between variables by exerting its own will upon the value of these variables -- i.e. by performing an *intervention*. 
 
@@ -57,11 +57,11 @@ A similar situation occurs in the twin prisoner's dilemma problem. Here we have 
 
 Dissatisfaction with these aspects of CDT brings us to Functional Decision Theory (FDT). FDT changes the decision objective again to state that an agent should instead choose the *decision process* which counterfactually leads to the best outcomes, rather than intervening on actions directly. Mathematically, FDT introduces the $\text{FDT}(\cdot)$ operator which takes in a set of information about the states, causal graph, and *logical dependencies* about the world and then outputs a decision procedure. FDT then chooses an action by intervening on the outcome of its decision procedure to ask what action would produce the highest utility. FDT can be formalized in our scheme as,
 
-##
+$$
 \begin{aligned}
     a^* = \operatorname*{argmax}_a \sum_x p(x \mid \text{do}(\text{FDT}(x...) = a)) U(x)
 \end{aligned}
-##
+$$
 
 Where $x...$ represents the states $x$ augmented with some notion of causal graph and other 'logical relations' however defined. The FDT reasoning in Newcomb's paradox is that rather focusing in on the moment of choice, we should look at the outcomes of the decision procedure as a whole. Overall one-boxers clearly do better in Newcomb's paradox, since they receive the $\$1M$ while CDT two-boxers do not and only receive \$1000. Hence, one should choose to one-box, even if at the precise moment of decision it seems 'irrational' to leave the other box sitting there untouched when there is nothing Omega can do to stop you from taking it. Nearly identical reasoning plays out in the prisoner's dilemma against a copy scenario. Clearly the cooperators do better overall, and hence it is rational to cooperate even if at the moment of decision defecting is strictly superior. FDT, unlike CDT, also does not give in to acausal blackmail for very similar reasons. 
 
@@ -77,13 +77,13 @@ Given this definition of the environment, a decision procedure becomes a search 
 
 Mathematically, our framework defines two functions *Env* and *Policy*. *Env* accepts as input a policy and returns a scalar utility value which is computed by the interaction of the environment with the policy (*Env* is thus, mathemtically, a functional*). *Policy* receives as input a sequence of observations from the environment and outputs the relevant actions. Both *Env* and *Policy* can internally implement arbitrary Turing-complete programs. Mathematically, we can formulate our FDT-style decision procedure very simply as just,
 
-##
+$$
 \begin{aligned}
     \texttt{Policy}^* 
     = \operatorname*{argmax}_{\texttt{Policy}}
        \texttt{Env}(\texttt{Policy})
 \end{aligned}
-##
+$$
 
 Note that this definition is substantially simpler than CDT and the original formulation of FDT. We do not require the definition of any special operator like the 'do' operator in CDT and the 'FDT' operator. Instead, we follow the standard utility maximization approach but simply change the maximization domain to be over policy programs rather than specific sets of actions. 
 
