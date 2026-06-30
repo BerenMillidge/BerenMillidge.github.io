@@ -47,7 +47,7 @@ However, while CDT succeeds at solving the kinds of causality problem that misle
 
 ### Functional Decision Theory
 
-A classic example of this kind of problem is[Newcomb's problem](https://en.wikipedia.org/wiki/Newcomb%27s_problem). The setup for this problem is as follows,
+A classic example of this kind of problem is [Newcomb's problem](https://en.wikipedia.org/wiki/Newcomb%27s_problem). The setup for this problem is as follows,
 
 **Newcomb's Problem**: *An agent is contacted by a perfect predictor "Omega". Omega offers a choice of two boxes: "A" that contains &#36;1,000, and "B" that contains either &#36;1,000,000 or &#36;0. Omega is known to be able to predict an agent's choice with near-100% accuracy. Omega claims to have placed &#36;1,000,000 in box B if and only if it predicted that the agent would leave box A behind. Omega has made its prediction and filled both boxes prior to contacting the agent, and so box "B" either already contains the &#36;1,000,000 or &#36;0. Should the agent take both boxes ("two-boxing") or only box B ("one-boxing")?*
 
