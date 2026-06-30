@@ -59,7 +59,7 @@ Dissatisfaction with these aspects of CDT brings us to Functional Decision Theor
 
 ##
 \begin{aligned}
-    a^* = \operatorname*{argmax}_a \sum_x p(x | \text{do}(\text{FDT}(x...) = a)) U(x)
+    a^* = \operatorname*{argmax}_a \sum_x p(x \mid \text{do}(\text{FDT}(x...) = a)) U(x)
 \end{aligned}
 ##
 
