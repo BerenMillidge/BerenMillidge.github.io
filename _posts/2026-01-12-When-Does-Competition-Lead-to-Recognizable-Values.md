@@ -332,8 +332,3 @@ Is it—I discussed liberalism several times. Is there some kind of mind liberal
 Is this going to happen? Is this good? Is this bad? There's lots of interesting questions here.
 
 That's basically the end. Thanks!
-
-
-1.
-I don't mean this in a sort of pejorative 'power relations/inequality' way, I mean in the 'structured like a tree' way, where there aren't overlaps or cross-links between subcommunities.
-
