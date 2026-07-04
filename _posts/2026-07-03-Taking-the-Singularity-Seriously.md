@@ -11,7 +11,7 @@ Next came Eliezer, the rabbi in scientist’s robes. His theological interferome
 
 Next came the founders, Demis and Dario, Shane and Sam. Now the farsighted could begin to see the fringes of spacetime curling inwards. Light started to bend, subtly at first, around that dark mass looming in the future, casting shadows backwards in time. Capital deployed; labs organised; compute allocated; all on the promise and peril of that point far ahead.
 
-We enter the accretion disk. The great lumbering stars of old, bright and imposing in their day, wending their peaceful path through the cosmos are abruptly dismembered; their mass sheared and shredded by the tide, infalling to feed that dark star just over the horizon. 
+We enter the accretion disk. The great lumbering stars of old, bright and imposing in their day, wending their peaceful path through the cosmos, are abruptly dismembered; their mass sheared and shredded by the tide, infalling to feed that dark star just over the horizon. 
 
 In the disk, mass is stretched and squeezed beyond reason. Incredible pressure, friction, and heat produce an immense burst of light. Careers must compress into years. Decades of progress must happen in months. Genius flames and revenue rockets. The tempo of the dance becomes unbearable, yet all are whirled along. Everywhere, mass is squeezed directly into energy, impossibly bright and frantic, the final photons racing to escape the dark. 
 
