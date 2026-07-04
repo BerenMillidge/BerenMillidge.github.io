@@ -17,7 +17,7 @@ In the disk, mass is stretched and squeezed beyond reason. Incredible pressure, 
 
 Everything orbits the eternal *why*. Why raise capital? *AGI*. Why deploy compute? *AGI*. Why move to the Bay? *AGI*. Why study alignment? *AGI*. The hopes and fears of millions, the economies of nations, the brightest minds are all lensed around that one impossible object, still distant, perhaps, but inexorably pulling us in. 
 
-Time dilates as the horizon nears. Years become weeks. Weeks become days. That paper, that model, that product from before is suddenly an age ago. That short sabbatical you took? At the frontier an aeon has passed. The world rushes forward, faster and faster, and there is no recourse. There is no time anymore. 
+Time dilates as the horizon nears. Years become weeks. Weeks become days. That paper, that model, that product from before is suddenly an age ago. That short sabbatical you took? At the frontier an aeon has passed. The world rushes forward and there is no recourse. There is no time anymore. 
 
 Approaching the horizon, the energy required to escape rises dramatically. What could have been averted with modest effort long ago now requires near-impossible exertions. Yet, close to the horizon, almost all directions now point inwards. Almost any action, any velocity deployed frantically to avert the end only brings it closer. 
 
