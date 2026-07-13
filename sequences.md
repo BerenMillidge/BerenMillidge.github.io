@@ -19,23 +19,25 @@ The posts are ordered conceptually rather than chronologically.
 
 ### Intelligence, optimization, and values
 
-1. [Deconfusing Direct vs Amortized Optimization]({% post_url 2022-09-25-Deconfusing-direct-vs-amortized-optimization %})
-2. [Orthogonality Is Expensive]({% post_url 2023-03-19-Orthogonality-is-expensive %})
-3. [AGI Will Have Learned Reward Models]({% post_url 2022-11-26-AGI-will-have-learnt-reward-models %})
+1. [Deconfusing Direct vs Amortized Optimization]({% post_url 2022-09-25-Deconfusing-direct-vs-amortized-optimization %}) (2022)
+2. [Orthogonality Is Expensive]({% post_url 2023-03-19-Orthogonality-is-expensive %}) (2023)
+3. [AGI Will Have Learned Reward Models]({% post_url 2022-11-26-AGI-will-have-learnt-reward-models %}) (2022)
 4. [The Computational Anatomy of Human Values]({% post_url 2023-04-03-Computational-anatomy-of-human-values %})
 
 ### Alignment
 
 5. [My Path to Prosaic Alignment and Open Questions]({% post_url 2023-07-05-My-path-to-prosaic-alignment-and-open-questions %})
 6. [The Solution to Alignment Is Many, Not One]({% post_url 2023-02-19-The-solution-to-alignment-is-many-not-one %})
-7. [Maintaining Alignment During RSI as a Feedback Control Problem]({% post_url 2025-02-05-Maintaining-Alignment-During-RSI-As-A-Feedback-Control-Problem %})
-8. [Do We Want Obedience or Alignment?]({% post_url 2025-08-02-Do-We-Want-Obedience-Or-Alignment %})
+7. [Alignment Likely Generalizes Further than Capabilities]({% post_url 2024-05-15-Alignment-Likely-Generalizes-Further-Than-Capabilities %})
+8. [Maintaining Alignment During RSI as a Feedback Control Problem]({% post_url 2025-02-05-Maintaining-Alignment-During-RSI-As-A-Feedback-Control-Problem %})
+9. [Do We Want Obedience or Alignment?]({% post_url 2025-08-02-Do-We-Want-Obedience-Or-Alignment %})
 
 ### Post-AGI minds and civilizations
-
-9. [BCIs and the Ecosystem of Modular Minds]({% post_url 2023-04-23-Composable-latent-spaces-BCIs-modular-minds %})
-10. [AI Monotheism vs AI Polytheism]({% post_url 2026-01-07-AI-Monotheism-vs-AI-Polytheism %})
-11. [When Does Competition Lead to Recognizable Values?]({% post_url 2026-01-12-When-Does-Competition-Lead-to-Recognizable-Values %})
+10. [The Singularity as Cognitive Decoupling]({% post_url 2023-04-10-the-singularity-as-cognitive-decoupling %})
+11. [The Ultimate Limits of Alignment Determine the Shape of the Long Term Future]({% post_url 2022-08-16-Ultimate-limits-alignment %})
+12. [BCIs and the Ecosystem of Modular Minds]({% post_url 2023-04-23-Composable-latent-spaces-BCIs-modular-minds %})
+13. [AI Monotheism vs AI Polytheism]({% post_url 2026-01-07-AI-Monotheism-vs-AI-Polytheism %})
+14. [When Does Competition Lead to Recognizable Values?]({% post_url 2026-01-12-When-Does-Competition-Lead-to-Recognizable-Values %})
 
 ---
 
