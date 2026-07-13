@@ -19,9 +19,9 @@ The posts are ordered conceptually rather than chronologically.
 
 ### Intelligence, optimization, and values
 
-1. [Deconfusing Direct vs Amortized Optimization]({% post_url 2022-09-25-Deconfusing-direct-vs-amortized-optimization %}) (2022)
-2. [Orthogonality Is Expensive]({% post_url 2023-03-19-Orthogonality-is-expensive %}) (2023)
-3. [AGI Will Have Learned Reward Models]({% post_url 2022-11-26-AGI-will-have-learnt-reward-models %}) (2022)
+1. [Deconfusing Direct vs Amortized Optimization]({% post_url 2022-09-25-Deconfusing-direct-vs-amortized-optimization %})
+2. [Orthogonality Is Expensive]({% post_url 2023-03-19-Orthogonality-is-expensive %})
+3. [AGI Will Have Learned Reward Models]({% post_url 2022-11-26-AGI-will-have-learnt-reward-models %})
 4. [The Computational Anatomy of Human Values]({% post_url 2023-04-03-Computational-anatomy-of-human-values %})
 
 ### Alignment
