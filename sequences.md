@@ -58,30 +58,31 @@ This provides an expanded and much more detailed sequence of my thinking on alig
 1. [Empathy as a Natural Consequence of Learned Reward Models]({% post_url 2022-08-21-Empathy-as-a-natural-consequence-of-learnt-reward-models %})
 2. [AGI Will Have Learned Reward Models]({% post_url 2022-11-26-AGI-will-have-learnt-reward-models %})
 3. [Human Sexuality as an Example of Alignment]({% post_url 2022-11-27-Human-sexuality-as-test-case-for-alignment %})
-4. [Preventing Goodharting with Homeostatic Rewards]({% post_url 2022-11-29-Preventing-Goodheart-with-homeostatic-rewards %})
-5. [An ML Interpretation of Shard Theory]({% post_url 2022-12-05-ML-Interpretation-Shard-Theory %})
-6. [The Computational Anatomy of Human Values]({% post_url 2023-04-03-Computational-anatomy-of-human-values %})
-7. [Should We Be Behaviorist About an AI’s Values?]({% post_url 2025-05-11-Should-We-Be-Behaviourist-About-AIs-Values %})
+4. [An ML Interpretation of Shard Theory]({% post_url 2022-12-05-ML-Interpretation-Shard-Theory %})
+5. [The Computational Anatomy of Human Values]({% post_url 2023-04-03-Computational-anatomy-of-human-values %})
+6. [Should We Be Behaviorist About an AI’s Values?]({% post_url 2025-05-11-Should-We-Be-Behaviourist-About-AIs-Values %})
 
 ### Threat Models and Tractability
 
 1. [Alignment Needs Empirical Evidence]({% post_url 2022-08-27-Alignment-needs-empirical-evidence %})
-2. [Probabilities Multiply in Our Favour for AGI Containment]({% post_url 2022-08-27-Probabilities-multiply-in-our-favour-for-AGI-containment %})
-3. [Towards Concrete Threat Models for AGI]({% post_url 2022-08-27-Towards-concrete-threat-models-for-AGI %})
-4. [Why Not Just Stop FOOM?]({% post_url 2022-09-30-Why-not-just-stop-foom %})
-5. [Gradient Hacking Is Extremely Difficult]({% post_url 2023-01-21-gradient-hacking-extremely-difficult %})
-6. [Boxing Might Work, but We Won’t Use It]({% post_url 2023-02-15-Boxing-might-work-but-we-wont-use-it %})
+2. [My Rough Categorization of AI Risk Types]({% post_url 2023-05-30-My-rough-categorization-of-AI-risk-types %})
+3. [Probabilities Multiply in Our Favour for AGI Containment]({% post_url 2022-08-27-Probabilities-multiply-in-our-favour-for-AGI-containment %})
+4. [Towards Concrete Threat Models for AGI]({% post_url 2022-08-27-Towards-concrete-threat-models-for-AGI %})
+5. [Why Not Just Stop FOOM?]({% post_url 2022-09-30-Why-not-just-stop-foom %})
+6. [Gradient Hacking Is Extremely Difficult]({% post_url 2023-01-21-gradient-hacking-extremely-difficult %})
+7. [Boxing Might Work, but We Won’t Use It]({% post_url 2023-02-15-Boxing-might-work-but-we-wont-use-it %})
 
 ### Mitigations and Philosophy of Defense 
 
-7. [My Rough Categorization of AI Risk Types]({% post_url 2023-05-30-My-rough-categorization-of-AI-risk-types %})
-8. [Safer Value Learning Through Uncertainty]({% post_url 2020-09-01-Safer-Value-Learning-Through-Uncertainty %})
-9. [Don’t Argmax—Distribution Match]({% post_url 2022-11-27-Don't-argmax-distribution-match %})
-10. [Creating Worlds Where Iterative Alignment Succeeds]({% post_url 2022-12-06-Creating-worlds-where-iterative-alignment-succeeds %})
-11. [The Solution to Alignment Is Many, Not One]({% post_url 2023-02-19-The-solution-to-alignment-is-many-not-one %})
-12. [Validator Models: A Simple Approach to Detecting and Counteracting Goodharting]({% post_url 2023-02-19-validator-models-simple-approach-detecting-goodhearting %})
-13. [Hedonic Loops]({% post_url 2023-04-19-Hedonic-loops-taming-RL %})
-14. [Alignment in the Age of Synthetic Data]({% post_url 2024-05-11-Alignment-in-the-Age-of-Synthetic-Data %})
+
+1. [Safer Value Learning Through Uncertainty]({% post_url 2020-09-01-Safer-Value-Learning-Through-Uncertainty %})
+2. [Don’t Argmax—Distribution Match]({% post_url 2022-11-27-Don't-argmax-distribution-match %})
+3. [Creating Worlds Where Iterative Alignment Succeeds]({% post_url 2022-12-06-Creating-worlds-where-iterative-alignment-succeeds %})
+4. [The Solution to Alignment Is Many, Not One]({% post_url 2023-02-19-The-solution-to-alignment-is-many-not-one %})
+5. [Validator Models: A Simple Approach to Detecting and Counteracting Goodharting]({% post_url 2023-02-19-validator-models-simple-approach-detecting-goodhearting %})
+6. [Preventing Goodharting with Homeostatic Rewards]({% post_url 2022-11-29-Preventing-Goodheart-with-homeostatic-rewards %})
+7. [Hedonic Loops]({% post_url 2023-04-19-Hedonic-loops-taming-RL %})
+8. [Alignment in the Age of Synthetic Data]({% post_url 2024-05-11-Alignment-in-the-Age-of-Synthetic-Data %})
 
 ### Thoughts on AI Governance and Strategy
 
@@ -98,7 +99,7 @@ This provides an expanded and much more detailed sequence of my thinking on alig
 3. [AI Monotheism vs AI Polytheism]({% post_url 2026-01-07-AI-Monotheism-vs-AI-Polytheism %})
 4. [When Does Competition Lead to Recognizable Values?]({% post_url 2026-01-12-When-Does-Competition-Lead-to-Recognizable-Values %})
 
-### Dynamic Alignment and the new Synthesis
+### Dynamic Alignment and the New Synthesis
 
 1. [My Path to Prosaic Alignment and Open Questions]({% post_url 2023-07-05-My-path-to-prosaic-alignment-and-open-questions %})
 3. [Alignment Likely Generalizes Further Than Capabilities]({% post_url 2024-05-15-Alignment-Likely-Generalizes-Further-Than-Capabilities %})
@@ -118,8 +119,8 @@ This sequence collects my writing on the contemporary deep-learning paradigm: wh
 2. [Why GOFAI Failed]({% post_url 2023-04-10-Why-GOFAI-failed %})
 3. [Why Not Sparse Hierarchical Graph Learning?]({% post_url 2025-03-01-Why-Not-Sparse-Hierarchical-Graph-Learning %})
 4. [Thoughts on Loss Landscapes and Why Deep Learning Works]({% post_url 2023-07-11-Loss-landscapes-and-understanding-deep-learning %})
-5. [Grokking Grokking]({% post_url 2022-01-11-Grokking-Grokking %})
-6. [Understanding Overparameterized Generalization]({% post_url 2022-04-17-Understanding_Overparametrized_Generalization %})
+5. [Understanding Overparameterized Generalization]({% post_url 2022-04-17-Understanding_Overparametrized_Generalization %})
+6. [Grokking Grokking]({% post_url 2022-01-11-Grokking-Grokking %})
 7. [Addendum to Grokking Grokking]({% post_url 2023-09-23-Addendum-to-Grokking-Grokking %})
 8. [Initial Quick Thoughts on Singular Learning Theory]({% post_url 2025-12-24-Initial-Quick-Thoughts-on-Singular-Learning-Theory %})
 
@@ -134,7 +135,7 @@ This sequence collects my writing on the contemporary deep-learning paradigm: wh
 7. [Integer Tokenization Is Now Much Less Insane]({% post_url 2024-05-11-Integer-tokenization-is-now-much-less-insane %})
 8. [Right to Left Integer Tokenization]({% post_url 2024-07-07-Right-to-Left-Integer-Tokenization %})
 
-### Language-Models and Scaffolded Systems
+### Language Models and Scaffolded Systems
 
 1. [LLMs Confabulate, Not Hallucinate]({% post_url 2023-03-19-LLMs-confabulate-not-hallucinate %})
 2. [Fingerprinting LLMs with Their Unconditioned Distribution]({% post_url 2023-02-26-Fingerprinting-LLMs-with-unconditioned-distribution %})
@@ -160,7 +161,7 @@ This sequence tries to draw together evidence on the nature of intelligence by c
 
 1. [How to Evolve a Brain]({% post_url 2022-08-08-How-to-evolve-a-brain %})
 2. [The Scale of the Brain vs Machine Learning]({% post_url 2022-08-06-The-scale-of-the-brain-vs-machine-learning %})
-3. [GPUs vs Brains: Hardwares and Architectures]({% post_url 2023-04-09-GPUs-vs-brains-hardware-and-architecture %})
+3. [GPUs vs Brains: Hardware and Architectures]({% post_url 2023-04-09-GPUs-vs-brains-hardware-and-architecture %})
 4. [Scaling Laws vs Individual Differences]({% post_url 2022-09-18-Scaling-laws-vs-individual-differences %})
 5. [Deep Learning Models are Secretly (Almost) Linear]({% post_url 2023-04-04-DL-models-are-secretly-linear %})
 6. [Why Not Sparse-Hierarchical-Graph-Learning]({% post_url 2025-03-01-Why-Not-Sparse-Hierarchical-Graph-Learning %})
@@ -181,12 +182,12 @@ How can we use our understanding of the limits of intelligence, alignment, and p
 
 How do societies and economies work and how might AGI change their core underlying dynamics? 
 
-1. [Capital Ownership Will Not Prevent Human Disempowerment]({% post_url 2024-05-12-Capital-Ownership-Will-Not-Prevent-Human-Disempowerment %})
-2. [Gradual Disempowerment Might Not Be So Bad]({% post_url 2025-11-23-Gradual-Disempowerment-Might-Not-Be-So-Bad %})
-3. [Fertility, Inheritance, and the Concentration of Wealth]({% post_url 2024-03-15-Fertility-Inheritance-Concentration-of-Wealth %})
-4. [Addendum to Fertility, Inheritance, and the Concentration of Wealth]({% post_url 2025-11-30-Addendum-to-Fertility-Inheritance-and-Concentration-of-Wealth %})
-5. [Milennials as the Forever Generation]({% post_url 2025-08-04-Millennials-as-the-Forever-Generation %})
-6. [Two Mechanisms of Decadence]({% post_url 2026-01-06-Two-Mechanisms-of-Decadence %})
+1. [Fertility, Inheritance, and the Concentration of Wealth]({% post_url 2024-03-15-Fertility-Inheritance-Concentration-of-Wealth %})
+2. [Addendum to Fertility, Inheritance, and the Concentration of Wealth]({% post_url 2025-11-30-Addendum-to-Fertility-Inheritance-and-Concentration-of-Wealth %})
+3. [Millennials as the Forever Generation]({% post_url 2025-08-04-Millennials-as-the-Forever-Generation %})
+4. [Two Mechanisms of Decadence]({% post_url 2026-01-06-Two-Mechanisms-of-Decadence %})
+5. [Capital Ownership Will Not Prevent Human Disempowerment]({% post_url 2024-05-12-Capital-Ownership-Will-Not-Prevent-Human-Disempowerment %})
+6. [Gradual Disempowerment Might Not Be So Bad]({% post_url 2025-11-23-Gradual-Disempowerment-Might-Not-Be-So-Bad %})
 7. [AI Monotheism vs AI Polytheism]({% post_url 2026-01-07-AI-Monotheism-vs-AI-Polytheism %})
 8. [When Does Competition Lead to Recognizable Values?]({% post_url 2026-01-12-When-Does-Competition-Lead-to-Recognizable-Values %})
 
