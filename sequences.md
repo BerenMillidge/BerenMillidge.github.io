@@ -33,7 +33,7 @@ The posts are ordered conceptually rather than chronologically.
 
 ### Post-AGI minds and civilizations
 
-9. [Composable Latent Spaces, BCIs, and Modular Minds]({% post_url 2023-04-23-Composable-latent-spaces-BCIs-modular-minds %})
+9. [BCIs and the Ecosystem of Modular Minds]({% post_url 2023-04-23-Composable-latent-spaces-BCIs-modular-minds %})
 10. [AI Monotheism vs AI Polytheism]({% post_url 2026-01-07-AI-Monotheism-vs-AI-Polytheism %})
 11. [When Does Competition Lead to Recognizable Values?]({% post_url 2026-01-12-When-Does-Competition-Lead-to-Recognizable-Values %})
 
@@ -175,7 +175,7 @@ How can we use our understanding of the limits of intelligence, alignment, and p
 
 1. [The Ultimate Limits of Alignment Determine the Shape of the Long Term Future]({% post_url 2022-08-16-Ultimate-limits-alignment %})
 2. [The Singularity as Cognitive Decoupling]({% post_url 2023-04-10-the-singularity-as-cognitive-decoupling %})
-3. [Composable Latent Spaces, BCIs, and Modular Minds]({% post_url 2023-04-23-Composable-latent-spaces-BCIs-modular-minds %})
+3. [BCIs and the Ecosystem of Modular Minds]({% post_url 2023-04-23-Composable-latent-spaces-BCIs-modular-minds %})
 4. [Space Warfare Seems Mostly Defense Dominant]({% post_url 2025-11-22-Space-Warfare-Seems-Mostly-Defense-Dominant %})
 5. [Preliminary Notes on Colonizing the Universe]({% post_url 2026-06-28-Preliminary-Notes-on-Colonizing-the-Universe %})
 
