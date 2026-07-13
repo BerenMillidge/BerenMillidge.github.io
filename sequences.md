@@ -196,7 +196,7 @@ How do societies and economies work and how might AGI change their core underlyi
 
 ## Predictive Coding and Active Inference
 
-This sequence covers my thoughts originating from my PhD and postdoc work on Predictive Coding and Active Inference and my later retrospectives on this work.
+This sequence covers my thoughts originating from my PhD and postdoc work on Predictive Coding and Active Inference and my later retrospectives on this work. I would recommend starting from the active inference retrospective then reading backwards if interested.
 
 1. [Predictive Coding as Backpropagation and Natural Gradients]({% post_url 2020-09-12-Predictive-Coding-As-Backprop-And-Natural-Gradients %})
 2. [Thoughts on the Falsifiability of the Free Energy Principle]({% post_url 2020-10-18-Thoughts-on-the-Falsifiability-of-the-Free-Energy-Principle %})
