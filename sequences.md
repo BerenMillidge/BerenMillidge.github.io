@@ -166,7 +166,8 @@ This sequence tries to draw together evidence on the nature of intelligence by c
 5. [Deep Learning Models are Secretly (Almost) Linear]({% post_url 2023-04-04-DL-models-are-secretly-linear %})
 6. [Why Not Sparse-Hierarchical-Graph-Learning]({% post_url 2025-03-01-Why-Not-Sparse-Hierarchical-Graph-Learning %})
 7. [Thoughts on AI Consciousness]({% post_url 2025-08-06-Thoughts-On-AI-Consciousness %})
-8. [Continual Learning Explains Some Interesting Phenomena in Human Memory]({% post_url 2025-10-11-Continual-Learning-Explains-Interesting-Phenomena-Human-Memory %})
+8. [Whence Human Talents Neurobiologically]({% post_url 2025-11-22-Whence-Human-Talents-Neurobiologically %})
+9. [Continual Learning Explains Some Interesting Phenomena in Human Memory]({% post_url 2025-10-11-Continual-Learning-Explains-Interesting-Phenomena-Human-Memory %})
 
 ## The Longest Term
 
