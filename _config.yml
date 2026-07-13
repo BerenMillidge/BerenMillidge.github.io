@@ -18,6 +18,7 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Sequences: "sequences"
   Publications: "publications"
   CV: "CV.pdf"
  # Resources:
