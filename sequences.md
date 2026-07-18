@@ -183,6 +183,7 @@ How can we use our understanding of the limits of intelligence, alignment, and p
 4. [Space Warfare Seems Mostly Defense Dominant]({% post_url 2025-11-22-Space-Warfare-Seems-Mostly-Defense-Dominant %})
 5. [Preliminary Notes on Colonizing the Universe]({% post_url 2026-06-28-Preliminary-Notes-on-Colonizing-the-Universe %})
 6. [Autarkic Agency Will Likely Migrate Upwards]({% post_url 2026-07-13-Autarkic-Agency-Will-Likely-Migrate-Upwards %})
+7. [Is Endogenous Exploration Sufficient]({% post_url 2026-07-17-Is-Endogenous-Exploration-Sufficient %})
 
 ## Economics, Society, and AGI
 
@@ -197,6 +198,7 @@ How do societies and economies work and how might AGI change their core underlyi
 7. [AI Monotheism vs AI Polytheism]({% post_url 2026-01-07-AI-Monotheism-vs-AI-Polytheism %})
 8. [When Does Competition Lead to Recognizable Values?]({% post_url 2026-01-12-When-Does-Competition-Lead-to-Recognizable-Values %})
 9. [Baudrillard and Interiority]({% post_url 2026-07-12-Baudrillard-and-Interiority %})
+10. [Is Endogenous Exploration Sufficient]({% post_url 2026-07-17-Is-Endogenous-Exploration-Sufficient %})
 
 ## Predictive Coding and Active Inference
 
