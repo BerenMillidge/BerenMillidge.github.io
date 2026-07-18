@@ -11,6 +11,7 @@ However, classic 'alignment failures' are not the only class of disadvantages to
 For concreteness, let's separate these out into two classes:
 
 -- **Exploration Benefits**: Many agents provide an inherent diversity or variance into the world which is broadly beneficial in the long run. For instance, agents can exhibit different phenotypes -- some being highly 'exploratory', which are worse on average but higher variance, while others are 'exploitatory', who do better on average but with much lower variance[^3].
+
 -- **Information Benefits**: Many local agents maintain some irreducible stock of knowledge based on their local situations and phenomenology which results in better/more effective systems overall.
 
 If we posit that coordination costs can be solved through better technology both through communication technology and also AI alignment techniques, then the only remaining benefits to decentralization remain these exploration and informational benefits. The question, then, is whether these benefits can *only* be obtained through a decentralized scheme or whether, in the limit of technology, a highly centralized singleton can effectively architect and operate itself such that it can gain these benefits while also remaining fully centralized -- i.e. whether endogenous (to the singleton) exploration is sufficient to emulate the kinds of benefits that you naturally get as part of a more decentralized system?
