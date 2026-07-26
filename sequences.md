@@ -156,7 +156,7 @@ This sequence collects my writing on the contemporary deep-learning paradigm: wh
 5. [Most Algorithmic Progress Is Data Progress]({% post_url 2025-08-02-Most-Algorithmic-Progress-is-Data-Progress %})
 6. [Distillation Ain’t What It Used to Be]({% post_url 2026-06-12-Distillation-Aint-What-It-Used-To-Be %})
 7. [Thoughts on Claude Mythos]({% post_url 2026-04-11-Thoughts-On-Claude-Mythos %})
-8. [How LLM RL Can Work Despite Information-Theoretic Inefficiency]({% post_url 2026-07-26-How-Can-LLM-RL-Work-Despite-Information-Theoretic-Inefficiency/ %})
+8. [How LLM RL Can Work Despite Information-Theoretic Inefficiency]({% post_url 2026-07-26-How-Can-LLM-RL-Work-Despite-Information-Theoretic-Inefficiency %})
 
 ---
 
