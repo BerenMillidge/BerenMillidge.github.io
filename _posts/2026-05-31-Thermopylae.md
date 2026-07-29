@@ -20,6 +20,8 @@ And always bored with peace,
 Drenched in the blood of Egypt,  
 He turns his gaze to Greece.  
 
+…
+
 Before the winged lions stood  
 Proud Magi, grave with age,  
 Tall beneath the cedar beams,  
@@ -55,35 +57,45 @@ But see the trap it lays.
 A great king cannot languish,  
 Or be buried by his days."  
 
-"Though you call your counsel prudence  
-You know the truth as I;   
+“Though you call your counsel prudence. 
+You know the truth as I;  
 All earthly things are nought but dust,  
-Yet name shall never die.”  
+Yet name may never die.”  
 
 “The shepherd and the potter pass,  
 The ploughman and the slave;  
 They eat, they sleep, they love, they weep,  
 Then vanish in the grave.”  
 
-“The spear that never leaves the wall  
+“The spear that never leaves the wall   
 Will rust without a song;  
-The king who only keeps his crown   
-Has merely lived too long."  
+The king who only keeps his crown  
+Has merely lived too long.”  
 
-“But he who stamps upon the world,  
+“The bright fields of youth seem boundless,  
+Yet fade as time slips by.  
+For roads once wide grow narrow now   
+And dreams unchosen die.”  
+
+“For soon shall come a winter grey,  
+Whose spring is not for me.  
+The rushing, raging river ends   
+Nameless within the sea.”  
+
+“But he who stamps upon the world   
 The image of his flame,  
 Though all his mortal bones are dust,  
 Still walks this earth in name.”  
 
 “What worth has breath without renown?  
 What worth has peaceful age?  
-If unborn eyes pause not to mark  
+If unborn eyes pause not to mark   
 My shadow on the page.”  
 
-"For what worth has hoarded treasure,  
-Or a crown that wins no fame?  
-For what is war but a temple,  
-Built to sanctify my name?"  
+“With each new dawn a path is lost   
+To win immortal fame.  
+And what is war but a temple,  
+Built to sanctify my name?”  
 
 …
 
