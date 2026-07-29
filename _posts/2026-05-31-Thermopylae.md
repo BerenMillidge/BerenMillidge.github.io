@@ -57,7 +57,7 @@ But see the trap it lays.
 A great king cannot languish,  
 Or be buried by his days."  
 
-“Though you call your counsel prudence. 
+“Though you call your counsel prudence,   
 You know the truth as I;  
 All earthly things are nought but dust,  
 Yet name may never die.”  
