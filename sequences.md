@@ -231,3 +231,4 @@ These posts form a loose intellectual autobiography. Together they record how my
 
 1. [Thermopylae]({% post_url 2026-05-31-Thermopylae %})
 2. [Taking the Singularity Seriously]({% post_url 2026-07-03-Taking-the-Singularity-Seriously %})
+3. [The Probe]({% post_url 2026-08-01-The-Probe %})
