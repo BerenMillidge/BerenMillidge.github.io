@@ -31,6 +31,7 @@ The posts are ordered conceptually rather than chronologically.
 7. [Alignment Likely Generalizes Further than Capabilities]({% post_url 2024-05-15-Alignment-Likely-Generalizes-Further-Than-Capabilities %})
 8. [Maintaining Alignment During RSI as a Feedback Control Problem]({% post_url 2025-02-05-Maintaining-Alignment-During-RSI-As-A-Feedback-Control-Problem %})
 9. [Do We Want Obedience or Alignment?]({% post_url 2025-08-02-Do-We-Want-Obedience-Or-Alignment %})
+10. [Maximum Entropy Morality, Metaplastic Constitutionalism, and the Dynamic Virtues]({% post_url 2026-08-07-Maximum-Entropy-Morality-Metaplastic-Constitutionalism-And-The-Dynamic-Virtues %})
 
 ### Post-AGI minds and civilizations
 10. [The Singularity as Cognitive Decoupling]({% post_url 2023-04-10-the-singularity-as-cognitive-decoupling %})
@@ -110,6 +111,7 @@ This provides an expanded and much more detailed sequence of my thinking on alig
 4. [Maintaining Alignment During RSI as a Feedback Control Problem]({% post_url 2025-02-05-Maintaining-Alignment-During-RSI-As-A-Feedback-Control-Problem %})
 5. [Preliminary Thoughts on Reward Hacking]({% post_url 2025-04-27-Preliminary-Thoughts-On-Reward-Hacking %})
 6. [Do We Want Obedience or Alignment?]({% post_url 2025-08-02-Do-We-Want-Obedience-Or-Alignment %})
+7. [Maximum Entropy Morality, Metaplastic Constitutionalism, and the Dynamic Virtues]({% post_url 2026-08-07-Maximum-Entropy-Morality-Metaplastic-Constitutionalism-And-The-Dynamic-Virtues %})
 
 ---
 
