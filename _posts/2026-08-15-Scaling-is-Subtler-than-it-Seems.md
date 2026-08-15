@@ -1,4 +1,7 @@
-# Scaling is subtler than it seems
+---
+layout: post
+title: Scaling is subtler than it seems
+---
 
 **Epistemic status**: *A lot of this is vibes and generally trying to express tacit knowledge from ML experience and training models. However there are a huge number of details here and the field of ML changes incredibly rapidly. This is an oversimplified, but hopefully still useful picture, and may well be wrong in some details since in a good number of cases we understand things at a practitioner's level but not super well theoretically.*
 
