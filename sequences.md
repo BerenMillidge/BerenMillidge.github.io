@@ -159,6 +159,7 @@ This sequence collects my writing on the contemporary deep-learning paradigm: wh
 6. [Distillation Ain’t What It Used to Be]({% post_url 2026-06-12-Distillation-Aint-What-It-Used-To-Be %})
 7. [Thoughts on Claude Mythos]({% post_url 2026-04-11-Thoughts-On-Claude-Mythos %})
 8. [How LLM RL Can Work Despite Information-Theoretic Inefficiency]({% post_url 2026-07-26-How-Can-LLM-RL-Work-Despite-Information-Theoretic-Inefficiency %})
+9. [Scaling is Subtler than it Seems]({% post_url 2026-08-15-Scaling-is-Subtler-than-it-Seems %})
 
 ---
 
