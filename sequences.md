@@ -87,6 +87,7 @@ This provides an expanded and much more detailed sequence of my thinking on alig
 6. [Preventing Goodharting with Homeostatic Rewards]({% post_url 2022-11-29-Preventing-Goodheart-with-homeostatic-rewards %})
 7. [Hedonic Loops]({% post_url 2023-04-19-Hedonic-loops-taming-RL %})
 8. [Alignment in the Age of Synthetic Data]({% post_url 2024-05-11-Alignment-in-the-Age-of-Synthetic-Data %})
+9. [Mitigating Reward Hacking as Institutional Design]({% post_url 2026-08-17-Mitigating-Reward-Hacking-as-Institutional-Design %})
 
 ### Thoughts on AI Governance and Strategy
 
