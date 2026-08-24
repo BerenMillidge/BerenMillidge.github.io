@@ -3,7 +3,7 @@ layout: post
 title: Architecture Research as Addressing Constraints to Scaling
 ---
 
-**Author's note**: *Short note. Really a quick extension to [scaling is subtler than it seems](https://www.beren.io/2026-08-15-Scaling-is-Subtler-than-it-Seems/)]. This is probably obvious to many but still worth writing, I think/hope.*
+**Author's note**: *Short note. Really a quick extension to [scaling is subtler than it seems](https://www.beren.io/2026-08-15-Scaling-is-Subtler-than-it-Seems/). This is probably obvious to many but still worth writing, I think/hope.*
 
 Sometimes when I talk to people about architecture research, they have a somewhat naive impression that it is mostly about empirically searching to find tweaks that lower loss/perplexity a small amount. E.g. we try adding a layernorm here or there or changing this activation function or adding a convolution layer or whatever, and just trying to improve loss. This is often coupled with the idea that LLM architecture research is basically an entirely empirical 'throwing darts at the wall' kind of research. Certainly there is some of that[^1]. However, here I want to propose a different perspective on architectures. Namely, that the point of architecture research is not principally to improve pretraining loss under some fixed iso-param and iso-flop conditions but rather to *remove, or at least push back, the bottlenecks to further scaling*.
 
