@@ -141,6 +141,7 @@ This sequence collects my writing on the contemporary deep-learning paradigm: wh
 6. [Integer Tokenization Is Insane]({% post_url 2023-02-04-Integer-tokenization-is-insane %})
 7. [Integer Tokenization Is Now Much Less Insane]({% post_url 2024-05-11-Integer-tokenization-is-now-much-less-insane %})
 8. [Right to Left Integer Tokenization]({% post_url 2024-07-07-Right-to-Left-Integer-Tokenization %})
+9. [Architecture Research as Addressing Constraints to Scaling]({% post_url 2026-08-23-Architecture-Research-as-Addressing-Constraints-to-Scaling %})
 
 ### Language Models and Scaffolded Systems
 
@@ -161,6 +162,7 @@ This sequence collects my writing on the contemporary deep-learning paradigm: wh
 7. [Thoughts on Claude Mythos]({% post_url 2026-04-11-Thoughts-On-Claude-Mythos %})
 8. [How LLM RL Can Work Despite Information-Theoretic Inefficiency]({% post_url 2026-07-26-How-Can-LLM-RL-Work-Despite-Information-Theoretic-Inefficiency %})
 9. [Scaling is Subtler than it Seems]({% post_url 2026-08-15-Scaling-is-Subtler-than-it-Seems %})
+10. [Architecture Research as Addressing Constraints to Scaling]({% post_url 2026-08-23-Architecture-Research-as-Addressing-Constraints-to-Scaling %})
 
 ---
 
