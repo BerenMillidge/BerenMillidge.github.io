@@ -138,10 +138,11 @@ This sequence collects my writing on the contemporary deep-learning paradigm: wh
 3. [Linear Attention as Iterated Hopfield Networks]({% post_url 2024-03-03-Linear-Attention-as-Iterated-Hopfield-Networks %})
 4. [The Surprising Parameter Efficiency of Vision Models]({% post_url 2023-04-04-Surprising-parameter-efficiency-vision-models %})
 5. [Addendum to the Surprising Parameter Efficiency of Vision Models]({% post_url 2024-03-24-Addendum-to-the-Surprising-Parameter-Efficiency-of-Vision-Models %})
-6. [Integer Tokenization Is Insane]({% post_url 2023-02-04-Integer-tokenization-is-insane %})
-7. [Integer Tokenization Is Now Much Less Insane]({% post_url 2024-05-11-Integer-tokenization-is-now-much-less-insane %})
-8. [Right to Left Integer Tokenization]({% post_url 2024-07-07-Right-to-Left-Integer-Tokenization %})
-9. [Architecture Research as Addressing Constraints to Scaling]({% post_url 2026-08-23-Architecture-Research-as-Addressing-Constraints-to-Scaling %})
+6. [Current Neural Networks Are Not Overparameterized]({% post_url 2025-03-01-Current-Neural-Networks-Are-Not-Overparametrized %})
+7. [Integer Tokenization Is Insane]({% post_url 2023-02-04-Integer-tokenization-is-insane %})
+8. [Integer Tokenization Is Now Much Less Insane]({% post_url 2024-05-11-Integer-tokenization-is-now-much-less-insane %})
+9. [Right to Left Integer Tokenization]({% post_url 2024-07-07-Right-to-Left-Integer-Tokenization %})
+10. [Architecture Research as Addressing Constraints to Scaling]({% post_url 2026-08-23-Architecture-Research-as-Addressing-Constraints-to-Scaling %})
 
 ### Language Models and Scaffolded Systems
 
@@ -154,15 +155,14 @@ This sequence collects my writing on the contemporary deep-learning paradigm: wh
 ### Scaling, Data, and the Drivers of Progress
 
 1. [The Scaling Laws Are in Our Stars, Not Ourselves]({% post_url 2025-03-01-The-Scaling-Laws-Are-In-Our-Stars-Not-Ourselves %})
-2. [Current Neural Networks Are Not Overparameterized]({% post_url 2025-03-01-Current-Neural-Networks-Are-Not-Overparametrized %})
-3. [The Limit of Prediction Is Not Omniscience]({% post_url 2025-08-03-The-Limit-Of-Prediction-Is-Not-Omniscience %})
-4. [Alignment in the Age of Synthetic Data]({% post_url 2024-05-11-Alignment-in-the-Age-of-Synthetic-Data %})
-5. [Most Algorithmic Progress Is Data Progress]({% post_url 2025-08-02-Most-Algorithmic-Progress-is-Data-Progress %})
-6. [Distillation Ain’t What It Used to Be]({% post_url 2026-06-12-Distillation-Aint-What-It-Used-To-Be %})
-7. [Thoughts on Claude Mythos]({% post_url 2026-04-11-Thoughts-On-Claude-Mythos %})
-8. [How LLM RL Can Work Despite Information-Theoretic Inefficiency]({% post_url 2026-07-26-How-Can-LLM-RL-Work-Despite-Information-Theoretic-Inefficiency %})
-9. [Scaling is Subtler than it Seems]({% post_url 2026-08-15-Scaling-is-Subtler-than-it-Seems %})
-10. [Architecture Research as Addressing Constraints to Scaling]({% post_url 2026-08-23-Architecture-Research-as-Addressing-Constraints-to-Scaling %})
+2. [The Limit of Prediction Is Not Omniscience]({% post_url 2025-08-03-The-Limit-Of-Prediction-Is-Not-Omniscience %})
+3. [Alignment in the Age of Synthetic Data]({% post_url 2024-05-11-Alignment-in-the-Age-of-Synthetic-Data %})
+4. [Most Algorithmic Progress Is Data Progress]({% post_url 2025-08-02-Most-Algorithmic-Progress-is-Data-Progress %})
+5. [Distillation Ain’t What It Used to Be]({% post_url 2026-06-12-Distillation-Aint-What-It-Used-To-Be %})
+6. [Thoughts on Claude Mythos]({% post_url 2026-04-11-Thoughts-On-Claude-Mythos %})
+7. [How LLM RL Can Work Despite Information-Theoretic Inefficiency]({% post_url 2026-07-26-How-Can-LLM-RL-Work-Despite-Information-Theoretic-Inefficiency %})
+8. [Scaling is Subtler than it Seems]({% post_url 2026-08-15-Scaling-is-Subtler-than-it-Seems %})
+9. [Architecture Research as Addressing Constraints to Scaling]({% post_url 2026-08-23-Architecture-Research-as-Addressing-Constraints-to-Scaling %})
 
 ---
 
