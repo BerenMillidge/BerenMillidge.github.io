@@ -163,6 +163,7 @@ This sequence collects my writing on the contemporary deep-learning paradigm: wh
 7. [How LLM RL Can Work Despite Information-Theoretic Inefficiency]({% post_url 2026-07-26-How-Can-LLM-RL-Work-Despite-Information-Theoretic-Inefficiency %})
 8. [Scaling is Subtler than it Seems]({% post_url 2026-08-15-Scaling-is-Subtler-than-it-Seems %})
 9. [Architecture Research as Addressing Constraints to Scaling]({% post_url 2026-08-23-Architecture-Research-as-Addressing-Constraints-to-Scaling %})
+10. [Whence the Fractals in our Stars]({% post_url 2026-08-30-Whence-the-Fractals-in-our-Stars %})
 
 ---
 
