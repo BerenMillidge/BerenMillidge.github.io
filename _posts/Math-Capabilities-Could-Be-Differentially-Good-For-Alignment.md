@@ -2,7 +2,7 @@
 layout: post
 title: Math Capabilities could be Differentially Good for Alignment
 ---
-Epistemic Status: Short note of what are basically shower thoughts.
+**Epistemic Status**: *Short note of what are basically shower thoughts.*
 
 It occurred to me the other day that training model capabilities on math seems plausibly differentially beneficial for alignment over capabilities, amongst other effects. This is because largely capabilities progress does not seem hugely bottlenecked on mathematical knowledge and skill. Rather, capabilities seem to be mostly about increasing compute, scaling up existing recipes, and empirically tweaking existing recipes, and finding ways to get better data and extract better signal from the data that we have. Obviously these all involve some degree of math, but that is largely not the core bottleneck here, and often the math it requires is fairly basic college-level linear algebra, calculus, numerical methods etc. Conversely, a lot of alignment agendas, especially in agent foundations, seem extremely bottlenecked on mathematical skill and capability, since we need to be able to come up with novel methods to prove things about unknown agents in highly general settings.
 
