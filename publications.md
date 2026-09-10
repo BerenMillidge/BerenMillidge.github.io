@@ -21,7 +21,7 @@ Since cofounding Zyphra, my work has increasingly focused on building and leadin
 
 ### Selected papers
 
-**[ZAYA1-8B Technical Report](https://arxiv.org/abs/2605.05365)** (2026)
+**[ZAYA1-8B Technical Report](https://arxiv.org/abs/2605.05365)** (2026)   
 Robert Washbourne, Rishi Iyer, Tomas Figliolia, Henry Zheng, Ryan Lorig-Roach, Sungyeon Yang, Pritish Yuvraj, Quentin Anthony, Yury Tokpanov, Xiao Yang, Ganesh Nanduru, Stephen Ebert, Praneeth Medepalli, Skyler Szot, Srivatsan Rajagopal, Alex Ong, Bhavana Mehta, **Beren Millidge**
 
 This technical report presents our state-of-the-art 8B LLM foundation model that we trained in-house end-to-end including pretraining, midtraining, RL. Uses a novel in-house architecture we developed (CCA and Zaya router). Out performs all contemporary models of its size and is competitive with substantially larger models including then-frontier models in certain mathematics and coding tasks. 
@@ -99,7 +99,7 @@ We analyzed the mathematical origin of expected free energy and the relationship
 
 Here, we developed a mechanism for rapidly recombining learned reward components as motivational state changes, enabling 'zero-shot' transfer of value functions and behaviour to novel reward functions depending on physiological state. 
 
-**[Deep Active Inference as Variational Policy Gradients](https://www.sciencedirect.com/science/article/pii/S0022249620300298)** (2020; Journal of Mathematical Psychology)
+**[Deep Active Inference as Variational Policy Gradients](https://www.sciencedirect.com/science/article/pii/S0022249620300298)**   (2020; Journal of Mathematical Psychology)
 **Beren Millidge**
 
 Here, I was the first to 'scale up' active inference to contemporary RL environments and agent scales, demonstrating that active-inference-inspired agents outperformed standard policy gradient and Q-learning approaches in deep RL tasks. 
@@ -133,7 +133,7 @@ Leon Lufkin, Tomas Figliolia, **Beren Millidge**, Kamesh Krishnamurthy
 
 We developed a novel hybrid memory which combined SSMs and full attention in a novel way by using the SSM to process the majority of the seauence while only passing to attention the tokens which are *surprising* to the SSM. We demonstrated that this outperformed existing SSM hybrid methods. 
 
-**[Mixture-of-PageRanks: Replacing Long-Context with Real-Time, Sparse GraphRAG](https://arxiv.org/abs/2412.06078)** (2024)
+**[Mixture-of-PageRanks: Replacing Long-Context with Real-Time, Sparse GraphRAG](https://arxiv.org/abs/2412.06078)** (2024)  
 Nicholas Alonso, **Beren Millidge**
 
 We developed a novel page-rank inspired RAG mechanism which allowed perfect and SOTA performance on challenging retrieval benchmarks on context lengths of up to a billion tokens while running in real-time entirely on the CPU
