@@ -90,7 +90,7 @@ This provides an expanded and much more detailed sequence of my thinking on alig
 1. [Safer Value Learning Through Uncertainty]({% post_url 2020-09-01-Safer-Value-Learning-Through-Uncertainty %})
 2. [Don’t Argmax—Distribution Match]({% post_url 2022-11-27-Don't-argmax-distribution-match %})
 3. [Preventing Goodharting with Homeostatic Rewards]({% post_url 2022-11-29-Preventing-Goodheart-with-homeostatic-rewards %})
-4. [Hedonic Loops]({% post_url 2023-04-19-Hedonic-loops-taming-RL %})
+4. [Hedonic Loops and Taming RL]({% post_url 2023-04-19-Hedonic-loops-taming-RL %})
 
 ### Thoughts on AI Governance and Strategy
 
