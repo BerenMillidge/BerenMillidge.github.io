@@ -76,18 +76,20 @@ This provides an expanded and much more detailed sequence of my thinking on alig
 6. [Gradient Hacking Is Extremely Difficult]({% post_url 2023-01-21-gradient-hacking-extremely-difficult %})
 7. [Boxing Might Work, but We Won’t Use It]({% post_url 2023-02-15-Boxing-might-work-but-we-wont-use-it %})
 
-### Mitigations and Philosophy of Defense 
+### Goodhearting, Oversight and Defense in Depth
 
+1. [The Solution to Alignment Is Many, Not One]({% post_url 2023-02-19-The-solution-to-alignment-is-many-not-one %})
+2. [Validator Models: A Simple Approach to Detecting and Counteracting Goodharting]({% post_url 2023-02-19-validator-models-simple-approach-detecting-goodhearting %})
+3. [Preliminary Thoughts on Reward Hacking]({% post_url 2025-04-27-Preliminary-Thoughts-On-Reward-Hacking %})
+4. [Alignment Likely Generalizes Further than Capabilities]({% post_url 2024-05-15-Alignment-Likely-Generalizes-Further-Than-Capabilities %})
+5. [Mitigating Reward Hacking as Institutional Design]({% post_url 2026-08-17-Mitigating-Reward-Hacking-as-Institutional-Design %})
+
+### Objective Design and Uncertainty
 
 1. [Safer Value Learning Through Uncertainty]({% post_url 2020-09-01-Safer-Value-Learning-Through-Uncertainty %})
 2. [Don’t Argmax—Distribution Match]({% post_url 2022-11-27-Don't-argmax-distribution-match %})
-3. [Creating Worlds Where Iterative Alignment Succeeds]({% post_url 2022-12-06-Creating-worlds-where-iterative-alignment-succeeds %})
-4. [The Solution to Alignment Is Many, Not One]({% post_url 2023-02-19-The-solution-to-alignment-is-many-not-one %})
-5. [Validator Models: A Simple Approach to Detecting and Counteracting Goodharting]({% post_url 2023-02-19-validator-models-simple-approach-detecting-goodhearting %})
-6. [Preventing Goodharting with Homeostatic Rewards]({% post_url 2022-11-29-Preventing-Goodheart-with-homeostatic-rewards %})
-7. [Hedonic Loops]({% post_url 2023-04-19-Hedonic-loops-taming-RL %})
-8. [Alignment in the Age of Synthetic Data]({% post_url 2024-05-11-Alignment-in-the-Age-of-Synthetic-Data %})
-9. [Mitigating Reward Hacking as Institutional Design]({% post_url 2026-08-17-Mitigating-Reward-Hacking-as-Institutional-Design %})
+3. [Preventing Goodharting with Homeostatic Rewards]({% post_url 2022-11-29-Preventing-Goodheart-with-homeostatic-rewards %})
+4. [Hedonic Loops]({% post_url 2023-04-19-Hedonic-loops-taming-RL %})
 
 ### Thoughts on AI Governance and Strategy
 
@@ -96,23 +98,18 @@ This provides an expanded and much more detailed sequence of my thinking on alig
 3. [Strong Infohazard Norms Lead to Predictable Failure Modes]({% post_url 2023-08-09-Strong-Infohazard-Norms-Lead-To-Predictable-Failure-Modes %})
 4. [Open Source AI Has Been Vital for Alignment]({% post_url 2023-11-05-Open-source-AI-has-been-vital-for-alignment %})
 5. [My Preliminary Thoughts on AI Safety Regulation]({% post_url 2024-03-04-Preliminary-Thoughts-on-AI-Safety-Regulation %})
-
-### Post-AGI alignment, selection, and disempowerment
-
-1. [Capital Ownership Will Not Prevent Human Disempowerment]({% post_url 2024-05-12-Capital-Ownership-Will-Not-Prevent-Human-Disempowerment %})
-2. [The Biosingularity Alignment Problem Seems Harder than AI Alignment]({% post_url 2025-11-30-The-Biosingularity-Alignment-Problem-Seems-Harder-than-AI-Alignment %})
-3. [AI Monotheism vs AI Polytheism]({% post_url 2026-01-07-AI-Monotheism-vs-AI-Polytheism %})
-4. [When Does Competition Lead to Recognizable Values?]({% post_url 2026-01-12-When-Does-Competition-Lead-to-Recognizable-Values %})
-5. [Autarkic Agency Will Likely Migrate Upwards]({% post_url 2026-07-13-Autarkic-Agency-Will-Likely-Migrate-Upwards %})
+6. [Many Benefits of AGI Could Still be Realized in a Pause]({% post_url 2026-09-08-Many-Benefits-of-AGI-Could-Still-Be-Realized-In-A-Pause/ %})
 
 ### Dynamic Alignment and the New Synthesis
 
-1. [My Path to Prosaic Alignment and Open Questions]({% post_url 2023-07-05-My-path-to-prosaic-alignment-and-open-questions %})
+1. [Creating Worlds where Iterative Alignment Succeeds]({% post_url 2022-12-06-Creating-worlds-where-iterative-alignment-succeeds %})
+2. [My Path to Prosaic Alignment and Open Questions]({% post_url 2023-07-05-My-path-to-prosaic-alignment-and-open-questions %})
 3. [Alignment Likely Generalizes Further Than Capabilities]({% post_url 2024-05-15-Alignment-Likely-Generalizes-Further-Than-Capabilities %})
 4. [Maintaining Alignment During RSI as a Feedback Control Problem]({% post_url 2025-02-05-Maintaining-Alignment-During-RSI-As-A-Feedback-Control-Problem %})
 5. [Preliminary Thoughts on Reward Hacking]({% post_url 2025-04-27-Preliminary-Thoughts-On-Reward-Hacking %})
-6. [Do We Want Obedience or Alignment?]({% post_url 2025-08-02-Do-We-Want-Obedience-Or-Alignment %})
-7. [Maximum Entropy Morality, Metaplastic Constitutionalism, and the Dynamic Virtues]({% post_url 2026-08-07-Maximum-Entropy-Morality-Metaplastic-Constitutionalism-And-The-Dynamic-Virtues %})
+6. [Mitigating Reward Hacking as Institutional Design]({% post_url 2026-08-17-Mitigating-Reward-Hacking-as-Institutional-Design %})
+7. [Do We Want Obedience or Alignment?]({% post_url 2025-08-02-Do-We-Want-Obedience-Or-Alignment %})
+8. [Maximum Entropy Morality, Metaplastic Constitutionalism, and the Dynamic Virtues]({% post_url 2026-08-07-Maximum-Entropy-Morality-Metaplastic-Constitutionalism-And-The-Dynamic-Virtues %})
 
 ---
 
@@ -127,9 +124,10 @@ This sequence collects my writing on the contemporary deep-learning paradigm: wh
 3. [Why Not Sparse Hierarchical Graph Learning?]({% post_url 2025-03-01-Why-Not-Sparse-Hierarchical-Graph-Learning %})
 4. [Thoughts on Loss Landscapes and Why Deep Learning Works]({% post_url 2023-07-11-Loss-landscapes-and-understanding-deep-learning %})
 5. [Understanding Overparameterized Generalization]({% post_url 2022-04-17-Understanding_Overparametrized_Generalization %})
-6. [Grokking Grokking]({% post_url 2022-01-11-Grokking-Grokking %})
-7. [Addendum to Grokking Grokking]({% post_url 2023-09-23-Addendum-to-Grokking-Grokking %})
-8. [Initial Quick Thoughts on Singular Learning Theory]({% post_url 2025-12-24-Initial-Quick-Thoughts-on-Singular-Learning-Theory %})
+6. [Current Neural Networks Are Not Overparameterized]({% post_url 2025-03-01-Current-Neural-Networks-Are-Not-Overparametrized %})
+7. [Grokking Grokking]({% post_url 2022-01-11-Grokking-Grokking %})
+8. [Addendum to Grokking Grokking]({% post_url 2023-09-23-Addendum-to-Grokking-Grokking %})
+9. [Initial Quick Thoughts on Singular Learning Theory]({% post_url 2025-12-24-Initial-Quick-Thoughts-on-Singular-Learning-Theory %})
 
 ### Representations, Architectures, and Parameter Efficiency
 
@@ -138,11 +136,10 @@ This sequence collects my writing on the contemporary deep-learning paradigm: wh
 3. [Linear Attention as Iterated Hopfield Networks]({% post_url 2024-03-03-Linear-Attention-as-Iterated-Hopfield-Networks %})
 4. [The Surprising Parameter Efficiency of Vision Models]({% post_url 2023-04-04-Surprising-parameter-efficiency-vision-models %})
 5. [Addendum to the Surprising Parameter Efficiency of Vision Models]({% post_url 2024-03-24-Addendum-to-the-Surprising-Parameter-Efficiency-of-Vision-Models %})
-6. [Current Neural Networks Are Not Overparameterized]({% post_url 2025-03-01-Current-Neural-Networks-Are-Not-Overparametrized %})
-7. [Integer Tokenization Is Insane]({% post_url 2023-02-04-Integer-tokenization-is-insane %})
-8. [Integer Tokenization Is Now Much Less Insane]({% post_url 2024-05-11-Integer-tokenization-is-now-much-less-insane %})
-9. [Right to Left Integer Tokenization]({% post_url 2024-07-07-Right-to-Left-Integer-Tokenization %})
-10. [Architecture Research as Addressing Constraints to Scaling]({% post_url 2026-08-23-Architecture-Research-as-Addressing-Constraints-to-Scaling %})
+6. [Integer Tokenization Is Insane]({% post_url 2023-02-04-Integer-tokenization-is-insane %})
+7. [Integer Tokenization Is Now Much Less Insane]({% post_url 2024-05-11-Integer-tokenization-is-now-much-less-insane %})
+8. [Right to Left Integer Tokenization]({% post_url 2024-07-07-Right-to-Left-Integer-Tokenization %})
+9. [Architecture Research as Addressing Constraints to Scaling]({% post_url 2026-08-23-Architecture-Research-as-Addressing-Constraints-to-Scaling %})
 
 ### Language Models and Scaffolded Systems
 
@@ -171,27 +168,45 @@ This sequence collects my writing on the contemporary deep-learning paradigm: wh
 
 This sequence tries to draw together evidence on the nature of intelligence by comparing and contrasting deep learning systems and biological brains, to see what each can inform about the other.
 
+### Architecture and Substrate
+
 1. [How to Evolve a Brain]({% post_url 2022-08-08-How-to-evolve-a-brain %})
 2. [The Scale of the Brain vs Machine Learning]({% post_url 2022-08-06-The-scale-of-the-brain-vs-machine-learning %})
 3. [GPUs vs Brains: Hardware and Architectures]({% post_url 2023-04-09-GPUs-vs-brains-hardware-and-architecture %})
-4. [Scaling Laws vs Individual Differences]({% post_url 2022-09-18-Scaling-laws-vs-individual-differences %})
+4. [Why Not Sparse-Hierarchical-Graph-Learning]({% post_url 2025-03-01-Why-Not-Sparse-Hierarchical-Graph-Learning %})
 5. [Deep Learning Models are Secretly (Almost) Linear]({% post_url 2023-04-04-DL-models-are-secretly-linear %})
-6. [Why Not Sparse-Hierarchical-Graph-Learning]({% post_url 2025-03-01-Why-Not-Sparse-Hierarchical-Graph-Learning %})
-7. [Thoughts on AI Consciousness]({% post_url 2025-08-06-Thoughts-On-AI-Consciousness %})
-8. [Whence Human Talents Neurobiologically]({% post_url 2025-11-22-Whence-Human-Talents-Neurobiologically %})
-9. [Continual Learning Explains Some Interesting Phenomena in Human Memory]({% post_url 2025-10-11-Continual-Learning-Explains-Interesting-Phenomena-Human-Memory %})
+
+### Plasticity, Individual Differences, and Subjecthood
+
+1. [Scaling Laws vs Individual Differences]({% post_url 2022-09-18-Scaling-laws-vs-individual-differences %})
+2. [Whence Human Talents Neurobiologically]({% post_url 2025-11-22-Whence-Human-Talents-Neurobiologically %})
+3. [Continual Learning Explains Some Interesting Phenomena in Human Memory]({% post_url 2025-10-11-Continual-Learning-Explains-Interesting-Phenomena-Human-Memory %})
+4. [Thoughts on AI Consciousness]({% post_url 2025-08-06-Thoughts-On-AI-Consciousness %})
 
 ## The Longest Term
 
 How can we use our understanding of the limits of intelligence, alignment, and physics to map out the structure of the long-term future? 
 
+### The Endogenous Scale of Agency
+
+What determines where the boundary of an agent lies as minds become modular, copying becomes trivial, and coordination and communication costs go to zero?
+
 1. [The Ultimate Limits of Alignment Determine the Shape of the Long Term Future]({% post_url 2022-08-16-Ultimate-limits-alignment %})
 2. [The Singularity as Cognitive Decoupling]({% post_url 2023-04-10-the-singularity-as-cognitive-decoupling %})
 3. [BCIs and the Ecosystem of Modular Minds]({% post_url 2023-04-23-Composable-latent-spaces-BCIs-modular-minds %})
-4. [Space Warfare Seems Mostly Defense Dominant]({% post_url 2025-11-22-Space-Warfare-Seems-Mostly-Defense-Dominant %})
-5. [Preliminary Notes on Colonizing the Universe]({% post_url 2026-06-28-Preliminary-Notes-on-Colonizing-the-Universe %})
+4. [AI Monotheism vs AI Polytheism]({% post_url 2026-01-07-AI-Monotheism-vs-AI-Polytheism %})
+5. [When Does Competition Lead to Recognizable Values?]({% post_url 2026-01-12-When-Does-Competition-Lead-to-Recognizable-Values %})
 6. [Autarkic Agency Will Likely Migrate Upwards]({% post_url 2026-07-13-Autarkic-Agency-Will-Likely-Migrate-Upwards %})
 7. [Is Endogenous Exploration Sufficient]({% post_url 2026-07-17-Is-Endogenous-Exploration-Sufficient %})
+8. [Can Individuality Survive in the Limit?]({% post_url 2026-09-09-Can-Individuality-Survive-in-the-limit %})
+
+### Cosmic Expansion and the Physical Limits on Agency
+
+How does the physical and causal geometry of spacetime ultimately shape and constrain minds and civilizations in the long run? 
+
+1. [The Ultimate Limits of Alignment Determine the Shape of the Long Term Future]({% post_url 2022-08-16-Ultimate-limits-alignment %})
+2. [Space Warfare Seems Mostly Defense Dominant]({% post_url 2025-11-22-Space-Warfare-Seems-Mostly-Defense-Dominant %})
+3. [Preliminary Notes on Colonizing the Universe]({% post_url 2026-06-28-Preliminary-Notes-on-Colonizing-the-Universe %})
 
 ## Economics, Society, and AGI
 
