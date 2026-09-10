@@ -1,9 +1,149 @@
 ---
 layout: page
 title: Publications
+subtitle: Selected research programs and full publication list
+permalink: /publications/
 ---
 
-Here is a list of my current publications (* means equal contribution). I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
+My research has moved between computational neuroscience, biologically plausible learning algorithms, and large-scale foundation models. Broadly I have been attempting to understand how intelligence works in both brains and machines, and specifically understanding questions such as how learning and inference can be implemented in local and asynchronous biological systems, how associative memories work, the underlying fundamental of exploration in RL, and most recently how architectures, data, and training systems come together to build highly capable foundation models across a wide range of modalities. 
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&oi=ao&user=3GGkFTkAAAAJ) · [GitHub](https://github.com/BerenMillidge) · [Full publication list](#all-publications)
+
+---
+
+# Selected research
+
+The sections below collect a small number of papers into the main research programs I have worked on. They are intended as an entry point; the complete reverse-chronological publication list is below.
+
+## Foundation models: architectures, data, and scaling
+
+Since cofounding Zyphra, my work has increasingly focused on building and leading research across foundation-model architectures, data, training systems, as well as trying to attack fundamental questions of continual learning and long term memory. A recurring question is which constraints actually limit scaling, and how changes to architecture, data, or training dynamics can open new scaling axes.
+
+### Selected papers
+
+**[ZAYA1-8B Technical Report](https://arxiv.org/abs/2605.05365)** (2026)
+Robert Washbourne, Rishi Iyer, Tomas Figliolia, Henry Zheng, Ryan Lorig-Roach, Sungyeon Yang, Pritish Yuvraj, Quentin Anthony, Yury Tokpanov, Xiao Yang, Ganesh Nanduru, Stephen Ebert, Praneeth Medepalli, Skyler Szot, Srivatsan Rajagopal, Alex Ong, Bhavana Mehta, **Beren Millidge**
+
+This technical report presents our state-of-the-art 8B LLM foundation model that we trained in-house end-to-end including pretraining, midtraining, RL. Uses a novel in-house architecture we developed (CCA and Zaya router). Out performs all contemporary models of its size and is competitive with substantially larger models including then-frontier models in certain mathematics and coding tasks. 
+
+**[Training Foundation Models on a Full-Stack AMD Platform: Compute, Networking, and System Design](https://arxiv.org/abs/2511.17127)** (2025)  
+Quentin Anthony, Yury Tokpanov, Skyler Szot, Srivatsan Rajagopal, Praneeth Medepalli, Rishi Iyer, Vasu Shyam, Anna Golubeva, Ansh Chaurasia, Xiao Yang, Tomas Figliolia, Robert Washbourne, Drew Thorstensen, Amartey Pearson, Zack Grossbart, Jason van Patten, Emad Barsoum, Zhenyu Gu, Yao Fu, **Beren Millidge**
+
+A detailed systems paper on our novel full-stack AMD pretraining approach. We are the first to enable large-scale LLM pretraiing on an end-to-end AMD stack of MI300x GPUs and AMD Pollara networking. 
+
+**[Scaling Adaptive Depth with Norm-Agnostic Residual Networks](https://arxiv.org/abs/2606.16112)** (2026)  
+Tomás Figliolia, **Beren Millidge**
+
+We introduce norm-agnostic residual streams, a novel method to prevent diminishment of marginal capacity growth with depth which exists in current models. 
+
+**[Can Scale Save Us From Plasticity Loss in Large Language Models?](https://arxiv.org/abs/2606.24752)** (2026)  
+J. Fernando Hernandez-Garcia, Tomás Figliolia, **Beren Millidge**
+
+Here we study whether plasticity loss persists in modern language models and how its onset changes with scale. This thus connects continual learning questions to the the current contemporary LLM regime. 
+
+**[The Zamba2 Suite](https://arxiv.org/abs/2411.15242)** (2024)  
+Paolo Glorioso, Quentin Anthony, Yury Tokpanov, Anna Golubeva, Vasudev Shyam, James Whittington, Jonathan Pilault, **Beren Millidge**
+
+Introduces the Zamba2 SSM–Transformer hybrid architecture, combining a Mamba backbone with shared attention to improve efficiency while retaining strong language-model performance. We trained then-SOTA LLMs in the 7B, 3B, and 1B size bracket. 
+
+**[Zyda-2: a 5 Trillion Token High-Quality Dataset](https://arxiv.org/abs/2411.06068)** (2024)  
+Yury Tokpanov, Paolo Glorioso, Quentin Anthony, **Beren Millidge**
+
+An example of the data side of the foundation-model program. We constructed and open-sourced a trillion-token-scale pretraining dataset which outperformed comparable pretraining sets of the time, as well as released the full dataset processing, filtering, and deduplication infrastructure. 
+
+## Predictive coding and local learning
+
+Much of my PhD and postdoctoral work asked whether powerful learning algorithms such as backpropagation can emerge from local distributed dynamics, and whether predictive coding provides a useful general framework for inference and learning in biological and artificial networks.
+
+### Selected papers
+
+**[Predictive Coding Approximates Backprop along Arbitrary Computation Graphs](https://arxiv.org/abs/2006.04182)** (2020; later published in *Neural Computation*)  
+**Beren Millidge**, Alexander Tschantz, Christopher L. Buckley
+
+We were the first to demonstrate that local learning algorithms such as predictive coding can approximate backpropagation on arbitrary computation graphs, demonstrating a potential route for backprop-like algorithms to be implemented in neural circuitry. 
+
+**[Inferring neural activity before plasticity as a foundation for learning beyond backpropagation](https://www.nature.com/articles/s41593-023-01514-1)** (2024 *Nature Neuroscience*)
+Yuhang Song, **Beren Millidge**, Tommaso Salvatori, Thomas Lukasiewicz, Zhenghua Xu & Rafal Bogacz 
+
+We developed *prospective configuration* a novel learning algorithm building upon predictive coding and show that it outperforms backpropagation on online and continual learning tasks. 
+
+**[A Theoretical Framework for Inference and Learning in Predictive Coding Networks](https://arxiv.org/abs/2207.12316)** (2022; ICLR 2023)  
+**Beren Millidge**, Yuhang Song, Tommaso Salvatori, Thomas Lukasiewicz, Rafal Bogacz
+
+We developed a general framework for understanding how predictive coding networks differ from backpropagation trained networks, and how predictive coding relates to Gauss-Newton, Target-Propagation and other learning algorithms.
+
+**[Backpropagation at the Infinitesimal Inference Limit of Energy-Based Models](https://arxiv.org/abs/2206.02629)** (2022; ICLR 2023)  
+**Beren Millidge**, Yuhang Song, Tommaso Salvatori, Thomas Lukasiewicz, Rafal Bogacz
+
+We developed a mathematical framework through which we can understand essentially the entire literature of biological learning algorithms approximating backprop through a unifying abstraction of the infinitesimal inference limit. 
+
+**[Hybrid Predictive Coding: Inferring, Fast and Slow](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011280)** (PNAS 2023)  
+Alexander Tschantz*, **Beren Millidge***, Anil Seth, Christopher Buckley
+
+We combined iterative predictive-coding inference with amortized inference, thus linking biologically motivated local computation with learned feedforward inference. 
+
+
+## Control, active inference, and value learning
+
+An earlier strand of my work studied control and reinforcement learning through the lens of probabilistic inference. I was particularly interested in where exploration terms come from, the relationship between iterative planning and amortized policies, and how agents can flexibly represent and revalue multiple rewards.
+
+### Selected papers
+
+**[Whence the Expected Free Energy?](https://arxiv.org/abs/2004.08128)** (2020; *Neural Computation*, 2021)  
+**Beren Millidge**, Alexander Tschantz, Christopher Buckley
+
+We analyzed the mathematical origin of expected free energy and the relationship between active-inference objectives and information-seeking exploration.
+
+**[Reward Bases: A Simple Mechanism for Adaptive Acquisition of Multiple Reward Types](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012580)** (PLOS Computational Biology 2024)  
+**Beren Millidge**, Yuhang Song, Armin Lak, Mark E. Walton, Rafal Bogacz
+
+Here, we developed a mechanism for rapidly recombining learned reward components as motivational state changes, enabling 'zero-shot' transfer of value functions and behaviour to novel reward functions depending on physiological state. 
+
+**[Deep Active Inference as Variational Policy Gradients](https://www.sciencedirect.com/science/article/pii/S0022249620300298)** (2020; Journal of Mathematical Psychology)
+**Beren Millidge**
+
+Here, I was the first to 'scale up' active inference to contemporary RL environments and agent scales, demonstrating that active-inference-inspired agents outperformed standard policy gradient and Q-learning approaches in deep RL tasks. 
+
+
+**[Understanding the Origins of Information-Seeking Exploration in Probabilistic Objectives for Control](https://arxiv.org/abs/2103.06859)** (2021)  
+**Beren Millidge**, Alexander Tschantz, Anil Seth, Christopher Buckley
+
+Here we derive the original of information-seeking objectives in reinforcement learning as deriving from divergence minimizing rather than reward maximizing functionals.
+
+
+
+## Associative memory and representations
+
+A smaller but recurring line of my research studies associative memory as a general computational primitive and its connections to representation learning, attention, and graph-based retrieval.
+
+### Selected papers
+
+**[Universal Hopfield Networks: A General Framework for Single-Shot Associative Memory Models](https://arxiv.org/abs/2202.04557)** (2022; ICML 2022)  
+**Beren Millidge**, Tommaso Salvatori, Yuhang Song, Thomas Lukasiewicz, Rafal Bogacz
+
+Here, we unified a large literature of existing disparate associative memory models and placed them all into a common framework by decomposing retrieval into similarity, separation, and projection operations. We demonstrated that this unification allows the immediate implementation of novel similarity and separation functions that outperformed existing assoiative memory methods. 
+
+**Associative Memories in the Feature Space** (2023; ECAI 2023)  
+Tommaso Salvatori, **Beren Millidge**, Yuhang Song, Rafal Bogacz
+
+We demonstrate that associative memory models can be made substantially more efficient and performant if the associative operation is performed upon a learnt latent feature space rather than in raw input/output space. We demonstrate that such latent associative memories outperform then-current methods operating on the output space. 
+
+**[Hybrid Associative Memories](https://arxiv.org/abs/2603.22325)** (2026)  
+Leon Lufkin, Tomas Figliolia, **Beren Millidge**, Kamesh Krishnamurthy
+
+We developed a novel hybrid memory which combined SSMs and full attention in a novel way by using the SSM to process the majority of the seauence while only passing to attention the tokens which are *surprising* to the SSM. We demonstrated that this outperformed existing SSM hybrid methods. 
+
+**[Mixture-of-PageRanks: Replacing Long-Context with Real-Time, Sparse GraphRAG](https://arxiv.org/abs/2412.06078)** (2024)
+Nicholas Alonso, **Beren Millidge**
+
+We developed a novel page-rank inspired RAG mechanism which allowed perfect and SOTA performance on challenging retrieval benchmarks on context lengths of up to a billion tokens while running in real-time entirely on the CPU
+
+
+# All publications
+
+Below is a complete publication record presented in reverse chronological order. I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
+
+## 2026
 
 **PUFFER: Incremental Fuzzy Deduplication for Continuously Evolving Corpora** (2026) <br /> Xiao Yang, Erik Edward Aldape, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2608.28622)
 
@@ -27,6 +167,8 @@ Here is a list of my current publications (* means equal contribution). I will t
 
 **Online Vector Quantized Attention** (2026) <br /> Nick Alonso, Tomas Figliolia, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2602.03922)
 
+## 2025
+
 **Equivalence of Personalized PageRank and Successor Representations** (2025) <br /> **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2512.24722)
 
 **Generalizing E-prop to Deep Networks** (2025) <br /> **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2512.24506)
@@ -34,6 +176,8 @@ Here is a list of my current publications (* means equal contribution). I will t
 **Training Foundation Models on a Full-Stack AMD Platform: Compute, Networking, and System Design** (2025) <br /> Quentin Anthony, Yury Tokpanov, Skyler Szot, Srivatsan Rajagopal, Praneeth Medepalli,Anna Golubeva, Vasu Shyam, Robert Washbourne, Rishi Iyer, Ansh Chaurasia, Tomas Figliolia, Xiao Yang, Drew Thorstensen, Amartey Pearson, Zack Grossbart,Jason van Patten, Emad Barsoum, Zhenyu Gu, Yao Fu, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2511.17127v1)
 
 **Compressed Convolutional Attention: Efficient Attention in a Compressed Latent Space** (2025) <br /> Tomas Figliolia, Nicholas Alonso, Rishi Iyer, Quentin Anthony, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2510.04476)
+
+## 2024
 
 **Mixture-of-PageRanks: Replacing Long-Context with Real-Time, Sparse GraphRAG** (2024) <br /> Nicholas Alonso, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2412.06078)
 
@@ -57,6 +201,8 @@ Here is a list of my current publications (* means equal contribution). I will t
 
 **BlackMamba: Mixture of Experts for State Space Models** (2024) <br /> Quentin Anthony\*, Yury Tokpanov\*, Paolo Glorioso\*, **Beren Millidge**\* <br /> [paper](https://arxiv.org/abs/2402.01771) \| [code](https://github.com/Zyphra/BlackMamba)
 
+## 2023
+
 **Collective Behaviour from Surprise Minimization** (2023) <br /> Conor Heins, **Beren Millidge**, Lancelot Da Costa, Richard Mann, Karl Friston, Iain Couzin <br /> [paper](https://arxiv.org/abs/2307.14804)
 
 **Predictive Coding Networks for Temporal Prediction** (2023) <br /> **Beren Millidge**, Mufeng Tang, Mahyar Osanlouy, Rafal Bogacz <br /> [paper](https://www.biorxiv.org/content/biorxiv/early/2023/05/16/2023.05.15.540906.full.pdf)
@@ -68,6 +214,8 @@ Here is a list of my current publications (* means equal contribution). I will t
 **Associative Memories in the Feature Space** (2023) <br /> Tommaso Salvatori, **Beren Millidge**, Yuhang Song, Rafal Bogacz <br /> [paper](https://www.researchgate.net/publication/374324823_Associative_Memories_in_the_Feature_Space)
 
 **From the free energy principle to a confederation of Bayesian mechanics. Reply to comments on" How particular is the physics of the free energy principle?"** (2023) <br /> Miguel Aguilera, **Beren Millidge**, Alexander Tschantz, Christopher Buckley <br />[paper](https://ui.adsabs.harvard.edu/abs/2023PhLRv..44..270A/abstract)
+
+## 2022
 
 **Generalized Predictive Coding: Bayesian Inference in Static and Dynamic models** (2022) <br /> Andre Ofner, **Beren Millidge**, Sebastian Stober <br /> [paper](https://openreview.net/forum?id=qaT_CByg1X5) 
 
@@ -105,6 +253,8 @@ Here is a list of my current publications (* means equal contribution). I will t
 
 **pymdp: A Python library for active inference in discrete state spaces** (2022) <br /> Conor Heins, **Beren Millidge**, Daphne Demekas, Brennan Klein, Karl Friston, Iain Couzin, Alexander Tschantz <br /> [paper](https://arxiv.org/abs/2201.03904) \| [code](https://github.com/infer-actively/pymdp)
 
+## 2021
+
 **Active Inference in Robotics and Artificial Agents: Survey and Challenges** (2021) <br /> Pablo Lanillos, Cristian Meo, Corrado Pezzato, Ajith Anil Meera, Mohamed Baioumy, Wataru Ohata, Alexander Tschantz, **Beren Millidge**, Martijn Wisse, Christopher L. Buckley, Jun Tani <br /> [paper](https://arxiv.org/abs/2112.01871)
 
 **Habitual and Reflective Control in Hierarchical Predictive Coding** (2021) <br /> Paul F Kinghorn, **Beren Millidge**, Christopher L Buckley <br /> [paper](https://arxiv.org/pdf/2109.00866.pdf)
@@ -124,6 +274,8 @@ Here is a list of my current publications (* means equal contribution). I will t
 **Understanding the Origins of Information-Seeking Exploration in Probabilistic Objectives for Control** (2021) <br /> **Beren Millidge**, Alexander Tschantz, Anil Seth, Christopher Buckley <br/> [paper](https://arxiv.org/pdf/2103.06859.pdf) \| [code](https://github.com/BerenMillidge/origins_information_seeking_exploration)
 
 **Neural Kalman Filtering** (2021) <br /> **Beren Millidge**, Alexander Tschantz, Anil Seth, Christopher Buckley <br/> [paper](https://arxiv.org/pdf/2102.10021.pdf) \| [code](https://github.com/BerenMillidge/NeuralKalmanFiltering)
+
+## 2020
 
 **Sophisticated Active Inference: Simulating Anticipatory Affective Dynamics of Imagining Future Events** (2020) <br /> Casper Hesp, Alexander Tschantz, **Beren Millidge**, Maxwell Ramstead, Karl Friston, Ryan Smith <br /> [paper](https://www.researchgate.net/profile/Casper_Hesp2/publication/344750468_Sophisticated_Affective_Inference_Simulating_Anticipatory_Affective_Dynamics_of_Imagining_Future_Events/links/5f8d9cf7458515b7cf8b7aff/Sophisticated-Affective-Inference-Simulating-Anticipatory-Affective-Dynamics-of-Imagining-Future-Events.pdf) <br />
 Published in *IWAI IEEE workshop on Active Inference*
@@ -164,6 +316,8 @@ Alexander Tschantz\*, **Beren Millidge\***, Anil Seth, Christopher Buckley <br/>
 [paper](https://arxiv.org/abs/2002.12636)  \|  [code](https://github.com/alec-tschantz/rl-inference)  <br/>
 Published in *Bridging AI and Cognitive Science (ICLR 2020) workshop*
 
+## 2019
+
 **Deep Active Inference as Variational Policy Gradients** (2019) <br/>
 **Beren Millidge** <br/>
 Published in *Journal of Mathematical Psychology*  <br/>
@@ -189,6 +343,8 @@ Richard Shillcock, **Beren Millidge**, Andrea Ravignani <br/>
 Richard Shillcock, **Beren Millidge**, Andrea Ravignani (2019) <br/>
 Published in *Neurobiology of Speech and Language* <br/>
 [paper](https://elibrary.ru/item.asp?id=39139444)
+
+## 2018
 
 **A Predictive Processing Account of Bottom-Up Visual Saliency Using Cross-Predicting Autoencoders** (2018) <br/>
 **Beren Millidge**, Richard Shillcock <br/>
