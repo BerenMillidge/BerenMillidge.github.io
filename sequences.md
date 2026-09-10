@@ -75,6 +75,7 @@ This provides an expanded and much more detailed sequence of my thinking on alig
 5. [Why Not Just Stop FOOM?]({% post_url 2022-09-30-Why-not-just-stop-foom %})
 6. [Gradient Hacking Is Extremely Difficult]({% post_url 2023-01-21-gradient-hacking-extremely-difficult %})
 7. [Boxing Might Work, but We Won’t Use It]({% post_url 2023-02-15-Boxing-might-work-but-we-wont-use-it %})
+8. [The Biosingularity Alignment Problem seems Harder than AI Alignment]({% post_url 2025-11-30-The-Biosingularity-Alignment-Problem-Seems-Harder-than-AI-Alignment %})
 
 ### Goodhearting, Oversight and Defense in Depth
 
