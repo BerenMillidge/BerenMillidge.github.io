@@ -62,7 +62,7 @@ Much of my PhD and postdoctoral work asked whether powerful learning algorithms 
 
 We were the first to demonstrate that local learning algorithms such as predictive coding can approximate backpropagation on arbitrary computation graphs, demonstrating a potential route for backprop-like algorithms to be implemented in neural circuitry. 
 
-**[Inferring neural activity before plasticity as a foundation for learning beyond backpropagation](https://www.nature.com/articles/s41593-023-01514-1)** (2024 *Nature Neuroscience*)
+**[Inferring neural activity before plasticity as a foundation for learning beyond backpropagation](https://www.nature.com/articles/s41593-023-01514-1)** (2024 *Nature Neuroscience*)  
 Yuhang Song, **Beren Millidge**, Tommaso Salvatori, Thomas Lukasiewicz, Zhenghua Xu & Rafal Bogacz 
 
 We developed *prospective configuration* a novel learning algorithm building upon predictive coding and show that it outperforms backpropagation on online and continual learning tasks. 
@@ -123,7 +123,7 @@ A smaller but recurring line of my research studies associative memory as a gene
 
 Here, we unified a large literature of existing disparate associative memory models and placed them all into a common framework by decomposing retrieval into similarity, separation, and projection operations. We demonstrated that this unification allows the immediate implementation of novel similarity and separation functions that outperformed existing assoiative memory methods. 
 
-**Associative Memories in the Feature Space** (2023; ECAI 2023)  
+**[Associative Memories in the Feature Space](https://journals.sagepub.com/doi/pdf/10.3233/FAIA230500)** (2023; ECAI 2023)  
 Tommaso Salvatori, **Beren Millidge**, Yuhang Song, Rafal Bogacz
 
 We demonstrate that associative memory models can be made substantially more efficient and performant if the associative operation is performed upon a learnt latent feature space rather than in raw input/output space. We demonstrate that such latent associative memories outperform then-current methods operating on the output space. 
