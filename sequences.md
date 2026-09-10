@@ -34,12 +34,12 @@ The posts are ordered conceptually rather than chronologically.
 10. [Maximum Entropy Morality, Metaplastic Constitutionalism, and the Dynamic Virtues]({% post_url 2026-08-07-Maximum-Entropy-Morality-Metaplastic-Constitutionalism-And-The-Dynamic-Virtues %})
 
 ### Post-AGI minds and civilizations
-10. [The Singularity as Cognitive Decoupling]({% post_url 2023-04-10-the-singularity-as-cognitive-decoupling %})
-11. [The Ultimate Limits of Alignment Determine the Shape of the Long Term Future]({% post_url 2022-08-16-Ultimate-limits-alignment %})
-12. [BCIs and the Ecosystem of Modular Minds]({% post_url 2023-04-23-Composable-latent-spaces-BCIs-modular-minds %})
-13. [AI Monotheism vs AI Polytheism]({% post_url 2026-01-07-AI-Monotheism-vs-AI-Polytheism %})
-14. [When Does Competition Lead to Recognizable Values?]({% post_url 2026-01-12-When-Does-Competition-Lead-to-Recognizable-Values %})
-15. [Autarkic Agency Will Likely Migrate Upwards]({% post_url 2026-07-13-Autarkic-Agency-Will-Likely-Migrate-Upwards %})
+11. [The Singularity as Cognitive Decoupling]({% post_url 2023-04-10-the-singularity-as-cognitive-decoupling %})
+12. [The Ultimate Limits of Alignment Determine the Shape of the Long Term Future]({% post_url 2022-08-16-Ultimate-limits-alignment %})
+13. [BCIs and the Ecosystem of Modular Minds]({% post_url 2023-04-23-Composable-latent-spaces-BCIs-modular-minds %})
+14. [AI Monotheism vs AI Polytheism]({% post_url 2026-01-07-AI-Monotheism-vs-AI-Polytheism %})
+15. [When Does Competition Lead to Recognizable Values?]({% post_url 2026-01-12-When-Does-Competition-Lead-to-Recognizable-Values %})
+16. [Autarkic Agency Will Likely Migrate Upwards]({% post_url 2026-07-13-Autarkic-Agency-Will-Likely-Migrate-Upwards %})
 
 ---
 
@@ -77,7 +77,7 @@ This provides an expanded and much more detailed sequence of my thinking on alig
 7. [Boxing Might Work, but We Won’t Use It]({% post_url 2023-02-15-Boxing-might-work-but-we-wont-use-it %})
 8. [The Biosingularity Alignment Problem seems Harder than AI Alignment]({% post_url 2025-11-30-The-Biosingularity-Alignment-Problem-Seems-Harder-than-AI-Alignment %})
 
-### Goodhearting, Oversight and Defense in Depth
+### Goodharting, Oversight and Defense in Depth
 
 1. [The Solution to Alignment Is Many, Not One]({% post_url 2023-02-19-The-solution-to-alignment-is-many-not-one %})
 2. [Validator Models: A Simple Approach to Detecting and Counteracting Goodharting]({% post_url 2023-02-19-validator-models-simple-approach-detecting-goodhearting %})
