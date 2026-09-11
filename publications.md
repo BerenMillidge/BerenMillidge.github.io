@@ -141,7 +141,7 @@ We developed a novel page-rank inspired RAG mechanism which allowed perfect and 
 
 # All publications
 
-Below is a complete publication record presented in reverse chronological order. I will try to keep this list up to date, however an always up to date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
+Below is a complete publication record presented in reverse chronological order. I will try to keep this list up to date, however an always up-to-date list can be found at my [Google Scholar](https://scholar.google.com/citations?user=3GGkFTkAAAAJ&hl=en&oi=ao).
 
 ## 2026
 
@@ -173,7 +173,7 @@ Below is a complete publication record presented in reverse chronological order.
 
 **Generalizing E-prop to Deep Networks** (2025) <br /> **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2512.24506)
 
-**Training Foundation Models on a Full-Stack AMD Platform: Compute, Networking, and System Design** (2025) <br /> Quentin Anthony, Yury Tokpanov, Skyler Szot, Srivatsan Rajagopal, Praneeth Medepalli,Anna Golubeva, Vasu Shyam, Robert Washbourne, Rishi Iyer, Ansh Chaurasia, Tomas Figliolia, Xiao Yang, Drew Thorstensen, Amartey Pearson, Zack Grossbart,Jason van Patten, Emad Barsoum, Zhenyu Gu, Yao Fu, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2511.17127v1)
+**Training Foundation Models on a Full-Stack AMD Platform: Compute, Networking, and System Design** (2025) <br /> Quentin Anthony, Yury Tokpanov, Skyler Szot, Srivatsan Rajagopal, Praneeth Medepalli, Anna Golubeva, Vasu Shyam, Robert Washbourne, Rishi Iyer, Ansh Chaurasia, Tomas Figliolia, Xiao Yang, Drew Thorstensen, Amartey Pearson, Zack Grossbart, Jason van Patten, Emad Barsoum, Zhenyu Gu, Yao Fu, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2511.17127v1)
 
 **Compressed Convolutional Attention: Efficient Attention in a Compressed Latent Space** (2025) <br /> Tomas Figliolia, Nicholas Alonso, Rishi Iyer, Quentin Anthony, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2510.04476)
 
@@ -237,9 +237,9 @@ Below is a complete publication record presented in reverse chronological order.
 
 **Backpropagation at the Infinitesimal Inference Limit of Energy-Based Models: Unifying Predictive Coding, Equilibrium Propagation, and Contrastive Hebbian Learning** (2022) <br /> **Beren Millidge**, Yuhang Song, Tommaso Salvatori, Thomas Lukasiewicz, Rafal Bogacz <br /> [paper](https://arxiv.org/pdf/2206.02629.pdf) \| [code](https://github.com/BerenMillidge/infinitesimal_inference_limit)
 
-**On Bayesian Mechanis: A physics of and by beliefs** (2022) <br /> Maxwell JD Ramstead, Dalton AR Sakthivadivel, Conor Heins, Magnus Koudahl, **Beren Millidge**, Lancelot Da Costa, Brennan Klein, Karl J Friston <br /> [paper](https://arxiv.org/pdf/2205.11543.pdf)
+**On Bayesian Mechanics: A physics of and by beliefs** (2022) <br /> Maxwell JD Ramstead, Dalton AR Sakthivadivel, Conor Heins, Magnus Koudahl, **Beren Millidge**, Lancelot Da Costa, Brennan Klein, Karl J Friston <br /> [paper](https://arxiv.org/pdf/2205.11543.pdf)
 
-**Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation** (2022) <br /> Yuhang Song, **Beren Millidge**, Tommaso Salvatori,Thomas Lukasiewicz, Zhengua Xu, Rafal Bogacz <br /> [paper](https://www.biorxiv.org/content/biorxiv/early/2022/05/18/2022.05.17.492325.full.pdf) \| [code](https://github.com/YuhangSong/A-New-Perspective)
+**Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation** (2022) <br /> Yuhang Song, **Beren Millidge**, Tommaso Salvatori, Thomas Lukasiewicz, Zhenghua Xu, Rafal Bogacz <br /> [paper](https://www.biorxiv.org/content/biorxiv/early/2022/05/18/2022.05.17.492325.full.pdf) \| [code](https://github.com/YuhangSong/A-New-Perspective)
 
 **Reward Bases: Instantaneous Reward Revaluation with Temporal Difference Learning** (2022) <br /> **Beren Millidge**, Mark Walton, Rafal Bogacz <br /> [paper](https://www.biorxiv.org/content/10.1101/2022.04.14.488361v1) \| [code](https://github.com/BerenMillidge/Reward_Bases)
 
@@ -261,7 +261,7 @@ Below is a complete publication record presented in reverse chronological order.
 
 **A Mathematical Walkthrough and Discussion of the Free Energy Principle** (2021) <br /> **Beren Millidge**, Anil Seth, Christopher Buckley <br /> [paper](https://arxiv.org/abs/2108.13343)
 
-**Predictive Coding: A Theoretical and Experimental Review** (2021) <br /> **Beren Millidge**, Anil Seth, Christoper Buckley <br /> [paper](https://arxiv.org/abs/2107.12979)
+**Predictive Coding: A Theoretical and Experimental Review** (2021) <br /> **Beren Millidge**, Anil Seth, Christopher Buckley <br /> [paper](https://arxiv.org/abs/2107.12979)
 
 **Applications of the Free Energy Principle to Machine Learning and Neuroscience** (2021) <br /> **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2107.00140) \| [code](https://github.com/BerenMillidge/PhD_Thesis)
 
