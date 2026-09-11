@@ -217,6 +217,8 @@ Below is a complete publication record presented in reverse chronological order.
 
 ## 2022
 
+**Interpreting Neural Networks through the Polytope Lens** (2022) <br /> Sid Black, Lee Sharkey, Leo Grinsztajn, Eric Winsor, Dan Braun, Jacob Merizian, Kip Parker, Carlos Ramón Guevara, **Beren Millidge**, Gabriel Alfour, Connor Leahy <br /> [paper](https://arxiv.org/abs/2211.12312)
+
 **Generalized Predictive Coding: Bayesian Inference in Static and Dynamic models** (2022) <br /> Andre Ofner, **Beren Millidge**, Sebastian Stober <br /> [paper](https://openreview.net/forum?id=qaT_CByg1X5) 
 
 **Recurrent predictive coding models for associative memory employing covariance learning** (2022) <br /> Mufeng Tang, Tommaso Salvatori, **Beren Millidge**, Yuhang Song, Thomas Lukasiewicz, Rafal Bogacz <br /> [paper](https://www.biorxiv.org/content/10.1101/2022.11.09.515747v1.abstract)
@@ -224,6 +226,8 @@ Below is a complete publication record presented in reverse chronological order.
 **Incremental Predictive Coding: A Parallel and Fully Automatic Learning Algorithm** (2022) <br /> Tommaso Salvatori, Yuhang Song, **Beren Millidge**, Zhenghua Xu, Lei Sha, Cornelius Emde, Rafal Bogacz, Thomas Lukasiewicz <br /> [paper](https://arxiv.org/abs/2212.00720)
 
 **Predictive Coding Beyond Gaussian Distributions** (2022) <br /> Luca Pinchetti, Tommaso Salvatori, Yordan Yordanov, **Beren Millidge**, Yuhang Song, Thomas Lukasiewicz <br /> [paper](https://arxiv.org/abs/2211.03481)
+
+**Designing ecosystems of intelligence from first principles** (2022) <br /> Karl J Friston, Maxwell JD Ramstead, Alex B Kiefer, Alexander Tschantz, Christopher L Buckley, Mahault Albarracin, Riddhi J Pitliya, Conor Heins, Brennan Klein, **Beren Millidge**, Dalton AR Sakthivadivel, Toby St Clere Smithe, Magnus Koudahl, Safae Essafi Tremblay, Capm Petersen, Kaiser Fung, Jason G Fox, Steven Swanson, Dan Mapes, and Gabriel René <br /> [paper](https://journals.sagepub.com/doi/full/10.1177/26339137231222481)
 
 **Capsule Networks as Generative Models** (2022) <br /> Alex B Kiefer\*, **Beren Millidge\***, Alexander Tschantz\*, Christopher Buckley  <br /> [paper](https://arxiv.org/pdf/2209.02567.pdf) \| [Alex's code](https://github.com/exilefaker/capsnet-experiments),  [my code](https://github.com/BerenMillidge/Sparse_Routing)
 
