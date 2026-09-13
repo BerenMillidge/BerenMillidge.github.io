@@ -5,7 +5,7 @@ subtitle: Selected research programs and full publication list
 permalink: /publications/
 ---
 
-My research has moved between computational neuroscience, biologically plausible learning algorithms, and large-scale foundation models. Broadly I have been attempting to understand how intelligence works in both brains and machines, and specifically understanding questions such as how learning and inference can be implemented in local and asynchronous biological systems, how associative memories work, the underlying fundamental of exploration in RL, and most recently how architectures, data, and training systems come together to build highly capable foundation models across a wide range of modalities. 
+My research has moved between computational neuroscience, biologically plausible learning algorithms, and large-scale foundation models. Broadly I have been attempting to understand how intelligence works in both brains and machines, and specifically understanding questions such as how learning and inference can be implemented in local and asynchronous biological systems, how associative memories work, the underlying origins of exploration in RL, and most recently how architectures, data, and training systems come together to build highly capable foundation models across a wide range of modalities. 
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&oi=ao&user=3GGkFTkAAAAJ) · [GitHub](https://github.com/BerenMillidge) · [Full publication list](#all-publications)
 
@@ -24,12 +24,12 @@ Since cofounding Zyphra, my work has increasingly focused on building and leadin
 **[ZAYA1-8B Technical Report](https://arxiv.org/abs/2605.05365)** (2026)   
 Robert Washbourne, Rishi Iyer, Tomas Figliolia, Henry Zheng, Ryan Lorig-Roach, Sungyeon Yang, Pritish Yuvraj, Quentin Anthony, Yury Tokpanov, Xiao Yang, Ganesh Nanduru, Stephen Ebert, Praneeth Medepalli, Skyler Szot, Srivatsan Rajagopal, Alex Ong, Bhavana Mehta, **Beren Millidge**
 
-This technical report presents our state-of-the-art 8B LLM foundation model that we trained in-house end-to-end including pretraining, midtraining, RL. Uses a novel in-house architecture we developed (CCA and Zaya router). Out performs all contemporary models of its size and is competitive with substantially larger models including then-frontier models in certain mathematics and coding tasks. 
+This technical report presents our state-of-the-art 8B LLM foundation model that we trained in-house end-to-end including pretraining, midtraining, RL. Uses a novel in-house architecture we developed (CCA and Zaya router). ZAYA1-8B outperforms all contemporary models of its size and is competitive with substantially larger models including then-frontier models in certain mathematics and coding tasks. 
 
 **[Training Foundation Models on a Full-Stack AMD Platform: Compute, Networking, and System Design](https://arxiv.org/abs/2511.17127)** (2025)  
 Quentin Anthony, Yury Tokpanov, Skyler Szot, Srivatsan Rajagopal, Praneeth Medepalli, Rishi Iyer, Vasu Shyam, Anna Golubeva, Ansh Chaurasia, Xiao Yang, Tomas Figliolia, Robert Washbourne, Drew Thorstensen, Amartey Pearson, Zack Grossbart, Jason van Patten, Emad Barsoum, Zhenyu Gu, Yao Fu, **Beren Millidge**
 
-A detailed systems paper on our novel full-stack AMD pretraining approach. We are the first to enable large-scale LLM pretraiing on an end-to-end AMD stack of MI300x GPUs and AMD Pollara networking. 
+A detailed systems paper on our novel full-stack AMD pretraining approach. We are the first to enable large-scale LLM pretraining on an end-to-end AMD stack of MI300x GPUs and AMD Pollara networking. 
 
 **[Scaling Adaptive Depth with Norm-Agnostic Residual Networks](https://arxiv.org/abs/2606.16112)** (2026)  
 Tomás Figliolia, **Beren Millidge**
@@ -39,7 +39,7 @@ We introduce norm-agnostic residual streams, a novel method to prevent diminishm
 **[Can Scale Save Us From Plasticity Loss in Large Language Models?](https://arxiv.org/abs/2606.24752)** (2026)  
 J. Fernando Hernandez-Garcia, Tomás Figliolia, **Beren Millidge**
 
-Here we study whether plasticity loss persists in modern language models and how its onset changes with scale. This thus connects continual learning questions to the the current contemporary LLM regime. 
+Here we study whether plasticity loss persists in modern language models and how its onset changes with scale. This thus connects continual learning questions to the current contemporary LLM regime. 
 
 **[The Zamba2 Suite](https://arxiv.org/abs/2411.15242)** (2024)  
 Paolo Glorioso, Quentin Anthony, Yury Tokpanov, Anna Golubeva, Vasudev Shyam, James Whittington, Jonathan Pilault, **Beren Millidge**
@@ -108,7 +108,7 @@ Here, I was the first to 'scale up' active inference to contemporary RL environm
 **[Understanding the Origins of Information-Seeking Exploration in Probabilistic Objectives for Control](https://arxiv.org/abs/2103.06859)** (2021)  
 **Beren Millidge**, Alexander Tschantz, Anil Seth, Christopher Buckley
 
-Here we derive the original of information-seeking objectives in reinforcement learning as deriving from divergence minimizing rather than reward maximizing functionals.
+Here we derive the origin of information-seeking objectives in reinforcement learning as deriving from divergence minimizing rather than reward maximizing functionals.
 
 
 
@@ -121,7 +121,7 @@ A smaller but recurring line of my research studies associative memory as a gene
 **[Universal Hopfield Networks: A General Framework for Single-Shot Associative Memory Models](https://arxiv.org/abs/2202.04557)** (2022; ICML 2022)  
 **Beren Millidge**, Tommaso Salvatori, Yuhang Song, Thomas Lukasiewicz, Rafal Bogacz
 
-Here, we unified a large literature of existing disparate associative memory models and placed them all into a common framework by decomposing retrieval into similarity, separation, and projection operations. We demonstrated that this unification allows the immediate implementation of novel similarity and separation functions that outperformed existing assoiative memory methods. 
+Here, we unified a large literature of existing disparate associative memory models and placed them all into a common framework by decomposing retrieval into similarity, separation, and projection operations. We demonstrated that this unification allows the immediate implementation of novel similarity and separation functions that outperformed existing associative memory methods. 
 
 **[Associative Memories in the Feature Space](https://journals.sagepub.com/doi/pdf/10.3233/FAIA230500)** (2023; ECAI 2023)  
 Tommaso Salvatori, **Beren Millidge**, Yuhang Song, Rafal Bogacz
@@ -131,7 +131,7 @@ We demonstrate that associative memory models can be made substantially more eff
 **[Hybrid Associative Memories](https://arxiv.org/abs/2603.22325)** (2026)  
 Leon Lufkin, Tomas Figliolia, **Beren Millidge**, Kamesh Krishnamurthy
 
-We developed a novel hybrid memory which combined SSMs and full attention in a novel way by using the SSM to process the majority of the seauence while only passing to attention the tokens which are *surprising* to the SSM. We demonstrated that this outperformed existing SSM hybrid methods. 
+We developed a novel hybrid memory which combined SSMs and full attention in a novel way by using the SSM to process the majority of the sequence while only passing to attention the tokens which are *surprising* to the SSM. We demonstrated that this outperformed existing SSM hybrid methods. 
 
 **[Mixture-of-PageRanks: Replacing Long-Context with Real-Time, Sparse GraphRAG](https://arxiv.org/abs/2412.06078)** (2024)  
 Nicholas Alonso, **Beren Millidge**
