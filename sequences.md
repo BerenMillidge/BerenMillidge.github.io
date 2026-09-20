@@ -99,8 +99,9 @@ This provides an expanded and much more detailed sequence of my thinking on alig
 3. [Strong Infohazard Norms Lead to Predictable Failure Modes]({% post_url 2023-08-09-Strong-Infohazard-Norms-Lead-To-Predictable-Failure-Modes %})
 4. [Open Source AI Has Been Vital for Alignment]({% post_url 2023-11-05-Open-source-AI-has-been-vital-for-alignment %})
 5. [My Preliminary Thoughts on AI Safety Regulation]({% post_url 2024-03-04-Preliminary-Thoughts-on-AI-Safety-Regulation %})
-6. [Many Benefits of AGI Could Still be Realized in a Pause]({% post_url 2026-09-08-Many-Benefits-of-AGI-Could-Still-Be-Realized-In-A-Pause %})
-7. [Algorithmic Progress is not Exogenous]({% post_url 2026-09-16-Algorithmic-Progress-is-not-Exogenous %})
+6. [Math Capabilities could be Differentially Good for Alignment]({% post_url 2026-09-06-Math-Capabilities-Could-Be-Differentially-Good-For-Alignment %})
+7. [Many Benefits of AGI Could Still be Realized in a Pause]({% post_url 2026-09-08-Many-Benefits-of-AGI-Could-Still-Be-Realized-In-A-Pause %})
+8. [Algorithmic Progress is not Exogenous]({% post_url 2026-09-16-Algorithmic-Progress-is-not-Exogenous %})
 
 ### Dynamic Alignment and the New Synthesis
 
