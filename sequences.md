@@ -202,6 +202,7 @@ What determines where the boundary of an agent lies as minds become modular, cop
 6. [Autarkic Agency Will Likely Migrate Upwards]({% post_url 2026-07-13-Autarkic-Agency-Will-Likely-Migrate-Upwards %})
 7. [Is Endogenous Exploration Sufficient]({% post_url 2026-07-17-Is-Endogenous-Exploration-Sufficient %})
 8. [Can Individuality Survive in the Limit?]({% post_url 2026-09-09-Can-Individuality-Survive-in-the-limit %})
+9. [History as Information Dynamics]({% post_url 2026-09-20-History-as-Information-Dynamics %})
 
 ### Cosmic Expansion and the Physical Limits on Agency
 
