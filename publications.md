@@ -145,6 +145,8 @@ Below is a complete publication record presented in reverse chronological order.
 
 ## 2026
 
+**How Local Mixing Encodes Relative Position in Global NoPE Attention** (2026) <br /> Cutter Dawes, Nick Alonso, Tom Figliolia, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2609.38109)
+
 **PUFFER: Incremental Fuzzy Deduplication for Continuously Evolving Corpora** (2026) <br /> Xiao Yang, Erik Edward Aldape, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2608.28622)
 
 **ZUNA1.1: A more flexible EEG foundation model for Denoising and Super-resolution** (2026) <br /> Christopher Warner, Jonas Mago, JR Huml, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2607.27308)
