@@ -19,6 +19,7 @@ baseurl: ""
 navbar-links:
   About Me: "aboutme"
   Sequences: "sequences"
+  Archive: "archive"
   Publications: "publications"
   CV: "CV.pdf"
  # Resources:
