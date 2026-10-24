@@ -115,6 +115,7 @@ permalink: /archive/
 </style>
 
 <div class="archive-page">
+  <p class="archive-summary">For curated introductions to the main themes and arguments developed here, see <a href="{{ '/sequences/' | relative_url }}">Sequences</a>.</p>
   <p class="archive-summary">{{ archive_posts.size }} posts, newest first.</p>
 
   <nav class="archive-years" aria-label="Jump to a year">
