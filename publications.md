@@ -145,6 +145,8 @@ Below is a complete publication record presented in reverse chronological order.
 
 ## 2026
 
+**Subquadratic Attention with a Hierarchical Tree-Structured Indexer** (2026) <br /> Leon Lufkin, Cutter Dawes, Alexander Speicher, Kamesh Krishnamurthy, Tomás Figliolia, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2610.42112)
+
 **Expert Coupling in MoE Pretraining: Reducing All-to-All Overhead with Correlated Placement and Token Shuffling** (2026) <br /> Radha Gulhane, Quentin Anthony, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2610.09372)
 
 **How Local Mixing Encodes Relative Position in Global NoPE Attention** (2026) <br /> Cutter Dawes, Nick Alonso, Tom Figliolia, **Beren Millidge** <br /> [paper](https://arxiv.org/abs/2609.38109)
