@@ -1,23 +1,37 @@
+
 ---
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
-    <link>{{ '' | absolute_url }}</link>
-    <atom:link href="{{ 'feed.xml' | absolute_url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:20 %}
+    <link>{{ '/' | absolute_url }}</link>
+    <atom:link href="{{ '/feed.xml' | absolute_url }}"
+               rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+
+    {% assign root_url = '/' | absolute_url %}
+    {% capture absolute_image_prefix %}src="{{ root_url }}{% endcapture %}
+    {% capture absolute_link_prefix %}href="{{ root_url }}{% endcapture %}
+
+    {% for post in site.posts %}
+      {% assign post_html = post.content | markdownify %}
+      {% assign post_html = post_html | replace: 'src="/', absolute_image_prefix | replace: 'href="/', absolute_link_prefix %}
+      {% assign post_html = post_html | replace: ']]>', ']]]]><![CDATA[>' %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>
-          {% if post.subtitle %}{{ post.subtitle | xml_escape }} - {% endif %}
-          {{ post.content | strip_html | xml_escape | truncatewords: 50 }}
-        </description>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ post.url | absolute_url }}</link>
-        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+        <link>{{ post.url | absolute_url | xml_escape }}</link>
+        <guid isPermaLink="true">{{ post.url | absolute_url | xml_escape }}</guid>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <dc:creator>{{ site.author.name | xml_escape }}</dc:creator>
+        <description>{% if post.subtitle %}{{ post.subtitle | xml_escape }}{% else %}{{ post.content | strip_html | truncatewords: 50 | xml_escape }}{% endif %}</description>
+        <content:encoded><![CDATA[{{ post_html }}]]></content:encoded>
       </item>
     {% endfor %}
   </channel>
